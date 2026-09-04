@@ -1,0 +1,15 @@
+# WEBUILD — Entreprise générale de bâtiment à Marseille
+
+> WEBUILD est une entreprise générale de bâtiment intervenant à Marseille pour la rénovation complète d'appartements, maisons, immeubles et locaux professionnels. Tous corps d'état coordonnés par un interlocuteur unique : démolition, gros œuvre, électricité, plomberie, second œuvre. Approche dédiée pour les investisseurs immobiliers, marchands de biens et propriétaires d'immeubles (rénovation avant location ou revente, division, optimisation des surfaces).
+> Contact : 07 66 01 88 26 — contact@webuildmarseille.fr — Marseille et métropole Aix-Marseille. Visite technique gratuite, devis détaillé sous 48h.
+
+## Pages principales
+
+- [Accueil](https://webuildmarseille.fr/) : présentation, expertises, méthode, réalisations avant/après, FAQ, formulaire de devis
+- [Rénovation à Marseille](https://webuildmarseille.fr/renovation-marseille/) : page pilier — tous les types de chantiers, la méthode, les zones d'intervention
+- [Rénovation d'appartements à Marseille](https://webuildmarseille.fr/renovation-appartement-marseille/) : redistribution, réseaux, copropriété, coûts et durées
+- [Rénovation de maisons à Marseille](https://webuildmarseille.fr/renovation-maison-marseille/) : maisons de ville, gros œuvre, extensions, façades
+- [Rénovation d'immeubles à Marseille](https://webuildmarseille.fr/renovation-immeuble-marseille/) : immeubles de rapport, multi-lots, parties communes
+- [Rénovation pour investisseurs à Marseille](https://webuildmarseille.fr/renovation-investisseur-marseille/) : marchands de biens, locatif, division, chiffrage avant achat
+- [Réalisations](https://webuildmarseille.fr/realisations/) : transformations avant/après (visuels d'illustration en attendant les chantiers réels)
+- [À propos](https://webuildmarseille.fr/a-propos/) : l'entreprise, sa méthode, sa zone d'intervention
