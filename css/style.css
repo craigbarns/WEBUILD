@@ -826,3 +826,37 @@ footer a:hover { color: var(--tape); }
     margin-top: 1.5rem;
     max-width: 46rem;
 }
+
+/* BLOC SYNTHÈSE ENTITÉ GEO / MOTEURS IA */
+.geo-card {
+    background: var(--white);
+    border: 1px solid var(--line);
+    border-left: 4px solid var(--tape);
+    padding: 1.5rem 1.75rem;
+    margin: 2.5rem 0 0 0;
+}
+.geo-card p {
+    font-size: .95rem;
+    color: var(--muted);
+    line-height: 1.6;
+}
+.geo-card strong {
+    color: var(--ink);
+}
+.geo-badges {
+    display: flex;
+    flex-wrap: wrap;
+    gap: .5rem;
+    margin-top: 1rem;
+}
+.geo-badge {
+    display: inline-flex;
+    align-items: center;
+    gap: .35rem;
+    font-size: .78rem;
+    font-weight: 600;
+    padding: .3rem .65rem;
+    background: var(--paper);
+    color: var(--ink);
+    border: 1px solid var(--line);
+}

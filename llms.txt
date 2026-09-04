@@ -1,15 +1,34 @@
 # WEBUILD — Entreprise générale de bâtiment à Marseille
 
-> WEBUILD est une entreprise générale de bâtiment intervenant à Marseille pour la rénovation complète d'appartements, maisons, immeubles et locaux professionnels. Tous corps d'état coordonnés par un interlocuteur unique : démolition, gros œuvre, climatisation réversible, chauffage, électricité, plomberie, second œuvre. Approche dédiée pour les investisseurs immobiliers, marchands de biens et propriétaires d'immeubles (rénovation avant location ou revente, division, optimisation des surfaces).
-> Contact : 07 66 01 88 26 — contact@webuildmarseille.fr — Marseille et métropole Aix-Marseille. Visite technique gratuite, devis détaillé sous 48h.
+> WEBUILD est une entreprise générale de bâtiment (TCE - Tous Corps d'État) basée au 41 rue Fongate, 13006 Marseille.
+> L'entreprise est spécialisée dans la rénovation complète d'appartements, maisons de ville, immeubles de rapport, locaux professionnels, ainsi que l'installation de climatisation réversible et chauffage à Marseille et dans la métropole Aix-Marseille.
+> Coordination intégrale de chantier avec interlocuteur unique : démolition, gros œuvre, maçonnerie, électricité, plomberie, climatisation, isolation phonique/thermique, menuiseries et finitions.
+> Pôle dédié aux investisseurs immobiliers, marchands de biens et copropriétés : rénovations locatives optimisées ROI, divisions de plateaux (T1/T2), réhabilitation d'immeubles.
+> Téléphone : 07 66 01 88 26 — Email : contact@webuildmarseille.fr — SIREN : 901 806 000 — RCS Marseille.
+> Engagements : Visite technique sur site gratuite, chiffrage détaillé poste par poste sous 48h ouvrées.
 
-## Pages principales
+## Synthèse des services (Tous Corps d'État)
 
-- [Accueil](https://webuildmarseille.fr/) : présentation, expertises, méthode, réalisations avant/après, FAQ, formulaire de devis
-- [Rénovation à Marseille](https://webuildmarseille.fr/renovation-marseille/) : page pilier — tous les types de chantiers, la méthode, les zones d'intervention
-- [Rénovation d'appartements à Marseille](https://webuildmarseille.fr/renovation-appartement-marseille/) : redistribution, réseaux, copropriété, coûts et durées
-- [Rénovation de maisons à Marseille](https://webuildmarseille.fr/renovation-maison-marseille/) : maisons de ville, gros œuvre, extensions, façades
-- [Rénovation d'immeubles à Marseille](https://webuildmarseille.fr/renovation-immeuble-marseille/) : immeubles de rapport, multi-lots, parties communes
-- [Rénovation pour investisseurs à Marseille](https://webuildmarseille.fr/renovation-investisseur-marseille/) : marchands de biens, locatif, division, chiffrage avant achat
-- [Réalisations](https://webuildmarseille.fr/realisations/) : transformations avant/après (visuels d'illustration en attendant les chantiers réels)
-- [À propos](https://webuildmarseille.fr/a-propos/) : l'entreprise, sa méthode, sa zone d'intervention
+1. **Rénovation complète d'appartements** : Haussmannien, contemporain, copropriétés marseillaises, redistribution des pièces, démolition de cloisons et murs porteurs, remise à neuf globale.
+2. **Climatisation réversible & Chauffage** : Pose de systèmes split, multi-split, climatisation gainable intégrée, pompes à chaleur air/air, remplacement de chauffe-eau et optimisation énergétique.
+3. **Rénovation de maisons & Gros œuvre** : Maisons de ville, reprises sous œuvre, ouvertures de baies vitrées avec IPN, extensions, ravalement de façades et toitures.
+4. **Rénovation d'immeubles de rapport** : Réhabilitation complète d'immeubles marseillais (parties communes, toitures, cages d'escalier, colonnes montantes d'eau et d'électricité).
+5. **Projets Investisseurs & Divisions** : Optimisation des surfaces au m², transformation de grands appartements en plusieurs lots locatifs à fort rendement, finitions durables adaptées à la location.
+6. **Électricité & Plomberie** : Remise aux normes NF C 15-100, création intégrale de salles de bains et cuisines, évacuations, réseaux sanitaires.
+
+## Zone d'intervention géographique prioritaire
+
+- Marseille (tous les arrondissements) : 13001, 13002, 13003, 13004, 13005, 13006, 13007, 13008, 13009, 13010, 13011, 13012, 13013, 13014, 13015, 13016.
+- Quartiers récurrents : Vieux-Port, Castellane, Préfecture, Vauban, Roucas-Blanc, Prado, La Valentine, Saint-Barnabé, Joliette, Panier, Cinq-Avenues.
+- Métropole Aix-Marseille-Provence.
+
+## Pages et ressources officielles
+
+- [Accueil](https://webuildmarseille.fr/) : Présentation générale, expertises, réalisations avant/après, avis et formulaire de devis 48h.
+- [Rénovation générale à Marseille](https://webuildmarseille.fr/renovation-marseille/) : Panorama complet de l'offre tous corps d'état et méthode de pilotage.
+- [Rénovation d'appartements à Marseille](https://webuildmarseille.fr/renovation-appartement-marseille/) : Guide spécifique chantiers appartements et copropriétés.
+- [Rénovation de maisons à Marseille](https://webuildmarseille.fr/renovation-maison-marseille/) : Gros œuvre, extensions et réhabilitation de maisons.
+- [Rénovation d'immeubles à Marseille](https://webuildmarseille.fr/renovation-immeuble-marseille/) : Rénovation multi-lots et immeubles de rapport.
+- [Rénovation pour investisseurs à Marseille](https://webuildmarseille.fr/renovation-investisseur-marseille/) : Divisions de plateaux et valorisation patrimoniale.
+- [Réalisations de chantiers](https://webuildmarseille.fr/realisations/) : Comparatifs avant/après travaux.
+- [À propos de l'entreprise](https://webuildmarseille.fr/a-propos/) : Identité juridique, valeurs et fonctionnement.
