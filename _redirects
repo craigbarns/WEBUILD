@@ -1,0 +1,4 @@
+# Netlify Canonical Domain & HTTPS 301 Redirects
+https://www.webuildmarseille.fr/* https://webuildmarseille.fr/:splat 301!
+http://www.webuildmarseille.fr/* https://webuildmarseille.fr/:splat 301!
+http://webuildmarseille.fr/* https://webuildmarseille.fr/:splat 301!

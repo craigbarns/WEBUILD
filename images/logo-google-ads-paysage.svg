@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 300" width="1200" height="300">
+  <rect width="1200" height="300" fill="#F5F5F2"/>
+  <rect x="250" y="125" width="50" height="50" fill="#E2B10A"/>
+  <text x="330" y="170" font-family="Arial, Helvetica, sans-serif" font-weight="900" font-size="140" letter-spacing="-5" fill="#161412">WEBUILD</text>
+</svg>

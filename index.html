@@ -33,7 +33,14 @@
                 "legalName": "WEBUILD SAS",
                 "taxID": "FR33901806000",
                 "foundingDate": "2021-07-28",
-                "address": { "@type": "PostalAddress", "addressLocality": "Marseille", "addressCountry": "FR" },
+                "address": {
+                    "@type": "PostalAddress",
+                    "streetAddress": "41 rue Fongate",
+                    "postalCode": "13006",
+                    "addressLocality": "Marseille",
+                    "addressRegion": "Provence-Alpes-Côte d'Azur",
+                    "addressCountry": "FR"
+                },
                 "areaServed": [
                     { "@type": "City", "name": "Marseille" },
                     { "@type": "AdministrativeArea", "name": "Métropole Aix-Marseille-Provence" }
@@ -142,22 +149,22 @@
             </div>
         </section>
 
-        <section class="facts" aria-label="Engagements">
+        <section class="facts" aria-label="Engagements et Garanties">
             <div class="fact">
                 <strong>48 h</strong>
-                <span>Devis détaillé, poste par poste, sans engagement.</span>
+                <span>Visite & devis détaillé poste par poste, sans engagement.</span>
             </div>
             <div class="fact">
-                <strong>1</strong>
-                <span>Interlocuteur du premier rendez-vous à la livraison.</span>
+                <strong>100 %</strong>
+                <span>Garantie Décennale & Responsabilité Civile Pro actives.</span>
+            </div>
+            <div class="fact">
+                <strong>1 seul</strong>
+                <span>Interlocuteur dédié du premier plan à la remise des clés.</span>
             </div>
             <div class="fact">
                 <strong>Tous</strong>
-                <span>Corps de métier coordonnés par la même équipe.</span>
-            </div>
-            <div class="fact">
-                <strong>Chaque semaine</strong>
-                <span>Un point clair sur l’avancement du chantier.</span>
+                <span>Corps d'état coordonnés en direct (gros œuvre & finitions).</span>
             </div>
         </section>
 
@@ -173,33 +180,45 @@
                 <ul class="trades">
                     <li class="trade">
                         <img src="images/realisation-appartement.jpg" alt="" loading="lazy">
-                        <h3>Rénovation complète</h3>
-                        <p>Appartements, maisons, immeubles, locaux commerciaux et bureaux. Une transformation menée jusqu’aux finitions.</p>
+                        <div>
+                            <h3><a href="/renovation-appartement-marseille/" style="text-decoration:none;color:inherit;">Rénovation complète d'appartement →</a></h3>
+                            <p>Appartements haussmanniens, contemporains et copropriétés à Marseille. De la redistribution des pièces jusqu'aux finitions soignées.</p>
+                        </div>
                     </li>
                     <li class="trade">
                         <img src="images/realisation-maison.jpg" alt="" loading="lazy">
-                        <h3>Gros œuvre</h3>
-                        <p>Démolition, ouvertures, reprises structurelles, extensions et façades.</p>
-                    </li>
-                    <li class="trade">
-                        <img src="images/realisation-bureaux.jpg" alt="" loading="lazy">
-                        <h3>Électricité</h3>
-                        <p>Rénovation complète, tableaux, mises aux normes, éclairage et réseaux.</p>
-                    </li>
-                    <li class="trade">
-                        <img src="images/realisation-sdb.jpg" alt="" loading="lazy">
-                        <h3>Plomberie</h3>
-                        <p>Création de réseaux, salles de bains, cuisines et évacuations.</p>
-                    </li>
-                    <li class="trade">
-                        <img src="images/realisation-studio.jpg" alt="" loading="lazy">
-                        <h3>Second œuvre</h3>
-                        <p>Placo, isolation, peinture, sols, carrelage et menuiseries.</p>
+                        <div>
+                            <h3><a href="/renovation-maison-marseille/" style="text-decoration:none;color:inherit;">Rénovation & Gros œuvre de maison →</a></h3>
+                            <p>Maisons de ville marseillaises, extensions, ouvertures de murs porteurs, façades et toitures.</p>
+                        </div>
                     </li>
                     <li class="trade">
                         <img src="images/realisation-division.jpg" alt="" loading="lazy">
-                        <h3>Projets investisseurs</h3>
-                        <p>Rénovation d’immeubles et divisions ciblées pour le rendement locatif.</p>
+                        <div>
+                            <h3><a href="/renovation-immeuble-marseille/" style="text-decoration:none;color:inherit;">Rénovation d'immeubles de rapport →</a></h3>
+                            <p>Réhabilitation globale, toitures, cages d'escalier, colonnes montantes et parties communes.</p>
+                        </div>
+                    </li>
+                    <li class="trade">
+                        <img src="images/realisation-bureaux.jpg" alt="" loading="lazy">
+                        <div>
+                            <h3><a href="/renovation-investisseur-marseille/" style="text-decoration:none;color:inherit;">Projets investisseurs & Divisions →</a></h3>
+                            <p>Optimisation du mètre carré, divisions de plateaux en T1/T2, rénovations locatives ciblées ROI.</p>
+                        </div>
+                    </li>
+                    <li class="trade">
+                        <img src="images/realisation-sdb.jpg" alt="" loading="lazy">
+                        <div>
+                            <h3>Plomberie & Sanitaires</h3>
+                            <p>Création de réseaux complets, salles de bains clés en main, cuisines et évacuations aux normes.</p>
+                        </div>
+                    </li>
+                    <li class="trade">
+                        <img src="images/realisation-studio.jpg" alt="" loading="lazy">
+                        <div>
+                            <h3>Électricité & Second œuvre</h3>
+                            <p>Mises aux normes NF C 15-100, tableaux, placo, isolation thermique/phonique, peinture et carrelage.</p>
+                        </div>
                     </li>
                 </ul>
             </div>
@@ -465,7 +484,7 @@
                             <button type="submit" id="devis-submit" class="btn btn-ink" style="width:100%;">
                                 <span id="devis-submit-label">Envoyer ma demande</span>
                             </button>
-                            <p class="form-note">Votre demande nous arrive par email — réponse sous 48 h ouvrées.</p>
+                            <p class="form-note">🔒 Devis gratuit & sans engagement sous 48h ouvrées. Couvert par Garantie Décennale & RC Professionnelle.</p>
                         </div>
                     </form>
                     <div id="devis-success" class="success">
