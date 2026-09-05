@@ -97,8 +97,7 @@ if (devisForm) {
                 body: new URLSearchParams(new FormData(f)).toString()
             });
             if (!res.ok) throw new Error('HTTP ' + res.status);
-            f.style.display = 'none';
-            document.getElementById('devis-success').classList.add('is-on');
+            window.location.href = '/merci-devis/';
         } catch (err) {
             errorBox.classList.add('is-on');
             btn.disabled = false;
