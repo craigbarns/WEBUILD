@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>WEBUILD — Entreprise générale de bâtiment à Marseille | Rénovation, Climatisation & Gros œuvre</title>
+    <title>WEBUILD — Entreprise de rénovation à Marseille</title>
     <meta name="description" content="Entreprise générale de bâtiment à Marseille : rénovation d'appartements, maisons, immeubles, climatisation réversible & chauffage. Interlocuteur unique, devis sous 48h.">
     <link rel="canonical" href="https://webuildmarseille.fr/">
     <meta property="og:title" content="WEBUILD — Entreprise générale de bâtiment à Marseille">
@@ -24,26 +24,36 @@
         "@graph": [
             {
                 "@type": "GeneralContractor",
-                "@id": "https://webuildmarseille.fr/#entreprise",
+                "@id": "https://webuildmarseille.fr/#organization",
                 "name": "WEBUILD",
-                "description": "Entreprise générale de bâtiment à Marseille. Rénovation complète, gros œuvre, climatisation réversible, chauffage, électricité, plomberie, second œuvre.",
+                "legalName": "WEBUILD SAS",
                 "url": "https://webuildmarseille.fr",
                 "telephone": "+33766018826",
                 "email": "contact@webuildmarseille.fr",
-                "legalName": "WEBUILD SAS",
-                "taxID": "FR33901806000",
-                "foundingDate": "2021-07-28",
+                "image": "https://webuildmarseille.fr/images/realisation-appartement.jpg",
                 "address": {
                     "@type": "PostalAddress",
                     "streetAddress": "41 rue Fongate",
                     "postalCode": "13006",
                     "addressLocality": "Marseille",
-                    "addressRegion": "Provence-Alpes-Côte d'Azur",
                     "addressCountry": "FR"
                 },
                 "areaServed": [
                     { "@type": "City", "name": "Marseille" },
                     { "@type": "AdministrativeArea", "name": "Métropole Aix-Marseille-Provence" }
+                ],
+                "identifier": [
+                    { "@type": "PropertyValue", "propertyID": "SIRET", "value": "90180600000013" },
+                    { "@type": "PropertyValue", "propertyID": "VAT", "value": "FR33901806000" }
+                ],
+                "knowsAbout": [
+                    "Rénovation d'appartement",
+                    "Rénovation de maison",
+                    "Rénovation d'immeuble",
+                    "Gros œuvre",
+                    "Climatisation réversible",
+                    "Électricité",
+                    "Plomberie"
                 ]
             },
             {
@@ -51,7 +61,7 @@
                 "@id": "https://webuildmarseille.fr/#site",
                 "url": "https://webuildmarseille.fr",
                 "name": "WEBUILD — Entreprise générale de bâtiment à Marseille",
-                "publisher": { "@id": "https://webuildmarseille.fr/#entreprise" },
+                "publisher": { "@id": "https://webuildmarseille.fr/#organization" },
                 "inLanguage": "fr-FR"
             },
             {
@@ -60,7 +70,7 @@
                 "url": "https://webuildmarseille.fr",
                 "name": "WEBUILD — Entreprise générale de bâtiment à Marseille | Rénovation & Gros œuvre",
                 "isPartOf": { "@id": "https://webuildmarseille.fr/#site" },
-                "about": { "@id": "https://webuildmarseille.fr/#entreprise" },
+                "about": { "@id": "https://webuildmarseille.fr/#organization" },
                 "inLanguage": "fr-FR"
             },
             {
@@ -193,17 +203,6 @@
                     </div>
                     <p class="intro">Vous n’avez pas à assembler des artisans. WEBUILD structure le chantier pour que maçonnerie, réseaux et finitions avancent ensemble — sans que vous ayez à arbitrer entre cinq interlocuteurs.</p>
                 </div>
-
-                <aside class="geo-card" aria-label="Fiche synthétique entreprise">
-                    <p><strong>WEBUILD</strong> est une <strong>entreprise générale de bâtiment (Tous Corps d'État)</strong> domiciliée au <strong>41 rue Fongate, 13006 Marseille</strong>. Spécialisée dans la rénovation complète (appartements, maisons, immeubles, bureaux), la climatisation réversible et la réhabilitation pour investisseurs, WEBUILD assure la maîtrise d’œuvre complète : démolition, gros œuvre, électricité, plomberie, second œuvre et livraison clés en main sous <strong>interlocuteur unique</strong>.</p>
-                    <div class="geo-badges">
-                        <span class="geo-badge">📍 41 rue Fongate, 13006 Marseille</span>
-                        <span class="geo-badge">⏱️ Devis détaillé sous 48h</span>
-                        <span class="geo-badge">❄️ Climatisation réversible & Chauffage</span>
-                        <span class="geo-badge">🏢 Pôle Rénovation Investisseurs</span>
-                        <span class="geo-badge">🔑 Tous Corps d'État (TCE)</span>
-                    </div>
-                </aside>
                 <ul class="trades">
                     <li class="trade">
                         <img src="images/realisation-appartement.jpg" alt="" loading="lazy">

@@ -24,25 +24,36 @@
         "@graph": [
             {
                 "@type": "GeneralContractor",
-                "@id": "https://webuildmarseille.fr/#entreprise",
+                "@id": "https://webuildmarseille.fr/#organization",
                 "name": "WEBUILD",
+                "legalName": "WEBUILD SAS",
                 "url": "https://webuildmarseille.fr",
                 "telephone": "+33766018826",
                 "email": "contact@webuildmarseille.fr",
-                "legalName": "WEBUILD SAS",
-                "taxID": "FR33901806000",
-                "foundingDate": "2021-07-28",
+                "image": "https://webuildmarseille.fr/images/realisation-appartement.jpg",
                 "address": {
                     "@type": "PostalAddress",
                     "streetAddress": "41 rue Fongate",
                     "postalCode": "13006",
                     "addressLocality": "Marseille",
-                    "addressRegion": "Provence-Alpes-Côte d'Azur",
                     "addressCountry": "FR"
                 },
                 "areaServed": [
                     { "@type": "City", "name": "Marseille" },
                     { "@type": "AdministrativeArea", "name": "Métropole Aix-Marseille-Provence" }
+                ],
+                "identifier": [
+                    { "@type": "PropertyValue", "propertyID": "SIRET", "value": "90180600000013" },
+                    { "@type": "PropertyValue", "propertyID": "VAT", "value": "FR33901806000" }
+                ],
+                "knowsAbout": [
+                    "Rénovation d'appartement",
+                    "Rénovation de maison",
+                    "Rénovation d'immeuble",
+                    "Gros œuvre",
+                    "Climatisation réversible",
+                    "Électricité",
+                    "Plomberie"
                 ]
             },
             {
@@ -57,7 +68,7 @@
                 "@id": "https://webuildmarseille.fr/a-propos/#page",
                 "url": "https://webuildmarseille.fr/a-propos/",
                 "name": "À propos — WEBUILD, entreprise générale de bâtiment à Marseille",
-                "about": { "@id": "https://webuildmarseille.fr/#entreprise" },
+                "about": { "@id": "https://webuildmarseille.fr/#organization" },
                 "inLanguage": "fr-FR"
             }
         ]
@@ -154,6 +165,17 @@
                 <h2>Zone d'intervention</h2>
                 <p>WEBUILD intervient dans <strong>tous les arrondissements de Marseille</strong> et dans la métropole Aix-Marseille. La nature des chantiers varie selon les quartiers : appartements anciens à redistribuer dans le centre (1er, 2e, 6e), maisons de ville à reprendre en profondeur (4e, 9e, 10e, 11e, 12e), immeubles de rapport et locaux en pied d'immeuble à transformer. Le détail des types de chantiers se trouve sur la page <a href="/renovation-marseille/">Rénovation à Marseille</a>.</p>
                 <p>Nous travaillons aussi pour les bailleurs, SCI et marchands de biens, avec une approche dédiée présentée sur la page <a href="/renovation-investisseur-marseille/">Rénovation pour investisseurs</a>.</p>
+
+                <h2>Données administratives & légales</h2>
+                <p>Pour assurer une transparence totale auprès de nos clients particuliers, professionnels et investisseurs :</p>
+                <ul>
+                    <li><strong>Raison sociale :</strong> WEBUILD SAS</li>
+                    <li><strong>Siège social :</strong> 41 rue Fongate, 13006 Marseille</li>
+                    <li><strong>SIREN :</strong> 901 806 000 — <strong>SIRET :</strong> 901 806 000 00013</li>
+                    <li><strong>RCS :</strong> Marseille B 901 806 000 (immatriculée le 28/07/2021)</li>
+                    <li><strong>N° TVA intracommunautaire :</strong> FR33901806000</li>
+                    <li><strong>Direction de la publication :</strong> Clément Baranes</li>
+                </ul>
 
                 <h2>Travailler avec WEBUILD</h2>
                 <p>Un projet à Marseille ou dans la métropole ? Appelez le <a href="tel:+33766018826">07 66 01 88 26</a>, écrivez à <a href="mailto:contact@webuildmarseille.fr">contact@webuildmarseille.fr</a> ou passez par le <a href="/#contact">formulaire de contact</a>. La visite sur place est gratuite, le devis détaillé arrive sous 48h.</p>

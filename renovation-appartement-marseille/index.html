@@ -24,32 +24,43 @@
         "@graph": [
             {
                 "@type": "GeneralContractor",
-                "@id": "https://webuildmarseille.fr/#entreprise",
+                "@id": "https://webuildmarseille.fr/#organization",
                 "name": "WEBUILD",
+                "legalName": "WEBUILD SAS",
                 "url": "https://webuildmarseille.fr",
                 "telephone": "+33766018826",
                 "email": "contact@webuildmarseille.fr",
-                "legalName": "WEBUILD SAS",
-                "taxID": "FR33901806000",
-                "foundingDate": "2021-07-28",
+                "image": "https://webuildmarseille.fr/images/realisation-appartement.jpg",
                 "address": {
                     "@type": "PostalAddress",
                     "streetAddress": "41 rue Fongate",
                     "postalCode": "13006",
                     "addressLocality": "Marseille",
-                    "addressRegion": "Provence-Alpes-Côte d'Azur",
                     "addressCountry": "FR"
                 },
                 "areaServed": [
                     { "@type": "City", "name": "Marseille" },
                     { "@type": "AdministrativeArea", "name": "Métropole Aix-Marseille-Provence" }
+                ],
+                "identifier": [
+                    { "@type": "PropertyValue", "propertyID": "SIRET", "value": "90180600000013" },
+                    { "@type": "PropertyValue", "propertyID": "VAT", "value": "FR33901806000" }
+                ],
+                "knowsAbout": [
+                    "Rénovation d'appartement",
+                    "Rénovation de maison",
+                    "Rénovation d'immeuble",
+                    "Gros œuvre",
+                    "Climatisation réversible",
+                    "Électricité",
+                    "Plomberie"
                 ]
             },
             {
                 "@type": "Service",
                 "name": "Rénovation d'appartements à Marseille",
                 "serviceType": "Rénovation complète, redistribution, électricité, plomberie, second œuvre",
-                "provider": { "@id": "https://webuildmarseille.fr/#entreprise" },
+                "provider": { "@id": "https://webuildmarseille.fr/#organization" },
                 "areaServed": { "@type": "City", "name": "Marseille" }
             },
             {
@@ -65,7 +76,7 @@
                 "@id": "https://webuildmarseille.fr/renovation-appartement-marseille/#page",
                 "url": "https://webuildmarseille.fr/renovation-appartement-marseille/",
                 "name": "Rénovation d'appartement à Marseille — Tous corps d'état | WEBUILD",
-                "about": { "@id": "https://webuildmarseille.fr/#entreprise" },
+                "about": { "@id": "https://webuildmarseille.fr/#organization" },
                 "inLanguage": "fr-FR"
             },
             {
