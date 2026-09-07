@@ -10,6 +10,8 @@
  *   Tant qu'un libellé est vide, la conversion correspondante ne se déclenche
  *   pas (aucune erreur, aucune remontée parasite dans Google Ads).
  */
+// ⚠ /js/* est servi en cache immutable un an (netlify.toml) : penser à incrémenter
+// le ?v= des balises <script src="/js/conversions.js?v=N"> à chaque modification.
 const ADS_ID = 'AW-18429932319';
 
 const LABELS = {
