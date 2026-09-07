@@ -15,7 +15,7 @@
 const ADS_ID = 'AW-18429932319';
 
 const LABELS = {
-    formulaire: '', // action « Devis - Formulaire »  → page /merci-devis/
+    formulaire: 'zp-6CMuoovAcEJ_midRE', // action « Devis - Formulaire »  → page /merci-devis/
     telephone:  '', // action « Devis - Appel tel »   → clic sur un lien tel:
     whatsapp:   ''  // action « Devis - WhatsApp »    → clic sur un lien wa.me
 };
