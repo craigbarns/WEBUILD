@@ -1,0 +1,621 @@
+{
+  "date": "2026-09-13T14:31:51.435Z",
+  "pagesAndViewports": 84,
+  "widths": [
+    320,
+    390,
+    768,
+    1440
+  ],
+  "errors": [],
+  "verified": [
+    "layout overflow",
+    "metadata/H1 render",
+    "image loading",
+    "consent/refusal",
+    "mobile menu/Escape",
+    "comparison keyboard controls",
+    "native FAQ",
+    "POST failure/retry",
+    "multipart attachment",
+    "one lead after mocked successful POST",
+    "direct thank-you/reload not a lead",
+    "no form PII in events",
+    "allowlisted campaign attribution without free query text",
+    "HTML and native form without JavaScript"
+  ],
+  "limitations": [
+    "Form backend mocked locally; actual Netlify receipt and notification not sent or verified.",
+    "Not a field Core Web Vitals measurement."
+  ],
+  "records": [
+    {
+      "route": "/renovation-marseille/",
+      "width": 320,
+      "h1": "Quels travaux de rénovation à Marseille ?",
+      "overflow": false,
+      "imagesBroken": []
+    },
+    {
+      "route": "/renovation-appartement-marseille/",
+      "width": 320,
+      "h1": "Rénovation d’appartement à Marseille",
+      "overflow": false,
+      "imagesBroken": []
+    },
+    {
+      "route": "/renovation-immeuble-marseille/",
+      "width": 320,
+      "h1": "Rénovation d’immeuble à Marseille",
+      "overflow": false,
+      "imagesBroken": []
+    },
+    {
+      "route": "/renovation-investisseur-marseille/",
+      "width": 320,
+      "h1": "Travaux pour investisseurs immobiliers à Marseille",
+      "overflow": false,
+      "imagesBroken": []
+    },
+    {
+      "route": "/maconnerie-gros-oeuvre-marseille/",
+      "width": 320,
+      "h1": "Maçonnerie et gros œuvre à Marseille",
+      "overflow": false,
+      "imagesBroken": []
+    },
+    {
+      "route": "/second-oeuvre-marseille/",
+      "width": 320,
+      "h1": "Travaux de second œuvre à Marseille",
+      "overflow": false,
+      "imagesBroken": []
+    },
+    {
+      "route": "/renovation-maison-marseille/",
+      "width": 320,
+      "h1": "Préparer la rénovation d’une maison à Marseille",
+      "overflow": false,
+      "imagesBroken": []
+    },
+    {
+      "route": "/zones-intervention/",
+      "width": 320,
+      "h1": "Travaux et rénovation à Marseille",
+      "overflow": false,
+      "imagesBroken": []
+    },
+    {
+      "route": "/guides/budget-renovation-appartement-marseille/",
+      "width": 320,
+      "h1": "Préparer un budget de rénovation d’appartement à Marseille",
+      "overflow": false,
+      "imagesBroken": []
+    },
+    {
+      "route": "/guides/etapes-renovation-appartement/",
+      "width": 320,
+      "h1": "Les étapes d’une rénovation complète d’appartement",
+      "overflow": false,
+      "imagesBroken": []
+    },
+    {
+      "route": "/guides/choisir-entreprise-renovation-marseille/",
+      "width": 320,
+      "h1": "Comment choisir une entreprise de rénovation à Marseille ?",
+      "overflow": false,
+      "imagesBroken": []
+    },
+    {
+      "route": "/guides/travaux-avant-location/",
+      "width": 320,
+      "h1": "Quels travaux prévoir avant de louer un appartement ?",
+      "overflow": false,
+      "imagesBroken": []
+    },
+    {
+      "route": "/guides/",
+      "width": 320,
+      "h1": "Préparer votre projet de rénovation",
+      "overflow": false,
+      "imagesBroken": []
+    },
+    {
+      "route": "/",
+      "width": 320,
+      "h1": "Entreprise de travaux et rénovation à Marseille",
+      "overflow": false,
+      "imagesBroken": []
+    },
+    {
+      "route": "/a-propos/",
+      "width": 320,
+      "h1": "WEBUILD, entreprise de travaux à Marseille",
+      "overflow": false,
+      "imagesBroken": []
+    },
+    {
+      "route": "/contact/",
+      "width": 320,
+      "h1": "Demander un devis de travaux à Marseille",
+      "overflow": false,
+      "imagesBroken": []
+    },
+    {
+      "route": "/realisations/",
+      "width": 320,
+      "h1": "Réalisations : les références à documenter",
+      "overflow": false,
+      "imagesBroken": []
+    },
+    {
+      "route": "/mentions-legales/",
+      "width": 320,
+      "h1": "Mentions légales",
+      "overflow": false,
+      "imagesBroken": []
+    },
+    {
+      "route": "/confidentialite/",
+      "width": 320,
+      "h1": "Données personnelles et cookies",
+      "overflow": false,
+      "imagesBroken": []
+    },
+    {
+      "route": "/merci-devis/",
+      "width": 320,
+      "h1": "Merci. Votre demande de chantier est bien reçue.",
+      "overflow": false,
+      "imagesBroken": []
+    },
+    {
+      "route": "/404.html",
+      "width": 320,
+      "h1": "Cette page n'existe pas (ou plus).",
+      "overflow": false,
+      "imagesBroken": []
+    },
+    {
+      "route": "/renovation-marseille/",
+      "width": 390,
+      "h1": "Quels travaux de rénovation à Marseille ?",
+      "overflow": false,
+      "imagesBroken": []
+    },
+    {
+      "route": "/renovation-appartement-marseille/",
+      "width": 390,
+      "h1": "Rénovation d’appartement à Marseille",
+      "overflow": false,
+      "imagesBroken": []
+    },
+    {
+      "route": "/renovation-immeuble-marseille/",
+      "width": 390,
+      "h1": "Rénovation d’immeuble à Marseille",
+      "overflow": false,
+      "imagesBroken": []
+    },
+    {
+      "route": "/renovation-investisseur-marseille/",
+      "width": 390,
+      "h1": "Travaux pour investisseurs immobiliers à Marseille",
+      "overflow": false,
+      "imagesBroken": []
+    },
+    {
+      "route": "/maconnerie-gros-oeuvre-marseille/",
+      "width": 390,
+      "h1": "Maçonnerie et gros œuvre à Marseille",
+      "overflow": false,
+      "imagesBroken": []
+    },
+    {
+      "route": "/second-oeuvre-marseille/",
+      "width": 390,
+      "h1": "Travaux de second œuvre à Marseille",
+      "overflow": false,
+      "imagesBroken": []
+    },
+    {
+      "route": "/renovation-maison-marseille/",
+      "width": 390,
+      "h1": "Préparer la rénovation d’une maison à Marseille",
+      "overflow": false,
+      "imagesBroken": []
+    },
+    {
+      "route": "/zones-intervention/",
+      "width": 390,
+      "h1": "Travaux et rénovation à Marseille",
+      "overflow": false,
+      "imagesBroken": []
+    },
+    {
+      "route": "/guides/budget-renovation-appartement-marseille/",
+      "width": 390,
+      "h1": "Préparer un budget de rénovation d’appartement à Marseille",
+      "overflow": false,
+      "imagesBroken": []
+    },
+    {
+      "route": "/guides/etapes-renovation-appartement/",
+      "width": 390,
+      "h1": "Les étapes d’une rénovation complète d’appartement",
+      "overflow": false,
+      "imagesBroken": []
+    },
+    {
+      "route": "/guides/choisir-entreprise-renovation-marseille/",
+      "width": 390,
+      "h1": "Comment choisir une entreprise de rénovation à Marseille ?",
+      "overflow": false,
+      "imagesBroken": []
+    },
+    {
+      "route": "/guides/travaux-avant-location/",
+      "width": 390,
+      "h1": "Quels travaux prévoir avant de louer un appartement ?",
+      "overflow": false,
+      "imagesBroken": []
+    },
+    {
+      "route": "/guides/",
+      "width": 390,
+      "h1": "Préparer votre projet de rénovation",
+      "overflow": false,
+      "imagesBroken": []
+    },
+    {
+      "route": "/",
+      "width": 390,
+      "h1": "Entreprise de travaux et rénovation à Marseille",
+      "overflow": false,
+      "imagesBroken": []
+    },
+    {
+      "route": "/a-propos/",
+      "width": 390,
+      "h1": "WEBUILD, entreprise de travaux à Marseille",
+      "overflow": false,
+      "imagesBroken": []
+    },
+    {
+      "route": "/contact/",
+      "width": 390,
+      "h1": "Demander un devis de travaux à Marseille",
+      "overflow": false,
+      "imagesBroken": []
+    },
+    {
+      "route": "/realisations/",
+      "width": 390,
+      "h1": "Réalisations : les références à documenter",
+      "overflow": false,
+      "imagesBroken": []
+    },
+    {
+      "route": "/mentions-legales/",
+      "width": 390,
+      "h1": "Mentions légales",
+      "overflow": false,
+      "imagesBroken": []
+    },
+    {
+      "route": "/confidentialite/",
+      "width": 390,
+      "h1": "Données personnelles et cookies",
+      "overflow": false,
+      "imagesBroken": []
+    },
+    {
+      "route": "/merci-devis/",
+      "width": 390,
+      "h1": "Merci. Votre demande de chantier est bien reçue.",
+      "overflow": false,
+      "imagesBroken": []
+    },
+    {
+      "route": "/404.html",
+      "width": 390,
+      "h1": "Cette page n'existe pas (ou plus).",
+      "overflow": false,
+      "imagesBroken": []
+    },
+    {
+      "route": "/renovation-marseille/",
+      "width": 768,
+      "h1": "Quels travaux de rénovation à Marseille ?",
+      "overflow": false,
+      "imagesBroken": []
+    },
+    {
+      "route": "/renovation-appartement-marseille/",
+      "width": 768,
+      "h1": "Rénovation d’appartement à Marseille",
+      "overflow": false,
+      "imagesBroken": []
+    },
+    {
+      "route": "/renovation-immeuble-marseille/",
+      "width": 768,
+      "h1": "Rénovation d’immeuble à Marseille",
+      "overflow": false,
+      "imagesBroken": []
+    },
+    {
+      "route": "/renovation-investisseur-marseille/",
+      "width": 768,
+      "h1": "Travaux pour investisseurs immobiliers à Marseille",
+      "overflow": false,
+      "imagesBroken": []
+    },
+    {
+      "route": "/maconnerie-gros-oeuvre-marseille/",
+      "width": 768,
+      "h1": "Maçonnerie et gros œuvre à Marseille",
+      "overflow": false,
+      "imagesBroken": []
+    },
+    {
+      "route": "/second-oeuvre-marseille/",
+      "width": 768,
+      "h1": "Travaux de second œuvre à Marseille",
+      "overflow": false,
+      "imagesBroken": []
+    },
+    {
+      "route": "/renovation-maison-marseille/",
+      "width": 768,
+      "h1": "Préparer la rénovation d’une maison à Marseille",
+      "overflow": false,
+      "imagesBroken": []
+    },
+    {
+      "route": "/zones-intervention/",
+      "width": 768,
+      "h1": "Travaux et rénovation à Marseille",
+      "overflow": false,
+      "imagesBroken": []
+    },
+    {
+      "route": "/guides/budget-renovation-appartement-marseille/",
+      "width": 768,
+      "h1": "Préparer un budget de rénovation d’appartement à Marseille",
+      "overflow": false,
+      "imagesBroken": []
+    },
+    {
+      "route": "/guides/etapes-renovation-appartement/",
+      "width": 768,
+      "h1": "Les étapes d’une rénovation complète d’appartement",
+      "overflow": false,
+      "imagesBroken": []
+    },
+    {
+      "route": "/guides/choisir-entreprise-renovation-marseille/",
+      "width": 768,
+      "h1": "Comment choisir une entreprise de rénovation à Marseille ?",
+      "overflow": false,
+      "imagesBroken": []
+    },
+    {
+      "route": "/guides/travaux-avant-location/",
+      "width": 768,
+      "h1": "Quels travaux prévoir avant de louer un appartement ?",
+      "overflow": false,
+      "imagesBroken": []
+    },
+    {
+      "route": "/guides/",
+      "width": 768,
+      "h1": "Préparer votre projet de rénovation",
+      "overflow": false,
+      "imagesBroken": []
+    },
+    {
+      "route": "/",
+      "width": 768,
+      "h1": "Entreprise de travaux et rénovation à Marseille",
+      "overflow": false,
+      "imagesBroken": []
+    },
+    {
+      "route": "/a-propos/",
+      "width": 768,
+      "h1": "WEBUILD, entreprise de travaux à Marseille",
+      "overflow": false,
+      "imagesBroken": []
+    },
+    {
+      "route": "/contact/",
+      "width": 768,
+      "h1": "Demander un devis de travaux à Marseille",
+      "overflow": false,
+      "imagesBroken": []
+    },
+    {
+      "route": "/realisations/",
+      "width": 768,
+      "h1": "Réalisations : les références à documenter",
+      "overflow": false,
+      "imagesBroken": []
+    },
+    {
+      "route": "/mentions-legales/",
+      "width": 768,
+      "h1": "Mentions légales",
+      "overflow": false,
+      "imagesBroken": []
+    },
+    {
+      "route": "/confidentialite/",
+      "width": 768,
+      "h1": "Données personnelles et cookies",
+      "overflow": false,
+      "imagesBroken": []
+    },
+    {
+      "route": "/merci-devis/",
+      "width": 768,
+      "h1": "Merci. Votre demande de chantier est bien reçue.",
+      "overflow": false,
+      "imagesBroken": []
+    },
+    {
+      "route": "/404.html",
+      "width": 768,
+      "h1": "Cette page n'existe pas (ou plus).",
+      "overflow": false,
+      "imagesBroken": []
+    },
+    {
+      "route": "/renovation-marseille/",
+      "width": 1440,
+      "h1": "Quels travaux de rénovation à Marseille ?",
+      "overflow": false,
+      "imagesBroken": []
+    },
+    {
+      "route": "/renovation-appartement-marseille/",
+      "width": 1440,
+      "h1": "Rénovation d’appartement à Marseille",
+      "overflow": false,
+      "imagesBroken": []
+    },
+    {
+      "route": "/renovation-immeuble-marseille/",
+      "width": 1440,
+      "h1": "Rénovation d’immeuble à Marseille",
+      "overflow": false,
+      "imagesBroken": []
+    },
+    {
+      "route": "/renovation-investisseur-marseille/",
+      "width": 1440,
+      "h1": "Travaux pour investisseurs immobiliers à Marseille",
+      "overflow": false,
+      "imagesBroken": []
+    },
+    {
+      "route": "/maconnerie-gros-oeuvre-marseille/",
+      "width": 1440,
+      "h1": "Maçonnerie et gros œuvre à Marseille",
+      "overflow": false,
+      "imagesBroken": []
+    },
+    {
+      "route": "/second-oeuvre-marseille/",
+      "width": 1440,
+      "h1": "Travaux de second œuvre à Marseille",
+      "overflow": false,
+      "imagesBroken": []
+    },
+    {
+      "route": "/renovation-maison-marseille/",
+      "width": 1440,
+      "h1": "Préparer la rénovation d’une maison à Marseille",
+      "overflow": false,
+      "imagesBroken": []
+    },
+    {
+      "route": "/zones-intervention/",
+      "width": 1440,
+      "h1": "Travaux et rénovation à Marseille",
+      "overflow": false,
+      "imagesBroken": []
+    },
+    {
+      "route": "/guides/budget-renovation-appartement-marseille/",
+      "width": 1440,
+      "h1": "Préparer un budget de rénovation d’appartement à Marseille",
+      "overflow": false,
+      "imagesBroken": []
+    },
+    {
+      "route": "/guides/etapes-renovation-appartement/",
+      "width": 1440,
+      "h1": "Les étapes d’une rénovation complète d’appartement",
+      "overflow": false,
+      "imagesBroken": []
+    },
+    {
+      "route": "/guides/choisir-entreprise-renovation-marseille/",
+      "width": 1440,
+      "h1": "Comment choisir une entreprise de rénovation à Marseille ?",
+      "overflow": false,
+      "imagesBroken": []
+    },
+    {
+      "route": "/guides/travaux-avant-location/",
+      "width": 1440,
+      "h1": "Quels travaux prévoir avant de louer un appartement ?",
+      "overflow": false,
+      "imagesBroken": []
+    },
+    {
+      "route": "/guides/",
+      "width": 1440,
+      "h1": "Préparer votre projet de rénovation",
+      "overflow": false,
+      "imagesBroken": []
+    },
+    {
+      "route": "/",
+      "width": 1440,
+      "h1": "Entreprise de travaux et rénovation à Marseille",
+      "overflow": false,
+      "imagesBroken": []
+    },
+    {
+      "route": "/a-propos/",
+      "width": 1440,
+      "h1": "WEBUILD, entreprise de travaux à Marseille",
+      "overflow": false,
+      "imagesBroken": []
+    },
+    {
+      "route": "/contact/",
+      "width": 1440,
+      "h1": "Demander un devis de travaux à Marseille",
+      "overflow": false,
+      "imagesBroken": []
+    },
+    {
+      "route": "/realisations/",
+      "width": 1440,
+      "h1": "Réalisations : les références à documenter",
+      "overflow": false,
+      "imagesBroken": []
+    },
+    {
+      "route": "/mentions-legales/",
+      "width": 1440,
+      "h1": "Mentions légales",
+      "overflow": false,
+      "imagesBroken": []
+    },
+    {
+      "route": "/confidentialite/",
+      "width": 1440,
+      "h1": "Données personnelles et cookies",
+      "overflow": false,
+      "imagesBroken": []
+    },
+    {
+      "route": "/merci-devis/",
+      "width": 1440,
+      "h1": "Merci. Votre demande de chantier est bien reçue.",
+      "overflow": false,
+      "imagesBroken": []
+    },
+    {
+      "route": "/404.html",
+      "width": 1440,
+      "h1": "Cette page n'existe pas (ou plus).",
+      "overflow": false,
+      "imagesBroken": []
+    }
+  ]
+}

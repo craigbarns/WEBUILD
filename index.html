@@ -1,599 +1,394 @@
-<!DOCTYPE html>
-<html lang="fr">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>WEBUILD — Entreprise de rénovation à Marseille</title>
-    <meta name="description" content="Entreprise générale de bâtiment à Marseille : rénovation d'appartements, maisons, immeubles, climatisation réversible & chauffage. Interlocuteur unique, devis sous 48h.">
-    <link rel="canonical" href="https://webuildmarseille.fr/">
-    <meta property="og:title" content="WEBUILD — Entreprise générale de bâtiment à Marseille">
-    <meta property="og:description" content="Spécialiste de la rénovation d'appartements, climatisation, chauffage et projets investisseurs à Marseille. Un interlocuteur unique pour votre chantier.">
-    <meta property="og:type" content="website">
-    <meta property="og:url" content="https://webuildmarseille.fr/">
-    <meta property="og:locale" content="fr_FR">
-    <meta property="og:image" content="https://webuildmarseille.fr/images/realisation-appartement.jpg">
-    <meta name="twitter:card" content="summary_large_image">
-    <meta name="twitter:title" content="WEBUILD — Entreprise générale de bâtiment à Marseille">
-    <meta name="twitter:description" content="Rénovation complète, climatisation, chauffage et projets investisseurs à Marseille. Un interlocuteur unique, devis sous 48h.">
-    <meta name="twitter:image" content="https://webuildmarseille.fr/images/realisation-appartement.jpg">
-    <meta name="theme-color" content="#161412">
-    <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Crect width='32' height='32' fill='%23161412'/%3E%3Crect x='10' y='10' width='12' height='12' fill='%23E2B10A'/%3E%3C/svg%3E">
-    <script type="application/ld+json">
-    {
-        "@context": "https://schema.org",
-        "@graph": [
-            {
-                "@type": "GeneralContractor",
-                "@id": "https://webuildmarseille.fr/#organization",
-                "name": "WEBUILD",
-                "legalName": "WEBUILD SAS",
-                "url": "https://webuildmarseille.fr",
-                "telephone": "+33766018826",
-                "email": "contact@webuildmarseille.fr",
-                "image": "https://webuildmarseille.fr/images/realisation-appartement.jpg",
-                "address": {
-                    "@type": "PostalAddress",
-                    "streetAddress": "41 rue Fongate",
-                    "postalCode": "13006",
-                    "addressLocality": "Marseille",
-                    "addressCountry": "FR"
-                },
-                "areaServed": [
-                    { "@type": "City", "name": "Marseille" },
-                    { "@type": "AdministrativeArea", "name": "Métropole Aix-Marseille-Provence" }
-                ],
-                "identifier": [
-                    { "@type": "PropertyValue", "propertyID": "SIRET", "value": "90180600000013" },
-                    { "@type": "PropertyValue", "propertyID": "VAT", "value": "FR33901806000" }
-                ],
-                "knowsAbout": [
-                    "Rénovation d'appartement",
-                    "Rénovation de maison",
-                    "Rénovation d'immeuble",
-                    "Gros œuvre",
-                    "Climatisation réversible",
-                    "Électricité",
-                    "Plomberie"
-                ]
-            },
-            {
-                "@type": "WebSite",
-                "@id": "https://webuildmarseille.fr/#site",
-                "url": "https://webuildmarseille.fr",
-                "name": "WEBUILD — Entreprise générale de bâtiment à Marseille",
-                "publisher": { "@id": "https://webuildmarseille.fr/#organization" },
-                "inLanguage": "fr-FR"
-            },
-            {
-                "@type": "WebPage",
-                "@id": "https://webuildmarseille.fr/#accueil",
-                "url": "https://webuildmarseille.fr",
-                "name": "WEBUILD — Entreprise générale de bâtiment à Marseille | Rénovation & Gros œuvre",
-                "isPartOf": { "@id": "https://webuildmarseille.fr/#site" },
-                "about": { "@id": "https://webuildmarseille.fr/#organization" },
-                "inLanguage": "fr-FR"
-            },
-            {
-                "@type": "FAQPage",
-                "@id": "https://webuildmarseille.fr/#faq",
-                "isPartOf": { "@id": "https://webuildmarseille.fr/#accueil" },
-                "inLanguage": "fr-FR",
-                "mainEntity": [
-                    { "@type": "Question", "name": "Intervenez-vous dans tout Marseille ?", "acceptedAnswer": { "@type": "Answer", "text": "Oui. WEBUILD intervient dans tous les arrondissements de Marseille et dans la métropole Aix-Marseille. La visite technique sur place est gratuite et sans engagement." } },
-                    { "@type": "Question", "name": "Réalisez-vous des rénovations tous corps d'état ?", "acceptedAnswer": { "@type": "Answer", "text": "Oui. Démolition, gros œuvre, électricité, plomberie et second œuvre sont coordonnés par la même équipe. Vous n'avez pas à chercher ni à arbitrer entre plusieurs artisans." } },
-                    { "@type": "Question", "name": "Combien de temps dure une rénovation complète ?", "acceptedAnswer": { "@type": "Answer", "text": "Cela dépend de la surface, de l'état du bien et de la redistribution des espaces : quelques semaines pour une salle de bains, plusieurs mois pour un appartement complet ou un immeuble. Le planning détaillé est fourni avec le devis." } },
-                    { "@type": "Question", "name": "Pouvez-vous rénover un logement destiné à la location ou à la revente ?", "acceptedAnswer": { "@type": "Answer", "text": "Oui, c'est une de nos spécialités. Nous travaillons régulièrement pour des investisseurs, des marchands de biens et des propriétaires bailleurs, avec un objectif clair : remettre le bien en exploitation vite et au bon niveau de finition." } },
-                    { "@type": "Question", "name": "Peut-on habiter dans le logement pendant les travaux ?", "acceptedAnswer": { "@type": "Answer", "text": "Pour une rénovation complète, c'est déconseillé : coupures d'eau et d'électricité, poussière, accès aux pièces. Pour des travaux partiels, nous pouvons phaser le chantier pour limiter la gêne." } },
-                    { "@type": "Question", "name": "Installez-vous des climatisations réversibles et systèmes de chauffage ?", "acceptedAnswer": { "@type": "Answer", "text": "Oui. WEBUILD dimensionne et installe vos systèmes de climatisation réversible (mono-split, multi-split, gainable intégré dans les faux plafonds) et pompes à chaleur dans le cadre de vos rénovations à Marseille." } },
-                    { "@type": "Question", "name": "Comment obtenir un devis ?", "acceptedAnswer": { "@type": "Answer", "text": "Via le formulaire, par téléphone au 07 66 01 88 26 ou par WhatsApp. Nous venons voir le bien, puis vous recevez un chiffrage détaillé poste par poste sous 48h." } }
-                ]
-            }
-        ]
-    }
-    </script>
-    <link rel="preconnect" href="https://fonts.googleapis.com">
-    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link href="https://fonts.googleapis.com/css2?family=Outfit:wght@400;500;600;700&family=Syne:wght@600;700;800&display=swap" rel="stylesheet">
-    <link rel="stylesheet" href="/css/style.css">
-    <!-- Google tag (gtag.js) -->
-    <script async src="https://www.googletagmanager.com/gtag/js?id=G-ZP6SB36ECH"></script>
-    <script>
-      window.dataLayer = window.dataLayer || [];
-      function gtag(){dataLayer.push(arguments);}
-      gtag('js', new Date());
+<!DOCTYPE html><html lang="fr"><head><link rel="stylesheet" href="/css/fonts.css?v=23131fa47aa3">
+<meta charset="utf-8">
+<meta content="width=device-width, initial-scale=1.0" name="viewport">
+<title>Entreprise de travaux et rénovation à Marseille | WEBUILD</title>
 
-      gtag('config', 'G-ZP6SB36ECH');
-      gtag('config', 'AW-18429932319');
-    </script>
-    <script src="/js/conversions.js?v=2" defer></script>
-</head>
+
+
+
+
+
+
+
+
+
+
+
+<meta content="#161412" name="theme-color">
+<link href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Crect width='32' height='32' fill='%23161412'/%3E%3Crect x='10' y='10' width='12' height='12' fill='%23E2B10A'/%3E%3C/svg%3E" rel="icon">
+
+
+
+
+<link href="/css/style.css?v=8821b441aae6" rel="stylesheet">
+<!-- Google tag (gtag.js) -->
+
+
+
+<script defer="" src="/js/conversions.js?v=f6f5717c7612"></script><link rel="preload" href="/fonts/QGYvz_MVcBeNP4NJtEtqUYLknw.woff2" as="font" type="font/woff2" crossorigin=""><link rel="preload" href="/fonts/8vIH7w4qzmVxm2BL9G78HEY.woff2" as="font" type="font/woff2" crossorigin=""><meta name="description" content="WEBUILD, entreprise de travaux à Marseille : rénovation d’appartements et d’immeubles, maçonnerie, gros œuvre et projets pour propriétaires et investisseurs."><meta name="robots" content="index, follow, max-image-preview:large"><link rel="canonical" href="https://webuildmarseille.fr/"><meta property="og:title" content="Entreprise de travaux et rénovation à Marseille | WEBUILD"><meta property="og:description" content="WEBUILD, entreprise de travaux à Marseille : rénovation d’appartements et d’immeubles, maçonnerie, gros œuvre et projets pour propriétaires et investisseurs."><meta property="og:type" content="website"><meta property="og:url" content="https://webuildmarseille.fr/"><meta property="og:locale" content="fr_FR"><meta property="og:site_name" content="WEBUILD"><meta property="og:image" content="https://webuildmarseille.fr/images/logo-google-ads-paysage.png"><meta property="og:image:alt" content="WEBUILD — travaux et rénovation à Marseille"><meta name="twitter:card" content="summary_large_image"><meta name="twitter:title" content="Entreprise de travaux et rénovation à Marseille | WEBUILD"><meta name="twitter:description" content="WEBUILD, entreprise de travaux à Marseille : rénovation d’appartements et d’immeubles, maçonnerie, gros œuvre et projets pour propriétaires et investisseurs."><meta name="twitter:image" content="https://webuildmarseille.fr/images/logo-google-ads-paysage.png"><meta name="twitter:image:alt" content="Logo WEBUILD"><script type="application/ld+json">{"@context":"https://schema.org","@graph":[{"@type":"GeneralContractor","@id":"https://webuildmarseille.fr/#organization","name":"WEBUILD","description":"WEBUILD est une entreprise de travaux et rénovation à Marseille pour les propriétaires et investisseurs immobiliers.","url":"https://webuildmarseille.fr/","logo":{"@id":"https://webuildmarseille.fr/#logo"},"image":{"@id":"https://webuildmarseille.fr/#logo"},"areaServed":{"@type":"City","name":"Marseille"},"knowsAbout":["Rénovation d’appartement","Rénovation d’immeuble","Maçonnerie","Gros œuvre","Second œuvre","Travaux pour investisseurs immobiliers"]},{"@type":"ImageObject","@id":"https://webuildmarseille.fr/#logo","contentUrl":"https://webuildmarseille.fr/images/logo-google-ads-paysage.png","url":"https://webuildmarseille.fr/images/logo-google-ads-paysage.png","caption":"WEBUILD"},{"@type":"WebSite","@id":"https://webuildmarseille.fr/#site","url":"https://webuildmarseille.fr/","name":"WEBUILD — travaux et rénovation à Marseille","publisher":{"@id":"https://webuildmarseille.fr/#organization"},"inLanguage":"fr-FR"},{"@type":"WebPage","@id":"https://webuildmarseille.fr/#page","url":"https://webuildmarseille.fr/","name":"Entreprise de travaux et rénovation à Marseille | WEBUILD","description":"WEBUILD, entreprise de travaux à Marseille : rénovation d’appartements et d’immeubles, maçonnerie, gros œuvre et projets pour propriétaires et investisseurs.","isPartOf":{"@id":"https://webuildmarseille.fr/#site"},"about":{"@id":"https://webuildmarseille.fr/#organization"},"inLanguage":"fr-FR"}]}</script></head>
 <body>
-    <a class="skip" href="#contenu">Aller au contenu</a>
-
-    <header class="nav" id="nav">
-        <a href="#" class="logo" aria-label="WEBUILD — retour en haut">
-            <span class="mark" aria-hidden="true"></span>
+<a class="skip" href="#contenu">Aller au contenu</a>
+<header class="nav" id="nav">
+<a aria-label="WEBUILD — retour en haut" class="logo" href="#">
+<span aria-hidden="true" class="mark"></span>
             WEBUILD
         </a>
-        <nav class="nav-links" aria-label="Principal">
-            <a href="#expertises">Expertises</a>
-            <a href="#investisseurs">Investisseurs</a>
-            <a href="#realisations">Réalisations</a>
-            <a href="#contact">Contact</a>
-        </nav>
-        <div style="display:flex;align-items:center;gap:.75rem;">
-            <a class="btn-phone-nav" href="tel:+33766018826" aria-label="Appeler directement">
-                <svg width="15" height="15" fill="none" stroke="currentColor" stroke-width="2.2" viewBox="0 0 24 24"><path d="M3 5a2 2 0 012-2h3.28a1 1 0 01.948.684l1.498 4.493a1 1 0 01-.502 1.21l-2.257 1.13a11.042 11.042 0 005.516 5.516l1.13-2.257a1 1 0 011.21-.502l4.493 1.498a1 1 0 01.684.949V19a2 2 0 01-2 2h-1C9.716 21 3 14.284 3 6V5z"/></svg>
-                07 66 01 88 26
-            </a>
-            <a class="btn btn-tape nav-cta" href="#contact">Demander un devis</a>
-        </div>
-        <button class="nav-toggle" id="menu-btn" aria-label="Ouvrir le menu" aria-expanded="false" aria-controls="drawer">
-            <svg id="icon-open" width="22" height="22" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24" aria-hidden="true"><path d="M4 7h16M4 12h16M4 17h16"/></svg>
-            <svg id="icon-close" width="22" height="22" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24" aria-hidden="true" hidden><path d="M6 6l12 12M18 6L6 18"/></svg>
-        </button>
-    </header>
-
-    <div class="drawer" id="drawer">
-        <a href="#expertises">Expertises</a>
-        <a href="#investisseurs">Investisseurs</a>
-        <a href="#realisations">Réalisations</a>
-        <a href="#contact">Contact</a>
-        <a class="btn btn-tape" href="#contact">Demander un devis</a>
-        <a class="btn btn-wa-cta" href="https://wa.me/33766018826?text=Bonjour%2C%20je%20souhaite%20un%20devis%20pour%20des%20travaux." target="_blank" rel="noopener">WhatsApp direct</a>
-        <a class="btn btn-ink" href="tel:+33766018826">Appeler : 07 66 01 88 26</a>
-    </div>
-
-    <main id="contenu">
-        <section class="hero" aria-label="Présentation">
-            <div class="ba" id="hero-slider" style="--pos:80%;" role="slider" aria-label="Comparer l'appartement avant et après travaux" aria-valuemin="0" aria-valuemax="100" aria-valuenow="80" tabindex="0">
-                <img src="images/realisation-appartement.jpg" alt="Séjour rénové avec cuisine ouverte dans un appartement haussmannien de Marseille 6e" fetchpriority="high">
-                <img class="ba-before" src="images/avant-appartement.jpg" alt="Le même appartement avant travaux" fetchpriority="high">
-                <div class="ba-bar">
-                    <div class="ba-knob" aria-hidden="true">
-                        <svg width="18" height="18" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24"><path d="M8 9l-4 3 4 3m8-6l4 3-4 3"/></svg>
-                    </div>
-                </div>
-                <span class="ba-tag ba-tag-avant">Avant</span>
-                <span class="ba-tag ba-tag-apres">Après</span>
-                <span class="ba-hint">Glissez pour comparer</span>
-            </div>
-            <div class="hero-copy">
-                <p class="place">Entreprise générale de bâtiment · Marseille</p>
-                <h1>Un chantier. Un interlocuteur. Jusqu’aux clés.</h1>
-                <p class="lede">Rénovation d’appartements, d’immeubles et de projets investisseurs. Gros œuvre, climatisation réversible, chauffage, électricité, plomberie, finitions : WEBUILD prend tout, de la démolition à la réception.</p>
-                <div class="hero-actions">
-                    <a class="btn btn-tape" href="#contact">Demander un devis</a>
-                    <a class="btn btn-wa-cta" href="https://wa.me/33766018826?text=Bonjour%2C%20je%20souhaite%20un%20devis%20pour%20des%20travaux." target="_blank" rel="noopener">
-                        <svg width="18" height="18" fill="none" stroke="currentColor" stroke-width="2.2" viewBox="0 0 24 24"><path d="M8 12h.01M12 12h.01M16 12h.01M21 12c0 4.418-4.03 8-9 8a9.863 9.863 0 01-4.255-.949L3 20l1.395-3.72C3.512 15.042 3 13.574 3 12c0-4.418 4.03-8 9-8s9 3.582 9 8z"/></svg>
+<nav aria-label="Principal" class="nav-links">
+<a href="/renovation-marseille/">Travaux</a>
+<a href="/renovation-investisseur-marseille/">Investisseurs</a>
+<a href="/realisations/">Réalisations</a>
+<a href="#contact">Contact</a>
+</nav>
+<div style="display:flex;align-items:center;gap:.75rem;">
+<a aria-label="Appeler directement" class="btn-phone-nav" href="tel:+33766018826">
+<svg fill="none" height="15" stroke="currentColor" stroke-width="2.2" viewBox="0 0 24 24" width="15"><path d="M3 5a2 2 0 012-2h3.28a1 1 0 01.948.684l1.498 4.493a1 1 0 01-.502 1.21l-2.257 1.13a11.042 11.042 0 005.516 5.516l1.13-2.257a1 1 0 011.21-.502l4.493 1.498a1 1 0 01.684.949V19a2 2 0 01-2 2h-1C9.716 21 3 14.284 3 6V5z"></path></svg>07&nbsp;66&nbsp;01&nbsp;88&nbsp;26</a>
+<a class="btn btn-tape nav-cta" href="#contact">Demander un devis</a>
+</div>
+<button aria-controls="drawer" aria-expanded="false" aria-label="Ouvrir le menu" class="nav-toggle" id="menu-btn" type="button">
+<svg aria-hidden="true" fill="none" height="22" id="icon-open" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24" width="22"><path d="M4 7h16M4 12h16M4 17h16"></path></svg>
+<svg aria-hidden="true" fill="none" height="22" hidden="" id="icon-close" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24" width="22"><path d="M6 6l12 12M18 6L6 18"></path></svg>
+</button>
+</header>
+<div class="drawer" id="drawer">
+<a href="/renovation-marseille/">Travaux</a>
+<a href="/renovation-investisseur-marseille/">Investisseurs</a>
+<a href="/realisations/">Réalisations</a>
+<a href="#contact">Contact</a>
+<a class="btn btn-tape" href="#contact">Demander un devis</a>
+<a class="btn btn-wa-cta" href="https://wa.me/33766018826?text=Bonjour%2C%20je%20souhaite%20un%20devis%20pour%20des%20travaux." rel="noopener" target="_blank">WhatsApp direct</a>
+<a class="btn btn-ink" href="tel:+33766018826">Appeler&nbsp;:&nbsp;07&nbsp;66&nbsp;01&nbsp;88&nbsp;26</a>
+</div>
+<main id="contenu">
+<section aria-label="Présentation" class="hero">
+<div aria-label="Comparer deux visuels d’illustration" aria-valuemax="100" aria-valuemin="0" aria-valuenow="50" class="ba" id="hero-slider" role="slider" style="--pos:50%;" tabindex="0">
+<img alt="Illustration : Séjour rénové avec cuisine ouverte" fetchpriority="high" height="768" src="images/realisation-appartement.jpg" width="1344">
+<img alt="Illustration : intérieur avant transformation" class="ba-before" fetchpriority="high" height="768" src="images/avant-appartement.jpg" width="1344">
+<div class="ba-bar">
+<div aria-hidden="true" class="ba-knob">
+<svg fill="none" height="18" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24" width="18"><path d="M8 9l-4 3 4 3m8-6l4 3-4 3"></path></svg>
+</div>
+</div>
+<span class="ba-tag ba-tag-avant">Illustration · état initial</span>
+<span class="ba-tag ba-tag-apres">Illustration · aménagement</span>
+<span class="ba-hint">Glissez pour comparer</span>
+</div>
+<div class="hero-copy">
+<p class="place">Entreprise générale de bâtiment · Marseille</p>
+<h1>Entreprise de travaux et rénovation à Marseille</h1>
+<p class="lede">WEBUILD rénove et transforme des appartements et des immeubles à Marseille pour les particuliers, propriétaires et investisseurs. Maçonnerie, gros œuvre, plomberie, électricité et second œuvre selon votre projet.</p>
+<div class="hero-actions">
+<a class="btn btn-tape" href="#contact">Demander un devis</a>
+<a class="btn btn-wa-cta" href="https://wa.me/33766018826?text=Bonjour%2C%20je%20souhaite%20un%20devis%20pour%20des%20travaux." rel="noopener" target="_blank">
+<svg fill="none" height="18" stroke="currentColor" stroke-width="2.2" viewBox="0 0 24 24" width="18"><path d="M8 12h.01M12 12h.01M16 12h.01M21 12c0 4.418-4.03 8-9 8a9.863 9.863 0 01-4.255-.949L3 20l1.395-3.72C3.512 15.042 3 13.574 3 12c0-4.418 4.03-8 9-8s9 3.582 9 8z"></path></svg>
                         WhatsApp direct
                     </a>
-                    <a class="btn btn-ghost" href="tel:+33766018826">
-                        <svg width="17" height="17" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24"><path d="M3 5a2 2 0 012-2h3.28a1 1 0 01.948.684l1.498 4.493a1 1 0 01-.502 1.21l-2.257 1.13a11.042 11.042 0 005.516 5.516l1.13-2.257a1 1 0 011.21-.502l4.493 1.498a1 1 0 01.684.949V19a2 2 0 01-2 2h-1C9.716 21 3 14.284 3 6V5z"/></svg>
-                        07 66 01 88 26
-                    </a>
-                </div>
-                <p class="hero-meta">Appartement · Marseille 6e · 65 m² · 8 semaines</p>
-            </div>
-        </section>
+<a class="btn btn-ghost" href="tel:+33766018826">
+<svg fill="none" height="17" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24" width="17"><path d="M3 5a2 2 0 012-2h3.28a1 1 0 01.948.684l1.498 4.493a1 1 0 01-.502 1.21l-2.257 1.13a11.042 11.042 0 005.516 5.516l1.13-2.257a1 1 0 011.21-.502l4.493 1.498a1 1 0 01.684.949V19a2 2 0 01-2 2h-1C9.716 21 3 14.284 3 6V5z"></path></svg>07&nbsp;66&nbsp;01&nbsp;88&nbsp;26</a>
+</div>
+<p class="hero-meta">Visuel d’illustration — aucune référence de chantier documentée n’est associée à cette image.</p>
+</div>
+</section>
+<section aria-label="WEBUILD en bref" class="facts">
+<div class="fact"><strong>Marseille</strong><span>Entreprise de travaux et rénovation.</span></div>
+<div class="fact"><strong>Appartements</strong><span>Rénovation complète et transformation.</span></div>
+<div class="fact"><strong>Immeubles</strong><span>Travaux sur un bâtiment ou plusieurs lots.</span></div>
+<div class="fact"><strong>Investisseurs</strong><span>Projets avant location ou revente.</span></div>
+</section>
+<section class="section" id="expertises">
+<div class="wrap">
+<div class="trades-head">
+<div>
+<p class="kicker">Ce que nous prenons en charge</p>
+<h2>Des travaux adaptés à votre bien.</h2>
+</div>
+<p class="intro">De la transformation des espaces aux finitions, le périmètre des travaux détermine les corps d’état à mobiliser. Consultez nos prestations pour préparer votre projet.</p>
+</div>
+<ul class="trades">
+<li class="trade">
+<img alt="" decoding="async" height="768" loading="lazy" src="images/realisation-appartement.jpg" width="1344">
+<div>
+<h3><a href="/renovation-appartement-marseille/">Rénovation d’appartement →</a></h3>
+<p>Redistribution, réseaux, cuisine, salle de bains, sols et peinture.</p>
+</div>
+</li>
+<li class="trade">
+<img alt="" decoding="async" height="768" loading="lazy" src="images/realisation-maison.jpg" width="1344">
+<div>
+<h3><a href="/maconnerie-gros-oeuvre-marseille/">Maçonnerie et gros œuvre →</a></h3>
+<p>Ouvrages et transformations structurelles, avec les études nécessaires au projet.</p>
+</div>
+</li>
+<li class="trade">
+<img alt="" decoding="async" height="768" loading="lazy" src="images/realisation-division.jpg" width="1344">
+<div>
+<h3><a href="/renovation-immeuble-marseille/">Rénovation d’immeuble →</a></h3>
+<p>Appartements, plusieurs lots et espaces communs concernés par les travaux.</p>
+</div>
+</li>
+<li class="trade">
+<img alt="" decoding="async" height="768" loading="lazy" src="images/realisation-bureaux.jpg" width="1344">
+<div>
+<h3><a href="/renovation-investisseur-marseille/">Travaux pour investisseurs →</a></h3>
+<p>Bailleurs, marchands de biens : rénovation avant location ou revente.</p>
+</div>
+</li>
+<li class="trade">
+<img alt="" decoding="async" height="768" loading="lazy" src="images/realisation-sdb.jpg" width="1344">
+<div>
+<h3><a href="/second-oeuvre-marseille/">Plomberie, cuisine et salle de bains →</a></h3>
+<p>Implantation des équipements, alimentations et évacuations.</p>
+</div>
+</li>
+<li class="trade">
+<img alt="" decoding="async" height="768" loading="lazy" src="images/realisation-studio.jpg" width="1344">
+<div>
+<h3><a href="/second-oeuvre-marseille/">Électricité et second œuvre →</a></h3>
+<p>Réseaux, placo, isolation, revêtements de sol et peinture.</p>
+</div>
+</li>
+</ul>
+</div>
+</section>
+<figure class="still">
+<img alt="Illustration : intérieur en cours de travaux avec de grandes fenêtres" decoding="async" height="672" loading="lazy" src="images/hero.jpg" width="1536">
+<figcaption>
+<strong>Préparer l’ensemble des interventions.</strong>
+<p>Maçonnerie, réseaux et finitions se préparent ensemble. Visuel d’illustration, sans attribution à un chantier documenté.</p>
+</figcaption>
+</figure>
+<section class="stage" id="investisseurs">
+<img alt="Illustration : façade en pierre avec un échafaudage" decoding="async" height="1152" loading="lazy" src="images/investisseurs.jpg" width="896">
+<div class="stage-panel">
+<p class="kicker" style="color: var(--tape);">Marchands de biens &amp; investisseurs</p>
+<h2>Des travaux pensés pour votre projet immobilier.</h2>
+<p class="lede">Rénovation avant location, avant revente ou transformation de plusieurs appartements : définissez les postes nécessaires et les options de finition.</p>
+<ul><li>Un descriptif des travaux par bien ou par lot</li><li>Des arbitrages entre état initial, usage et finitions</li><li>Une organisation à définir selon les accès et l’occupation</li></ul>
+<div style="display:flex;flex-wrap:wrap;gap:1.25rem;align-items:center;">
+<a class="btn btn-tape" href="#contact">Discuter d’un immeuble</a>
+<a href="/renovation-investisseur-marseille/" style="color:var(--tape);font-weight:600;text-decoration:none;">Découvrir notre approche →</a>
+</div>
+</div>
+</section>
+<section class="section method" id="methode">
+<div class="wrap">
+<p class="kicker">La méthode</p>
+<h2>Préparer les étapes du chantier.</h2>
+<div class="steps">
+<article class="step">
+<h3>Décrire le besoin</h3>
+<p>Localisation, état du bien, travaux souhaités et contraintes.</p>
+</article>
+<article class="step">
+<h3>Définir le périmètre</h3>
+<p>Études éventuelles, prestations incluses et options à chiffrer.</p>
+</article>
+<article class="step">
+<h3>Organiser les interventions</h3>
+<p>Corps d’état, approvisionnements, accès et modalités de suivi à convenir.</p>
+</article>
+<article class="step">
+<h3>Examiner les travaux</h3>
+<p>Réception, points à reprendre et documents selon les modalités convenues.</p>
+</article>
+</div>
+</div>
+</section>
+<section class="section" id="realisations">
+<div class="wrap">
+<div class="works-head"><p class="kicker">Illustrations de transformations</p><h2>Des espaces à repenser.</h2><p class="intro">Ces visuels illustrent des types d’aménagement. Ils ne sont pas présentés comme des chantiers WEBUILD documentés. <a href="/contact/">Parlez-nous de votre projet</a>.</p></div>
+<div class="works">
+<article class="work work-featured">
+<div aria-label="Comparer deux visuels d’illustration" aria-valuemax="100" aria-valuemin="0" aria-valuenow="50" class="ba" role="slider" style="--pos:50%;" tabindex="0">
+<img alt="Illustration : Séjour rénové avec cuisine ouverte" decoding="async" height="768" loading="lazy" src="images/realisation-appartement.jpg" width="1344">
+<img alt="Illustration : intérieur avant transformation" class="ba-before" decoding="async" height="768" loading="lazy" src="images/avant-appartement.jpg" width="1344">
+<div class="ba-bar"><div aria-hidden="true" class="ba-knob"><svg fill="none" height="18" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24" width="18"><path d="M8 9l-4 3 4 3m8-6l4 3-4 3"></path></svg></div></div>
+<span class="ba-tag ba-tag-avant">Illustration · état initial</span>
+<span class="ba-tag ba-tag-apres">Illustration · aménagement</span>
+</div>
+<h3>Appartement et cuisine ouverte</h3>
+<p class="meta">Visuels d’illustration — sans référence de chantier attribuée.</p>
+</article>
+<article class="work">
+<div aria-label="Comparer deux visuels d’illustration" aria-valuemax="100" aria-valuemin="0" aria-valuenow="50" class="ba" role="slider" style="--pos:50%;" tabindex="0">
+<img alt="Illustration : palier aménagé" decoding="async" height="768" loading="lazy" src="images/realisation-division.jpg" width="1344">
+<img alt="Illustration : Le même palier avant travaux" class="ba-before" decoding="async" height="768" loading="lazy" src="images/avant-division.jpg" width="1344">
+<div class="ba-bar"><div aria-hidden="true" class="ba-knob"><svg fill="none" height="18" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24" width="18"><path d="M8 9l-4 3 4 3m8-6l4 3-4 3"></path></svg></div></div>
+<span class="ba-tag ba-tag-avant">Illustration · état initial</span>
+<span class="ba-tag ba-tag-apres">Illustration · aménagement</span>
+</div>
+<h3>Distribution de logements</h3>
+<p class="meta">Visuels d’illustration — sans référence de chantier attribuée.</p>
+</article>
+<article class="work">
+<div aria-label="Comparer deux visuels d’illustration" aria-valuemax="100" aria-valuemin="0" aria-valuenow="50" class="ba" role="slider" style="--pos:50%;" tabindex="0">
+<img alt="Illustration : Salle de bains rénovée avec douche à l’italienne" decoding="async" height="768" loading="lazy" src="images/realisation-sdb.jpg" width="1344">
+<img alt="Illustration : La même salle de bains avant travaux" class="ba-before" decoding="async" height="768" loading="lazy" src="images/avant-sdb.jpg" width="1344">
+<div class="ba-bar"><div aria-hidden="true" class="ba-knob"><svg fill="none" height="18" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24" width="18"><path d="M8 9l-4 3 4 3m8-6l4 3-4 3"></path></svg></div></div>
+<span class="ba-tag ba-tag-avant">Illustration · état initial</span>
+<span class="ba-tag ba-tag-apres">Illustration · aménagement</span>
+</div>
+<h3>Aménagement d’une salle de bains</h3>
+<p class="meta">Visuels d’illustration — sans référence de chantier attribuée.</p>
+</article>
+<article class="work">
+<div aria-label="Comparer deux visuels d’illustration" aria-valuemax="100" aria-valuemin="0" aria-valuenow="50" class="ba" role="slider" style="--pos:50%;" tabindex="0">
+<img alt="Illustration : Façade de maison de ville rénovée" decoding="async" height="768" loading="lazy" src="images/realisation-maison.jpg" width="1344">
+<img alt="Illustration : La même façade avant travaux" class="ba-before" decoding="async" height="768" loading="lazy" src="images/avant-maison.jpg" width="1344">
+<div class="ba-bar"><div aria-hidden="true" class="ba-knob"><svg fill="none" height="18" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24" width="18"><path d="M8 9l-4 3 4 3m8-6l4 3-4 3"></path></svg></div></div>
+<span class="ba-tag ba-tag-avant">Illustration · état initial</span>
+<span class="ba-tag ba-tag-apres">Illustration · aménagement</span>
+</div>
+<h3>Maison de ville</h3>
+<p class="meta">Visuels d’illustration — sans référence de chantier attribuée.</p>
+</article>
+<article class="work">
+<div aria-label="Comparer deux visuels d’illustration" aria-valuemax="100" aria-valuemin="0" aria-valuenow="50" class="ba" role="slider" style="--pos:50%;" tabindex="0">
+<img alt="Illustration : studio aménagé" decoding="async" height="768" loading="lazy" src="images/realisation-studio.jpg" width="1344">
+<img alt="Illustration : Le même studio avant travaux" class="ba-before" decoding="async" height="768" loading="lazy" src="images/avant-studio.jpg" width="1344">
+<div class="ba-bar"><div aria-hidden="true" class="ba-knob"><svg fill="none" height="18" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24" width="18"><path d="M8 9l-4 3 4 3m8-6l4 3-4 3"></path></svg></div></div>
+<span class="ba-tag ba-tag-avant">Illustration · état initial</span>
+<span class="ba-tag ba-tag-apres">Illustration · aménagement</span>
+</div>
+<h3>Aménagement d’un studio</h3>
+<p class="meta">Visuels d’illustration — sans référence de chantier attribuée.</p>
+</article>
+<article class="work" style="grid-column: 1 / -1;">
+<div aria-label="Comparer deux visuels d’illustration" aria-valuemax="100" aria-valuemin="0" aria-valuenow="50" class="ba" role="slider" style="--pos:50%; aspect-ratio: 16 / 7;" tabindex="0">
+<img alt="Illustration : Plateau de bureaux rénové en open space" decoding="async" height="768" loading="lazy" src="images/realisation-bureaux.jpg" width="1344">
+<img alt="Illustration : Le même plateau avant travaux" class="ba-before" decoding="async" height="768" loading="lazy" src="images/avant-bureaux.jpg" width="1344">
+<div class="ba-bar"><div aria-hidden="true" class="ba-knob"><svg fill="none" height="18" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24" width="18"><path d="M8 9l-4 3 4 3m8-6l4 3-4 3"></path></svg></div></div>
+<span class="ba-tag ba-tag-avant">Illustration · état initial</span>
+<span class="ba-tag ba-tag-apres">Illustration · aménagement</span>
+</div>
+<h3>Aménagement de bureaux</h3>
+<p class="meta">Visuels d’illustration — sans référence de chantier attribuée.</p>
+</article>
+</div>
+</div>
+</section>
+<section class="section" style="padding-top: 0;"><div class="wrap"><p class="kicker">Préparer votre choix</p><h2>Les bonnes pièces pour décider.</h2><p class="intro">Identité de l’entreprise, périmètre détaillé, références comparables et justificatifs applicables : des éléments à examiner avant de confier vos travaux.</p><p class="section-link"><a href="/guides/choisir-entreprise-renovation-marseille/">Comment choisir une entreprise de rénovation à Marseille →</a></p></div></section>
+<section aria-label="Questions fréquentes" class="section">
+<div class="wrap">
+<p class="kicker">Questions fréquentes</p>
+<h2>Ce qu'on nous demande avant de signer.</h2>
+<div class="faq"><details><summary>Quels travaux réalise WEBUILD à Marseille ?</summary><p>WEBUILD intervient en rénovation d’appartements et d’immeubles, maçonnerie, gros œuvre, plomberie, électricité, placo, isolation, peinture, sols, cuisines et salles de bains.</p></details><details><summary>Peut-on rénover entièrement un appartement avec une seule entreprise ?</summary><p>Oui. WEBUILD intervient sur plusieurs corps d’état. Le périmètre et les modalités de coordination sont précisés pour votre projet de <a href="/renovation-appartement-marseille/">rénovation d’appartement</a>.</p></details><details><summary>Combien coûte une rénovation complète à Marseille ?</summary><p>Le budget dépend de l’état initial, des accès, des réseaux et des prestations retenues. Consultez notre <a href="/guides/budget-renovation-appartement-marseille/">guide pour préparer un budget</a>, puis demandez un chiffrage adapté.</p></details><details><summary>Combien de temps faut-il pour rénover un appartement ?</summary><p>La durée dépend des études, des travaux, des approvisionnements et des temps techniques. Un calendrier se définit après examen du projet ; aucune durée standard ne convient à tous les biens.</p></details><details><summary>WEBUILD travaille-t-elle pour les investisseurs et marchands de biens ?</summary><p>Oui. Les rénovations avant location ou revente, les transformations et les travaux sur plusieurs appartements font partie des <a href="/renovation-investisseur-marseille/">projets investisseurs</a>.</p></details><details><summary>Comment demander un devis ?</summary><p>Utilisez le formulaire, le téléphone ou WhatsApp. Indiquez le type de bien, sa localisation à Marseille et les travaux souhaités. Des photos ou plans aident à préparer les échanges.</p></details></div>
+</div>
+</section>
+<section class="section contact" id="contact">
+<div class="wrap contact-grid">
+<div>
+<p class="kicker">Votre demande de travaux</p>
+<h2>Décrivez le chantier. On vous rappelle.</h2>
+<p class="intro">Indiquez le type de bien, sa localisation et les travaux souhaités. Ajoutez les précisions que vous connaissez ; le projet sera ensuite étudié avec vous.</p>
+<ul class="channels">
+<li>
+<small>Téléphone</small>
+<a href="tel:+33766018826">07&nbsp;66&nbsp;01&nbsp;88&nbsp;26</a>
+</li>
+<li>
+<small>WhatsApp</small>
+<a href="https://wa.me/33766018826?text=Bonjour%2C%20je%20souhaite%20un%20devis%20pour%20des%20travaux." rel="noopener" target="_blank">Discuter maintenant</a>
+</li>
+<li>
+<small>Email</small>
+<a href="mailto:contact@webuildmarseille.fr">contact@webuildmarseille.fr</a>
+</li>
+<li>
+<small>Zone d’intervention</small>
+<span style="font-weight:600">Marseille</span>
+</li>
+</ul>
+</div>
+<div>
+<form action="/merci-devis/" class="sheet" data-netlify="true" enctype="multipart/form-data" id="devis-form" method="POST" name="devis" netlify-honeypot="bot-field">
+<input name="form-name" type="hidden" value="devis">
+<input aria-label="Ne pas remplir ce champ" autocomplete="off" class="honey" name="bot-field" tabindex="-1" type="text">
+<div class="fields">
+<div class="two fields" style="gap: 1.1rem;">
+<div>
+<label for="nom">Nom *</label>
+<input autocomplete="name" id="nom" name="nom" placeholder="Votre nom" required="" type="text">
+</div>
+<div>
+<label for="telephone">Téléphone *</label>
+<input autocomplete="tel" id="telephone" name="telephone" placeholder="Votre numéro de téléphone" required="" type="tel">
+</div>
+</div>
+<div>
+<label for="email">Email</label>
+<input autocomplete="email" id="email" name="email" placeholder="vous@exemple.fr" type="email">
+</div>
+<div>
+<label for="type-projet">Type de projet *</label>
+<select id="type-projet" name="type-projet" required=""><option value="">Sélectionnez…</option><option>Rénovation d’appartement</option><option>Rénovation d’immeuble</option><option>Maçonnerie et gros œuvre</option><option>Second œuvre</option><option>Projet investisseur</option><option>Autre projet</option></select>
+</div>
+<div>
+<label for="message">Votre projet *</label>
+<textarea id="message" name="message" placeholder="Surface, adresse approximative, délais souhaités…" required="" rows="4"></textarea>
+</div>
+<div><label for="localisation">Quartier ou arrondissement</label><input id="localisation" name="localisation" placeholder="Localisation du projet à Marseille" type="text"></div>
+<details class="project-options"><summary>Ajouter des précisions et une photo ou un plan (facultatif)</summary><div class="fields">
+<div><label for="type-bien">Type de bien</label><select id="type-bien" name="type-bien"><option value="">À préciser</option><option>Appartement</option><option>Immeuble</option><option>Maison</option><option>Local professionnel</option><option>Plusieurs logements</option></select></div>
+<div><label for="surface">Surface approximative (m²)</label><input id="surface" inputmode="decimal" min="1" name="surface" step="any" type="number"></div>
+<div><label for="budget">Budget indicatif, si défini</label><input id="budget" name="budget" placeholder="Montant ou budget à étudier" type="text"></div>
+<div><label for="calendrier">Calendrier souhaité</label><input id="calendrier" name="calendrier" placeholder="Période envisagée ou à définir" type="text"></div>
+<div><label for="document">Photo ou plan (JPG, PNG ou PDF, 7 Mo maximum)</label><input accept="image/jpeg,image/png,application/pdf" aria-describedby="document-help" id="document" name="document" type="file"><p class="field-help" id="document-help">Un seul fichier. Pour plusieurs photos, vous pouvez aussi utiliser WhatsApp.</p></div></div></details><p class="form-error" id="devis-error" role="alert" tabindex="-1">Une erreur est survenue lors de l’envoi. Réessayez, ou appelez-nous au 07 66 01 88 26.</p>
+<button class="btn btn-ink" id="devis-submit" style="width:100%;" type="submit">
+<span id="devis-submit-label">Envoyer ma demande</span>
+</button>
+<p class="form-note">Les informations servent à étudier votre demande. <a href="/confidentialite/">Utilisation de vos données</a>.</p>
+</div>
+</form>
+</div>
+</div>
+</section>
+</main>
+<footer>
+<div class="foot">
+<div>
+<a class="logo" href="#"><span aria-hidden="true" class="mark"></span>WEBUILD</a>
+<p>WEBUILD — entreprise de travaux et rénovation à Marseille. Appartements, immeubles, maçonnerie, gros œuvre et second œuvre pour propriétaires et investisseurs.</p>
+</div>
+<div>
+<p class="footer-heading">Navigation</p>
+<ul><li><a href="/renovation-marseille/">Travaux de rénovation</a></li><li><a href="/renovation-appartement-marseille/">Appartements</a></li><li><a href="/renovation-immeuble-marseille/">Immeubles</a></li><li><a href="/maconnerie-gros-oeuvre-marseille/">Maçonnerie et gros œuvre</a></li><li><a href="/second-oeuvre-marseille/">Second œuvre</a></li><li><a href="/renovation-investisseur-marseille/">Investisseurs</a></li><li><a href="/realisations/">Réalisations</a></li><li><a href="/zones-intervention/">Intervention à Marseille</a></li><li><a href="/guides/">Guides travaux</a></li><li><a href="/a-propos/">À propos</a></li><li><a href="/contact/">Contact</a></li></ul>
+</div>
+<div>
+<p class="footer-heading">Contact</p>
+<ul>
+<li><a href="tel:+33766018826">07&nbsp;66&nbsp;01&nbsp;88&nbsp;26</a></li>
+<li><a href="mailto:contact@webuildmarseille.fr">contact@webuildmarseille.fr</a></li>
+<li>Marseille</li>
+</ul>
+</div>
+</div>
+<div class="legal">
+<p>© <span id="year">2026</span> WEBUILD Marseille. Tous droits réservés.</p>
+<a href="/mentions-legales/">Mentions légales</a>
+<a href="/confidentialite/">Confidentialité</a><button class="cookie-settings" type="button">Gestion des cookies</button></div>
+</footer>
 
-        <section class="facts" aria-label="Engagements">
-            <div class="fact">
-                <strong>48 h</strong>
-                <span>Visite & devis détaillé poste par poste, sans engagement.</span>
-            </div>
-            <div class="fact">
-                <strong>Chaque semaine</strong>
-                <span>Un point clair avec photos sur l'avancement du chantier.</span>
-            </div>
-            <div class="fact">
-                <strong>1 seul</strong>
-                <span>Interlocuteur dédié du premier plan à la remise des clés.</span>
-            </div>
-            <div class="fact">
-                <strong>Tous</strong>
-                <span>Corps d'état coordonnés en direct (gros œuvre & finitions).</span>
-            </div>
-        </section>
-
-        <section id="expertises" class="section">
-            <div class="wrap">
-                <div class="trades-head">
-                    <div>
-                        <p class="kicker">Ce que nous prenons en charge</p>
-                        <h2>Tous les corps de métier, une seule équipe.</h2>
-                    </div>
-                    <p class="intro">Vous n’avez pas à assembler des artisans. WEBUILD structure le chantier pour que maçonnerie, réseaux et finitions avancent ensemble — sans que vous ayez à arbitrer entre cinq interlocuteurs.</p>
-                </div>
-                <ul class="trades">
-                    <li class="trade">
-                        <img src="images/realisation-appartement.jpg" alt="" loading="lazy">
-                        <div>
-                            <h3><a href="/renovation-appartement-marseille/" style="text-decoration:none;color:inherit;">Rénovation complète d'appartement →</a></h3>
-                            <p>Appartements haussmanniens, contemporains et copropriétés à Marseille. De la redistribution des pièces jusqu'aux finitions soignées.</p>
-                        </div>
-                    </li>
-                    <li class="trade">
-                        <img src="images/realisation-maison.jpg" alt="" loading="lazy">
-                        <div>
-                            <h3><a href="/renovation-maison-marseille/" style="text-decoration:none;color:inherit;">Rénovation & Gros œuvre de maison →</a></h3>
-                            <p>Maisons de ville marseillaises, extensions, ouvertures de murs porteurs, façades et toitures.</p>
-                        </div>
-                    </li>
-                    <li class="trade">
-                        <img src="images/realisation-division.jpg" alt="" loading="lazy">
-                        <div>
-                            <h3><a href="/renovation-immeuble-marseille/" style="text-decoration:none;color:inherit;">Rénovation d'immeubles de rapport →</a></h3>
-                            <p>Réhabilitation globale, toitures, cages d'escalier, colonnes montantes et parties communes.</p>
-                        </div>
-                    </li>
-                    <li class="trade">
-                        <img src="images/realisation-bureaux.jpg" alt="" loading="lazy">
-                        <div>
-                            <h3><a href="/renovation-investisseur-marseille/" style="text-decoration:none;color:inherit;">Projets investisseurs & Divisions →</a></h3>
-                            <p>Optimisation du mètre carré, divisions de plateaux en T1/T2, rénovations locatives ciblées ROI.</p>
-                        </div>
-                    </li>
-                    <li class="trade">
-                        <img src="images/realisation-sdb.jpg" alt="" loading="lazy">
-                        <div>
-                            <h3>Plomberie, Chauffage & Climatisation</h3>
-                            <p>Pose de climatisation réversible (mono/multi-split, gainable), pompes à chaleur, chauffe-eau, réseaux de plomberie et sanitaires.</p>
-                        </div>
-                    </li>
-                    <li class="trade">
-                        <img src="images/realisation-studio.jpg" alt="" loading="lazy">
-                        <div>
-                            <h3>Électricité & Second œuvre</h3>
-                            <p>Mises aux normes NF C 15-100, tableaux, placo, isolation thermique/phonique, peinture et carrelage.</p>
-                        </div>
-                    </li>
-                </ul>
-            </div>
-        </section>
-
-        <figure class="still">
-            <img src="images/hero.jpg" alt="Chantier WEBUILD dans un appartement haussmannien de Marseille, lumière du matin dans trois baies en plein cintre" loading="lazy">
-            <figcaption>
-                <strong>Le chantier, sans le décorum.</strong>
-                <p>Ce que vous ne voyez pas depuis le palier : la coordination. Un seul nom sur le planning, du premier mur abattu jusqu’au dernier coup de peinture.</p>
-            </figcaption>
-        </figure>
-
-        <section id="investisseurs" class="stage">
-            <img src="images/investisseurs.jpg" alt="Immeuble en pierre du Vieux-Port en cours de rénovation, échafaudage sur la façade" loading="lazy">
-            <div class="stage-panel">
-                <p class="kicker" style="color: var(--tape);">Marchands de biens & investisseurs</p>
-                <h2>Le délai, c’est le rendement.</h2>
-                <p class="lede">Budget tendu, planning serré, mètres carrés à rentabiliser. On connaît le métier — et on chiffre en conséquence.</p>
-                <ul>
-                    <li>Chiffrage détaillé, poste par poste</li>
-                    <li>Planning resserré pour une mise en location rapide</li>
-                    <li>Optimisation des surfaces pour le ROI</li>
-                </ul>
-                <div style="display:flex;flex-wrap:wrap;gap:1.25rem;align-items:center;">
-                    <a class="btn btn-tape" href="#contact">Discuter d’un immeuble</a>
-                    <a href="/renovation-investisseur-marseille/" style="color:var(--tape);font-weight:600;text-decoration:none;">Découvrir notre approche →</a>
-                </div>
-            </div>
-        </section>
-
-        <section id="methode" class="section method">
-            <div class="wrap">
-                <p class="kicker">La méthode</p>
-                <h2>Quatre temps. Aucune zone d’ombre.</h2>
-                <div class="steps">
-                    <article class="step">
-                        <h3>Visite & écoute</h3>
-                        <p>Nous venons sur place, nous mesurons, nous écoutons vos objectifs. Gratuit, sans engagement.</p>
-                    </article>
-                    <article class="step">
-                        <h3>Devis détaillé</h3>
-                        <p>Un chiffrage poste par poste, clair, envoyé sous 48 h.</p>
-                    </article>
-                    <article class="step">
-                        <h3>Chantier piloté</h3>
-                        <p>Un interlocuteur unique coordonne tous les corps de métier et vous tient informé chaque semaine.</p>
-                    </article>
-                    <article class="step">
-                        <h3>Livraison soignée</h3>
-                        <p>Réception ensemble, finitions vérifiées une à une, chantier rendu propre.</p>
-                    </article>
-                </div>
-            </div>
-        </section>
-
-        <section id="realisations" class="section">
-            <div class="wrap">
-                <div class="works-head">
-                    <p class="kicker">Chantiers livrés</p>
-                    <h2>Ce que le chantier change, vraiment.</h2>
-                    <p class="intro">Glissez le curseur. Ce sont des appartements, des immeubles et des locaux de Marseille — avant, et après WEBUILD.</p>
-                </div>
-                <div class="works">
-                    <article class="work work-featured">
-                        <div class="ba" style="--pos:50%;" role="slider" aria-label="Comparer avant et après travaux" aria-valuemin="0" aria-valuemax="100" aria-valuenow="50" tabindex="0">
-                            <img src="images/realisation-appartement.jpg" alt="Séjour rénové avec cuisine ouverte, Marseille 6e" loading="lazy">
-                            <img class="ba-before" src="images/avant-appartement.jpg" alt="Le même appartement avant travaux" loading="lazy">
-                            <div class="ba-bar"><div class="ba-knob" aria-hidden="true"><svg width="18" height="18" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24"><path d="M8 9l-4 3 4 3m8-6l4 3-4 3"/></svg></div></div>
-                            <span class="ba-tag ba-tag-avant">Avant</span>
-                            <span class="ba-tag ba-tag-apres">Après</span>
-                        </div>
-                        <h3>Rénovation complète d’un appartement</h3>
-                        <p class="meta">Marseille 6e · 65 m² · 8 semaines</p>
-                        <div class="tags"><span>Démolition</span><span>Électricité</span><span>Plomberie</span><span>Peinture</span></div>
-                    </article>
-
-                    <article class="work">
-                        <div class="ba" style="--pos:50%;" role="slider" aria-label="Comparer avant et après travaux" aria-valuemin="0" aria-valuemax="100" aria-valuenow="50" tabindex="0">
-                            <img src="images/realisation-division.jpg" alt="Palier rénové après division d’un plateau, Marseille 1er" loading="lazy">
-                            <img class="ba-before" src="images/avant-division.jpg" alt="Le même palier avant travaux" loading="lazy">
-                            <div class="ba-bar"><div class="ba-knob" aria-hidden="true"><svg width="18" height="18" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24"><path d="M8 9l-4 3 4 3m8-6l4 3-4 3"/></svg></div></div>
-                            <span class="ba-tag ba-tag-avant">Avant</span>
-                            <span class="ba-tag ba-tag-apres">Après</span>
-                        </div>
-                        <h3>Division d’un plateau en deux logements</h3>
-                        <p class="meta">Marseille 1er · 110 m² · 3 mois</p>
-                        <div class="tags"><span>Gros œuvre</span><span>Réseaux</span><span>Second œuvre</span></div>
-                    </article>
-
-                    <article class="work">
-                        <div class="ba" style="--pos:50%;" role="slider" aria-label="Comparer avant et après travaux" aria-valuemin="0" aria-valuemax="100" aria-valuenow="50" tabindex="0">
-                            <img src="images/realisation-sdb.jpg" alt="Salle de bains rénovée avec douche à l’italienne, Marseille 4e" loading="lazy">
-                            <img class="ba-before" src="images/avant-sdb.jpg" alt="La même salle de bains avant travaux" loading="lazy">
-                            <div class="ba-bar"><div class="ba-knob" aria-hidden="true"><svg width="18" height="18" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24"><path d="M8 9l-4 3 4 3m8-6l4 3-4 3"/></svg></div></div>
-                            <span class="ba-tag ba-tag-avant">Avant</span>
-                            <span class="ba-tag ba-tag-apres">Après</span>
-                        </div>
-                        <h3>Rénovation d’une salle de bains</h3>
-                        <p class="meta">Marseille 4e · 8 m² · 3 semaines</p>
-                        <div class="tags"><span>Plomberie</span><span>Carrelage</span><span>Électricité</span></div>
-                    </article>
-
-                    <article class="work">
-                        <div class="ba" style="--pos:50%;" role="slider" aria-label="Comparer avant et après travaux" aria-valuemin="0" aria-valuemax="100" aria-valuenow="50" tabindex="0">
-                            <img src="images/realisation-maison.jpg" alt="Façade de maison de ville rénovée, Marseille 9e" loading="lazy">
-                            <img class="ba-before" src="images/avant-maison.jpg" alt="La même façade avant travaux" loading="lazy">
-                            <div class="ba-bar"><div class="ba-knob" aria-hidden="true"><svg width="18" height="18" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24"><path d="M8 9l-4 3 4 3m8-6l4 3-4 3"/></svg></div></div>
-                            <span class="ba-tag ba-tag-avant">Avant</span>
-                            <span class="ba-tag ba-tag-apres">Après</span>
-                        </div>
-                        <h3>Réhabilitation d’une maison de ville</h3>
-                        <p class="meta">Marseille 9e · 140 m² · 4 mois</p>
-                        <div class="tags"><span>Gros œuvre</span><span>Façade</span><span>Menuiseries</span></div>
-                    </article>
-
-                    <article class="work">
-                        <div class="ba" style="--pos:50%;" role="slider" aria-label="Comparer avant et après travaux" aria-valuemin="0" aria-valuemax="100" aria-valuenow="50" tabindex="0">
-                            <img src="images/realisation-studio.jpg" alt="Studio rénové pour la location, Marseille 5e" loading="lazy">
-                            <img class="ba-before" src="images/avant-studio.jpg" alt="Le même studio avant travaux" loading="lazy">
-                            <div class="ba-bar"><div class="ba-knob" aria-hidden="true"><svg width="18" height="18" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24"><path d="M8 9l-4 3 4 3m8-6l4 3-4 3"/></svg></div></div>
-                            <span class="ba-tag ba-tag-avant">Avant</span>
-                            <span class="ba-tag ba-tag-apres">Après</span>
-                        </div>
-                        <h3>Rénovation d’un studio locatif</h3>
-                        <p class="meta">Marseille 5e · 28 m² · 4 semaines</p>
-                        <div class="tags"><span>Second œuvre</span><span>Cuisine</span><span>Salle d’eau</span></div>
-                    </article>
-
-                    <article class="work" style="grid-column: 1 / -1;">
-                        <div class="ba" style="--pos:50%; aspect-ratio: 16 / 7;" role="slider" aria-label="Comparer avant et après travaux" aria-valuemin="0" aria-valuemax="100" aria-valuenow="50" tabindex="0">
-                            <img src="images/realisation-bureaux.jpg" alt="Plateau de bureaux rénové en open space, Marseille 2e" loading="lazy">
-                            <img class="ba-before" src="images/avant-bureaux.jpg" alt="Le même plateau avant travaux" loading="lazy">
-                            <div class="ba-bar"><div class="ba-knob" aria-hidden="true"><svg width="18" height="18" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24"><path d="M8 9l-4 3 4 3m8-6l4 3-4 3"/></svg></div></div>
-                            <span class="ba-tag ba-tag-avant">Avant</span>
-                            <span class="ba-tag ba-tag-apres">Après</span>
-                        </div>
-                        <h3>Réaménagement de bureaux</h3>
-                        <p class="meta">Marseille 2e · 220 m² · 2 mois</p>
-                        <div class="tags"><span>Cloisons</span><span>Électricité</span><span>Peinture</span></div>
-                    </article>
-                </div>
-            </div>
-        </section>
-
-        <section class="section" style="padding-top: 0;">
-            <div class="wrap">
-                <p class="kicker">Ils nous font confiance</p>
-                <h2>La confiance se pose aussi solide qu’un mur.</h2>
-                <div class="quotes">
-                    <figure>
-                        <blockquote>« Du premier rendez-vous à la remise des clés, un seul interlocuteur et zéro mauvaise surprise. Le résultat est au-delà de ce qu’on espérait. »</blockquote>
-                        <figcaption>Sophie & Marc D. <span>Propriétaires — Marseille 6e</span></figcaption>
-                    </figure>
-                    <figure>
-                        <blockquote>« Délais tenus, budget respecté. L’immeuble divisé a été reloué en une semaine. Je ne travaille plus qu’avec eux. »</blockquote>
-                        <figcaption>Karim B. <span>Marchand de biens — Marseille 1er</span></figcaption>
-                    </figure>
-                    <figure>
-                        <blockquote>« Une équipe rigoureuse, un chantier propre et des finitions impeccables. Une vraie relation de confiance. »</blockquote>
-                        <figcaption>Claire V. <span>Architecte — Marseille 7e</span></figcaption>
-                    </figure>
-                </div>
-            </div>
-        </section>
-
-        <section class="section" aria-label="Questions fréquentes">
-            <div class="wrap">
-                <p class="kicker">Questions fréquentes</p>
-                <h2>Ce qu'on nous demande avant de signer.</h2>
-                <div class="faq">
-                    <details>
-                        <summary>Intervenez-vous dans tout Marseille ?</summary>
-                        <p>Oui. WEBUILD intervient dans tous les arrondissements de Marseille et dans la métropole Aix-Marseille. La visite technique sur place est gratuite et sans engagement.</p>
-                    </details>
-                    <details>
-                        <summary>Réalisez-vous des rénovations tous corps d'état ?</summary>
-                        <p>Oui. Démolition, gros œuvre, électricité, plomberie et second œuvre sont coordonnés par la même équipe. Vous n'avez pas à chercher ni à arbitrer entre plusieurs artisans.</p>
-                    </details>
-                    <details>
-                        <summary>Combien de temps dure une rénovation complète ?</summary>
-                        <p>Cela dépend de la surface, de l'état du bien et de la redistribution des espaces : quelques semaines pour une salle de bains, plusieurs mois pour un appartement complet ou un immeuble. Le planning détaillé est fourni avec le devis.</p>
-                    </details>
-                    <details>
-                        <summary>Pouvez-vous rénover un logement destiné à la location ou à la revente ?</summary>
-                        <p>Oui, c'est une de nos spécialités. Nous travaillons régulièrement pour des investisseurs, des marchands de biens et des propriétaires bailleurs, avec un objectif clair : remettre le bien en exploitation vite et au bon niveau de finition. <a href="/renovation-investisseur-marseille/" style="color:var(--ink);font-weight:600;">Voir notre approche investisseurs</a>.</p>
-                    </details>
-                    <details>
-                        <summary>Peut-on habiter dans le logement pendant les travaux ?</summary>
-                        <p>Pour une rénovation complète, c'est déconseillé : coupures d'eau et d'électricité, poussière, accès aux pièces. Pour des travaux partiels, nous pouvons phaser le chantier pour limiter la gêne.</p>
-                    </details>
-                    <details>
-                        <summary>Installez-vous des climatisations réversibles et systèmes de chauffage ?</summary>
-                        <p>Oui. WEBUILD prend en charge la fourniture et la pose de climatisation réversible (mono-split, multi-split ou gainable encastré invisible), ainsi que les pompes à chaleur et radiateurs électriques à inertie dans tous vos projets de rénovation marseillais.</p>
-                    </details>
-                    <details>
-                        <summary>Comment obtenir un devis ?</summary>
-                        <p>Via le formulaire, par téléphone au <a href="tel:+33766018826" style="color:var(--ink);font-weight:600;">07 66 01 88 26</a> ou par WhatsApp. Nous venons voir le bien, puis vous recevez un chiffrage détaillé poste par poste sous 48h.</p>
-                    </details>
-                </div>
-            </div>
-        </section>
-
-        <section id="contact" class="section contact">
-            <div class="wrap contact-grid">
-                <div>
-                    <p class="kicker">Devis gratuit</p>
-                    <h2>Décrivez le chantier. On vous rappelle.</h2>
-                    <p class="intro">Quelques lignes suffisent : surface, quartier, délais. Nous revenons vers vous sous 48 h avec un premier retour.</p>
-                    <ul class="channels">
-                        <li>
-                            <small>Téléphone</small>
-                            <a href="tel:+33766018826">07 66 01 88 26</a>
-                        </li>
-                        <li>
-                            <small>WhatsApp</small>
-                            <a href="https://wa.me/33766018826?text=Bonjour%2C%20je%20souhaite%20un%20devis%20pour%20des%20travaux." target="_blank" rel="noopener">Discuter maintenant</a>
-                        </li>
-                        <li>
-                            <small>Email</small>
-                            <a href="mailto:contact@webuildmarseille.fr">contact@webuildmarseille.fr</a>
-                        </li>
-                        <li>
-                            <small>Zone d’intervention</small>
-                            <span style="font-weight:600">Marseille et métropole Aix-Marseille</span>
-                        </li>
-                    </ul>
-                </div>
-
-                <div>
-                    <form id="devis-form" class="sheet" name="devis" method="POST" action="/merci-devis/" data-netlify="true" netlify-honeypot="bot-field">
-                        <input type="hidden" name="form-name" value="devis">
-                        <input type="text" name="bot-field" class="honey" tabindex="-1" autocomplete="off">
-                        <div class="fields">
-                            <div class="two fields" style="gap: 1.1rem;">
-                                <div>
-                                    <label for="nom">Nom *</label>
-                                    <input type="text" id="nom" name="nom" required placeholder="Votre nom" autocomplete="name">
-                                </div>
-                                <div>
-                                    <label for="telephone">Téléphone *</label>
-                                    <input type="tel" id="telephone" name="telephone" required placeholder="07 66 01 88 26" autocomplete="tel">
-                                </div>
-                            </div>
-                            <div>
-                                <label for="email">Email</label>
-                                <input type="email" id="email" name="email" placeholder="vous@exemple.fr" autocomplete="email">
-                            </div>
-                            <div>
-                                <label for="type-projet">Type de projet *</label>
-                                <select id="type-projet" name="type-projet" required>
-                                    <option value="">Sélectionnez…</option>
-                                    <option>Rénovation complète</option>
-                                    <option>Climatisation & Chauffage</option>
-                                    <option>Gros œuvre</option>
-                                    <option>Électricité</option>
-                                    <option>Plomberie</option>
-                                    <option>Second œuvre</option>
-                                    <option>Projet investisseur</option>
-                                    <option>Autre</option>
-                                </select>
-                            </div>
-                            <div>
-                                <label for="message">Votre projet *</label>
-                                <textarea id="message" name="message" rows="4" required placeholder="Surface, adresse approximative, délais souhaités…"></textarea>
-                            </div>
-                            <p id="devis-error" class="form-error">Une erreur est survenue lors de l’envoi. Réessayez, ou appelez-nous au 07 66 01 88 26.</p>
-                            <button type="submit" id="devis-submit" class="btn btn-ink" style="width:100%;">
-                                <span id="devis-submit-label">Envoyer ma demande</span>
-                            </button>
-                            <p class="form-note">🔒 Devis gratuit, détaillé poste par poste & sans engagement — réponse sous 48h ouvrées.</p>
-                        </div>
-                    </form>
-                    <div id="devis-success" class="success">
-                        <h3>Merci, demande bien reçue.</h3>
-                        <p>Nous vous recontactons sous 48 h ouvrées. Pour une réponse immédiate, appelez le <a href="tel:+33766018826">07 66 01 88 26</a>.</p>
-                    </div>
-                </div>
-            </div>
-        </section>
-    </main>
-
-    <footer>
-        <div class="foot">
-            <div>
-                <a href="#" class="logo"><span class="mark" aria-hidden="true"></span>WEBUILD</a>
-                <p>Entreprise générale de bâtiment à Marseille. Rénovation, gros œuvre et second œuvre — un seul interlocuteur pour tout votre chantier.</p>
-            </div>
-            <div>
-                <h4>Navigation</h4>
-                <ul>
-                    <li><a href="#expertises">Expertises</a></li>
-                    <li><a href="/renovation-marseille/">Rénovation Marseille</a></li>
-                    <li><a href="/renovation-investisseur-marseille/">Investisseurs</a></li>
-                    <li><a href="/realisations/">Réalisations</a></li>
-                    <li><a href="/a-propos/">À propos</a></li>
-                    <li><a href="#contact">Contact</a></li>
-                </ul>
-            </div>
-            <div>
-                <h4>Contact</h4>
-                <ul>
-                    <li><a href="tel:+33766018826">07 66 01 88 26</a></li>
-                    <li><a href="mailto:contact@webuildmarseille.fr">contact@webuildmarseille.fr</a></li>
-                    <li>Marseille et métropole Aix-Marseille</li>
-                </ul>
-            </div>
-        </div>
-        <div class="legal">
-            <p>© <span id="year">2026</span> WEBUILD Marseille. Tous droits réservés.</p>
-            <button type="button" id="mentions-btn" style="background:none;border:0;color:inherit;cursor:pointer;font:inherit;">Mentions légales</button>
-        </div>
-    </footer>
-
-    <dialog id="mentions" style="border:0;padding:0;max-width:36rem;width:calc(100% - 2rem);">
-        <div style="padding:2rem;background:var(--paper);color:var(--ink);">
-            <h2 style="font-size:1.8rem;margin-bottom:1rem;">Mentions légales</h2>
-            <p style="margin-bottom:.75rem;color:var(--muted);"><strong style="color:var(--ink);">Éditeur du site</strong><br>WEBUILD — SAS au capital de 100,00 €, entreprise générale de bâtiment<br>SIREN : 901 806 000 — SIRET (siège) : 901 806 000 00013<br>RCS Marseille 901 806 000 (inscrit le 28/07/2021)<br>N° TVA intracommunautaire : FR33901806000<br>Adresse : 41 RUE FONGATE 13006 MARSEILLE</p>
-            <p style="margin-bottom:.75rem;color:var(--muted);"><strong style="color:var(--ink);">Directeur de la publication</strong><br>CLEMENT BARANES</p>
-            <p style="margin-bottom:.75rem;color:var(--muted);"><strong style="color:var(--ink);">Contact</strong><br><a href="mailto:contact@webuildmarseille.fr">contact@webuildmarseille.fr</a> · <a href="tel:+33766018826">07 66 01 88 26</a></p>
-            <p style="margin-bottom:1.25rem;color:var(--muted);"><strong style="color:var(--ink);">Hébergement</strong><br>Netlify, Inc. — 512 2nd Street, Suite 200, San Francisco, CA 94107, États-Unis — netlify.com</p>
-            <p style="margin-bottom:1.25rem;color:var(--muted);font-size:.85rem;">Les demandes de devis sont transmises de manière sécurisée via Netlify.</p>
-            <button class="btn btn-ink" id="mentions-close" type="button">Fermer</button>
-        </div>
-    </dialog>
-
-    <div class="dock">
-        <a class="dock-tel" href="tel:+33766018826">
-            <svg width="20" height="20" fill="none" stroke="currentColor" stroke-width="2.2" viewBox="0 0 24 24"><path d="M3 5a2 2 0 012-2h3.28a1 1 0 01.948.684l1.498 4.493a1 1 0 01-.502 1.21l-2.257 1.13a11.042 11.042 0 005.516 5.516l1.13-2.257a1 1 0 011.21-.502l4.493 1.498a1 1 0 01.684.949V19a2 2 0 01-2 2h-1C9.716 21 3 14.284 3 6V5z"/></svg>
+<div class="dock">
+<a class="dock-tel" href="tel:+33766018826">
+<svg fill="none" height="20" stroke="currentColor" stroke-width="2.2" viewBox="0 0 24 24" width="20"><path d="M3 5a2 2 0 012-2h3.28a1 1 0 01.948.684l1.498 4.493a1 1 0 01-.502 1.21l-2.257 1.13a11.042 11.042 0 005.516 5.516l1.13-2.257a1 1 0 011.21-.502l4.493 1.498a1 1 0 01.684.949V19a2 2 0 01-2 2h-1C9.716 21 3 14.284 3 6V5z"></path></svg>
             Appeler
         </a>
-        <a class="dock-wa" href="https://wa.me/33766018826?text=Bonjour%2C%20je%20souhaite%20un%20devis%20pour%20des%20travaux." target="_blank" rel="noopener">
-            <svg width="20" height="20" fill="none" stroke="currentColor" stroke-width="2.2" viewBox="0 0 24 24"><path d="M8 12h.01M12 12h.01M16 12h.01M21 12c0 4.418-4.03 8-9 8a9.863 9.863 0 01-4.255-.949L3 20l1.395-3.72C3.512 15.042 3 13.574 3 12c0-4.418 4.03-8 9-8s9 3.582 9 8z"/></svg>
+<a class="dock-wa" href="https://wa.me/33766018826?text=Bonjour%2C%20je%20souhaite%20un%20devis%20pour%20des%20travaux." rel="noopener" target="_blank">
+<svg fill="none" height="20" stroke="currentColor" stroke-width="2.2" viewBox="0 0 24 24" width="20"><path d="M8 12h.01M12 12h.01M16 12h.01M21 12c0 4.418-4.03 8-9 8a9.863 9.863 0 01-4.255-.949L3 20l1.395-3.72C3.512 15.042 3 13.574 3 12c0-4.418 4.03-8 9-8s9 3.582 9 8z"></path></svg>
             WhatsApp
         </a>
-        <a class="dock-devis" href="#contact">
-            <svg width="20" height="20" fill="none" stroke="currentColor" stroke-width="2.2" viewBox="0 0 24 24"><path d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"/></svg>
-            Devis 48h
+<a class="dock-devis" href="#contact">
+<svg fill="none" height="20" stroke="currentColor" stroke-width="2.2" viewBox="0 0 24 24" width="20"><path d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"></path></svg>
+            Demander un devis
         </a>
-    </div>
-
-    <a class="wa" href="https://wa.me/33766018826?text=Bonjour%2C%20je%20souhaite%20un%20devis%20pour%20des%20travaux." target="_blank" rel="noopener" aria-label="Discuter sur WhatsApp">
-        <span class="wa-badge-online"></span>
-        <svg width="20" height="20" fill="none" stroke="currentColor" stroke-width="2.2" viewBox="0 0 24 24"><path d="M8 12h.01M12 12h.01M16 12h.01M21 12c0 4.418-4.03 8-9 8a9.863 9.863 0 01-4.255-.949L3 20l1.395-3.72C3.512 15.042 3 13.574 3 12c0-4.418 4.03-8 9-8s9 3.582 9 8z"/></svg>
+</div>
+<a aria-label="Discuter sur WhatsApp" class="wa" href="https://wa.me/33766018826?text=Bonjour%2C%20je%20souhaite%20un%20devis%20pour%20des%20travaux." rel="noopener" target="_blank">
+<span class="wa-badge-online"></span>
+<svg fill="none" height="20" stroke="currentColor" stroke-width="2.2" viewBox="0 0 24 24" width="20"><path d="M8 12h.01M12 12h.01M16 12h.01M21 12c0 4.418-4.03 8-9 8a9.863 9.863 0 01-4.255-.949L3 20l1.395-3.72C3.512 15.042 3 13.574 3 12c0-4.418 4.03-8 9-8s9 3.582 9 8z"></path></svg>
         WhatsApp direct
     </a>
+<script src="/js/main.js?v=4b964b6c63f6"></script>
 
-    <script src="/js/main.js"></script>
-</body>
-</html>
+
+
+</body></html>

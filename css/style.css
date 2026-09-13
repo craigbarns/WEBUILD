@@ -62,6 +62,7 @@ h1, h2, h3, .logo, .display {
     letter-spacing: -0.035em;
     line-height: 0.98;
 }
+h1, h2, h3 { overflow-wrap: anywhere; hyphens: auto; }
 
 .wrap {
     width: min(100% - 2 * var(--pad), var(--max));
@@ -352,7 +353,7 @@ h1, h2, h3, .logo, .display {
 /* FACTS */
 .facts {
     display: grid;
-    grid-template-columns: 1fr 1fr;
+    grid-template-columns: repeat(2, minmax(0, 1fr));
     border-bottom: 1px solid var(--line);
     background: var(--white);
 }
@@ -365,14 +366,15 @@ h1, h2, h3, .logo, .display {
 .fact strong {
     display: block;
     font-family: var(--display);
-    font-size: clamp(1.35rem, 4vw, 2.6rem);
+    font-size: clamp(1.1rem, 2.6vw, 2rem);
+    overflow-wrap: anywhere;
     font-weight: 800;
     letter-spacing: -0.04em;
     margin-bottom: .35rem;
 }
 .fact span { color: var(--muted); font-size: .92rem; }
 @media (min-width: 800px) {
-    .facts { grid-template-columns: repeat(4, 1fr); }
+    .facts { grid-template-columns: repeat(4, minmax(0, 1fr)); }
     .fact { border-bottom: 0; padding: 2rem 1.75rem; }
     .fact:nth-child(2n) { border-right: 1px solid var(--line); }
     .fact:last-child { border-right: 0; }
@@ -681,7 +683,7 @@ footer {
 @media (min-width: 800px) { .foot { grid-template-columns: 1.4fr 1fr 1fr; } }
 footer .logo { color: #fff; margin-bottom: .75rem; }
 footer p { max-width: 28rem; line-height: 1.55; }
-footer h4 { color: #fff; font-size: .85rem; font-weight: 600; font-family: var(--sans); letter-spacing: 0; margin-bottom: .8rem; }
+footer .footer-heading { color: #fff; font-size: .85rem; font-weight: 600; font-family: var(--sans); letter-spacing: 0; margin-bottom: .8rem; }
 footer ul { list-style: none; }
 footer li { margin: .4rem 0; }
 footer a { text-decoration: none; }
@@ -897,6 +899,49 @@ footer a:hover { color: var(--tape); }
     font-size: .95rem;
     color: var(--muted);
     line-height: 1.6;
+}
+
+/* Readable service and editorial content within the existing visual system. */
+.service-grid { display: grid; gap: 1rem; margin-block: 2rem; }
+.service-card { display: block; border: 1px solid var(--line); padding: 1.4rem; background: var(--white); text-decoration: none; }
+.service-card h3 { margin: 0 0 .7rem; }
+.service-card p { margin-bottom: 0; }
+.service-card:hover { border-color: var(--ink); }
+@media (min-width: 700px) { .service-grid { grid-template-columns: 1fr 1fr; } }
+.prose ol { padding-left: 1.3rem; color: var(--muted); margin-bottom: 1.5rem; }
+.table-scroll { overflow-x: auto; margin-block: 1.5rem; }
+table { width: 100%; border-collapse: collapse; font-size: .95rem; }
+th, td { text-align: left; vertical-align: top; padding: .8rem; border: 1px solid var(--line); min-width: 9rem; }
+th { background: var(--white); }
+.updated, .field-help { font-size: .85rem; color: var(--muted); }
+.updated { margin-top: 2rem; }
+.project-options { border-block: 1px solid var(--line); padding-block: .8rem; }
+.project-options summary { cursor: pointer; font-weight: 600; font-size: .9rem; }
+.project-options > .fields { padding-top: 1rem; }
+.section-link { margin-top: 1.5rem; }
+.hero h1 { font-size: clamp(2.2rem, 5.5vw, 4.7rem); max-width: 20ch; }
+.hero .lede { color: #eee; }
+.hero-meta { opacity: 1; color: #ddd; max-width: 44rem; }
+.btn-wa-cta, .wa, .btn-wa-cta:hover, .wa:hover { color: #082b16; }
+.page-hero .crumbs { color: #bdb7af; }
+.drawer { overflow-y: auto; padding-bottom: calc(6rem + env(safe-area-inset-bottom)); }
+.drawer .btn { font: 600 1rem var(--sans); margin-top: 0; }
+.nav-toggle svg[hidden] { display: none; }
+.cookie-banner { position: fixed; z-index: 55; left: 1rem; bottom: 1rem; width: min(30rem, calc(100% - 2rem)); background: var(--paper); color: var(--ink); padding: 1.2rem; border: 1px solid var(--line); box-shadow: 0 4px 30px #0003; font: .9rem/1.5 system-ui, sans-serif; }
+.cookie-banner[hidden] { display: none; }
+.cookie-banner p { margin-bottom: .8rem; }
+.cookie-actions { display: flex; flex-wrap: wrap; gap: .6rem; }
+.cookie-actions button { flex: 1; }
+.cookie-settings { background: none; border: 0; color: inherit; cursor: pointer; font: inherit; text-decoration: underline; }
+@media (max-width: 767px) {
+    .cookie-banner { bottom: calc(4.5rem + env(safe-area-inset-bottom)); }
+    .hero h1, .page-hero h1 { font-size: clamp(1.8rem, 7vw, 2.6rem); }
+    .hero .ba { height: 42svh; min-height: 16rem; }
+    .hero .ba-hint { top: auto; bottom: 1.1rem; }
+    .hero-copy { padding-bottom: 2.5rem; }
+    .page-hero { padding-inline: 0; }
+    .ba-tag { max-width: 44%; font-size: .65rem; }
+    .hero .ba-tag { font-size: .65rem; }
 }
 .geo-card strong {
     color: var(--ink);

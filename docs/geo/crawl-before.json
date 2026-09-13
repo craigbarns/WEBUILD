@@ -1,0 +1,2579 @@
+{
+  "date": "2026-09-13T09:58:13.709737+00:00",
+  "origin": "https://webuildmarseille.fr",
+  "pages": [
+    {
+      "url": "https://webuildmarseille.fr/",
+      "final_url": "https://webuildmarseille.fr/",
+      "status": 200,
+      "redirects": [],
+      "headers": {
+        "Accept-Ranges": "bytes",
+        "Age": "0",
+        "Cache-Control": "public,max-age=0,must-revalidate",
+        "Cache-Status": "\"Netlify Edge\"; fwd=miss; fwd-status=200; stored",
+        "Content-Encoding": "br",
+        "Content-Type": "text/html; charset=UTF-8",
+        "Date": "Sun, 13 Sep 2026 09:58:02 GMT",
+        "Etag": "\"6a63653c578c800d6555849eedbecab3-ssl-df\"",
+        "Permissions-Policy": "camera=(), microphone=(), geolocation=()",
+        "Referrer-Policy": "strict-origin-when-cross-origin",
+        "Server": "Netlify",
+        "Strict-Transport-Security": "max-age=31536000",
+        "Vary": "Accept-Encoding",
+        "X-Content-Type-Options": "nosniff",
+        "X-Frame-Options": "DENY",
+        "X-Nf-Request-Id": "01M2D37MKH97N3YMVWZ95DHA3T",
+        "Transfer-Encoding": "chunked"
+      },
+      "bytes": 43306,
+      "elapsed_ms": 529,
+      "sha256": "cb56a0ea1074333edbde0950ab673b0716f4735475bc9ee6794824226fa27e22",
+      "title": "WEBUILD — Entreprise de rénovation à Marseille",
+      "descriptions": [
+        "Entreprise générale de bâtiment à Marseille : rénovation d'appartements, maisons, immeubles, climatisation réversible & chauffage. Interlocuteur unique, devis sous 48h."
+      ],
+      "robots": [],
+      "canonical": [
+        "https://webuildmarseille.fr/"
+      ],
+      "headings": [
+        [
+          "h1",
+          "Un chantier. Un interlocuteur. Jusqu’aux clés."
+        ],
+        [
+          "h2",
+          "Tous les corps de métier, une seule équipe."
+        ],
+        [
+          "h3",
+          "Rénovation complète d'appartement →"
+        ],
+        [
+          "h3",
+          "Rénovation & Gros œuvre de maison →"
+        ],
+        [
+          "h3",
+          "Rénovation d'immeubles de rapport →"
+        ],
+        [
+          "h3",
+          "Projets investisseurs & Divisions →"
+        ],
+        [
+          "h3",
+          "Plomberie, Chauffage & Climatisation"
+        ],
+        [
+          "h3",
+          "Électricité & Second œuvre"
+        ],
+        [
+          "h2",
+          "Le délai, c’est le rendement."
+        ],
+        [
+          "h2",
+          "Quatre temps. Aucune zone d’ombre."
+        ],
+        [
+          "h3",
+          "Visite & écoute"
+        ],
+        [
+          "h3",
+          "Devis détaillé"
+        ],
+        [
+          "h3",
+          "Chantier piloté"
+        ],
+        [
+          "h3",
+          "Livraison soignée"
+        ],
+        [
+          "h2",
+          "Ce que le chantier change, vraiment."
+        ],
+        [
+          "h3",
+          "Rénovation complète d’un appartement"
+        ],
+        [
+          "h3",
+          "Division d’un plateau en deux logements"
+        ],
+        [
+          "h3",
+          "Rénovation d’une salle de bains"
+        ],
+        [
+          "h3",
+          "Réhabilitation d’une maison de ville"
+        ],
+        [
+          "h3",
+          "Rénovation d’un studio locatif"
+        ],
+        [
+          "h3",
+          "Réaménagement de bureaux"
+        ],
+        [
+          "h2",
+          "La confiance se pose aussi solide qu’un mur."
+        ],
+        [
+          "h2",
+          "Ce qu'on nous demande avant de signer."
+        ],
+        [
+          "h2",
+          "Décrivez le chantier. On vous rappelle."
+        ],
+        [
+          "h3",
+          "Merci, demande bien reçue."
+        ],
+        [
+          "h2",
+          "Mentions légales"
+        ]
+      ],
+      "images": [
+        {
+          "src": "images/realisation-appartement.jpg",
+          "alt": "Séjour rénové avec cuisine ouverte dans un appartement haussmannien de Marseille 6e",
+          "fetchpriority": "high"
+        },
+        {
+          "class": [
+            "ba-before"
+          ],
+          "src": "images/avant-appartement.jpg",
+          "alt": "Le même appartement avant travaux",
+          "fetchpriority": "high"
+        },
+        {
+          "src": "images/realisation-appartement.jpg",
+          "alt": "",
+          "loading": "lazy"
+        },
+        {
+          "src": "images/realisation-maison.jpg",
+          "alt": "",
+          "loading": "lazy"
+        },
+        {
+          "src": "images/realisation-division.jpg",
+          "alt": "",
+          "loading": "lazy"
+        },
+        {
+          "src": "images/realisation-bureaux.jpg",
+          "alt": "",
+          "loading": "lazy"
+        },
+        {
+          "src": "images/realisation-sdb.jpg",
+          "alt": "",
+          "loading": "lazy"
+        },
+        {
+          "src": "images/realisation-studio.jpg",
+          "alt": "",
+          "loading": "lazy"
+        },
+        {
+          "src": "images/hero.jpg",
+          "alt": "Chantier WEBUILD dans un appartement haussmannien de Marseille, lumière du matin dans trois baies en plein cintre",
+          "loading": "lazy"
+        },
+        {
+          "src": "images/investisseurs.jpg",
+          "alt": "Immeuble en pierre du Vieux-Port en cours de rénovation, échafaudage sur la façade",
+          "loading": "lazy"
+        },
+        {
+          "src": "images/realisation-appartement.jpg",
+          "alt": "Séjour rénové avec cuisine ouverte, Marseille 6e",
+          "loading": "lazy"
+        },
+        {
+          "class": [
+            "ba-before"
+          ],
+          "src": "images/avant-appartement.jpg",
+          "alt": "Le même appartement avant travaux",
+          "loading": "lazy"
+        },
+        {
+          "src": "images/realisation-division.jpg",
+          "alt": "Palier rénové après division d’un plateau, Marseille 1er",
+          "loading": "lazy"
+        },
+        {
+          "class": [
+            "ba-before"
+          ],
+          "src": "images/avant-division.jpg",
+          "alt": "Le même palier avant travaux",
+          "loading": "lazy"
+        },
+        {
+          "src": "images/realisation-sdb.jpg",
+          "alt": "Salle de bains rénovée avec douche à l’italienne, Marseille 4e",
+          "loading": "lazy"
+        },
+        {
+          "class": [
+            "ba-before"
+          ],
+          "src": "images/avant-sdb.jpg",
+          "alt": "La même salle de bains avant travaux",
+          "loading": "lazy"
+        },
+        {
+          "src": "images/realisation-maison.jpg",
+          "alt": "Façade de maison de ville rénovée, Marseille 9e",
+          "loading": "lazy"
+        },
+        {
+          "class": [
+            "ba-before"
+          ],
+          "src": "images/avant-maison.jpg",
+          "alt": "La même façade avant travaux",
+          "loading": "lazy"
+        },
+        {
+          "src": "images/realisation-studio.jpg",
+          "alt": "Studio rénové pour la location, Marseille 5e",
+          "loading": "lazy"
+        },
+        {
+          "class": [
+            "ba-before"
+          ],
+          "src": "images/avant-studio.jpg",
+          "alt": "Le même studio avant travaux",
+          "loading": "lazy"
+        },
+        {
+          "src": "images/realisation-bureaux.jpg",
+          "alt": "Plateau de bureaux rénové en open space, Marseille 2e",
+          "loading": "lazy"
+        },
+        {
+          "class": [
+            "ba-before"
+          ],
+          "src": "images/avant-bureaux.jpg",
+          "alt": "Le même plateau avant travaux",
+          "loading": "lazy"
+        }
+      ],
+      "schema": [
+        {
+          "@context": "https://schema.org",
+          "@graph": [
+            {
+              "@type": "GeneralContractor",
+              "@id": "https://webuildmarseille.fr/#organization",
+              "name": "WEBUILD",
+              "legalName": "WEBUILD SAS",
+              "url": "https://webuildmarseille.fr",
+              "telephone": "+33766018826",
+              "email": "contact@webuildmarseille.fr",
+              "image": "https://webuildmarseille.fr/images/realisation-appartement.jpg",
+              "address": {
+                "@type": "PostalAddress",
+                "streetAddress": "41 rue Fongate",
+                "postalCode": "13006",
+                "addressLocality": "Marseille",
+                "addressCountry": "FR"
+              },
+              "areaServed": [
+                {
+                  "@type": "City",
+                  "name": "Marseille"
+                },
+                {
+                  "@type": "AdministrativeArea",
+                  "name": "Métropole Aix-Marseille-Provence"
+                }
+              ],
+              "identifier": [
+                {
+                  "@type": "PropertyValue",
+                  "propertyID": "SIRET",
+                  "value": "90180600000013"
+                },
+                {
+                  "@type": "PropertyValue",
+                  "propertyID": "VAT",
+                  "value": "FR33901806000"
+                }
+              ],
+              "knowsAbout": [
+                "Rénovation d'appartement",
+                "Rénovation de maison",
+                "Rénovation d'immeuble",
+                "Gros œuvre",
+                "Climatisation réversible",
+                "Électricité",
+                "Plomberie"
+              ]
+            },
+            {
+              "@type": "WebSite",
+              "@id": "https://webuildmarseille.fr/#site",
+              "url": "https://webuildmarseille.fr",
+              "name": "WEBUILD — Entreprise générale de bâtiment à Marseille",
+              "publisher": {
+                "@id": "https://webuildmarseille.fr/#organization"
+              },
+              "inLanguage": "fr-FR"
+            },
+            {
+              "@type": "WebPage",
+              "@id": "https://webuildmarseille.fr/#accueil",
+              "url": "https://webuildmarseille.fr",
+              "name": "WEBUILD — Entreprise générale de bâtiment à Marseille | Rénovation & Gros œuvre",
+              "isPartOf": {
+                "@id": "https://webuildmarseille.fr/#site"
+              },
+              "about": {
+                "@id": "https://webuildmarseille.fr/#organization"
+              },
+              "inLanguage": "fr-FR"
+            },
+            {
+              "@type": "FAQPage",
+              "@id": "https://webuildmarseille.fr/#faq",
+              "isPartOf": {
+                "@id": "https://webuildmarseille.fr/#accueil"
+              },
+              "inLanguage": "fr-FR",
+              "mainEntity": [
+                {
+                  "@type": "Question",
+                  "name": "Intervenez-vous dans tout Marseille ?",
+                  "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "Oui. WEBUILD intervient dans tous les arrondissements de Marseille et dans la métropole Aix-Marseille. La visite technique sur place est gratuite et sans engagement."
+                  }
+                },
+                {
+                  "@type": "Question",
+                  "name": "Réalisez-vous des rénovations tous corps d'état ?",
+                  "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "Oui. Démolition, gros œuvre, électricité, plomberie et second œuvre sont coordonnés par la même équipe. Vous n'avez pas à chercher ni à arbitrer entre plusieurs artisans."
+                  }
+                },
+                {
+                  "@type": "Question",
+                  "name": "Combien de temps dure une rénovation complète ?",
+                  "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "Cela dépend de la surface, de l'état du bien et de la redistribution des espaces : quelques semaines pour une salle de bains, plusieurs mois pour un appartement complet ou un immeuble. Le planning détaillé est fourni avec le devis."
+                  }
+                },
+                {
+                  "@type": "Question",
+                  "name": "Pouvez-vous rénover un logement destiné à la location ou à la revente ?",
+                  "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "Oui, c'est une de nos spécialités. Nous travaillons régulièrement pour des investisseurs, des marchands de biens et des propriétaires bailleurs, avec un objectif clair : remettre le bien en exploitation vite et au bon niveau de finition."
+                  }
+                },
+                {
+                  "@type": "Question",
+                  "name": "Peut-on habiter dans le logement pendant les travaux ?",
+                  "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "Pour une rénovation complète, c'est déconseillé : coupures d'eau et d'électricité, poussière, accès aux pièces. Pour des travaux partiels, nous pouvons phaser le chantier pour limiter la gêne."
+                  }
+                },
+                {
+                  "@type": "Question",
+                  "name": "Installez-vous des climatisations réversibles et systèmes de chauffage ?",
+                  "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "Oui. WEBUILD dimensionne et installe vos systèmes de climatisation réversible (mono-split, multi-split, gainable intégré dans les faux plafonds) et pompes à chaleur dans le cadre de vos rénovations à Marseille."
+                  }
+                },
+                {
+                  "@type": "Question",
+                  "name": "Comment obtenir un devis ?",
+                  "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "Via le formulaire, par téléphone au 07 66 01 88 26 ou par WhatsApp. Nous venons voir le bien, puis vous recevez un chiffrage détaillé poste par poste sous 48h."
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "forms": [
+        {
+          "attributes": {
+            "action": "/merci-devis/",
+            "class": [
+              "sheet"
+            ],
+            "id": "devis-form",
+            "method": "POST",
+            "name": "devis"
+          },
+          "fields": [
+            {
+              "type": "hidden",
+              "name": "form-name",
+              "value": "devis"
+            },
+            {
+              "type": "text",
+              "name": "bot-field",
+              "class": [
+                "honey"
+              ],
+              "tabindex": "-1",
+              "autocomplete": "off"
+            },
+            {
+              "type": "text",
+              "id": "nom",
+              "name": "nom",
+              "required": "",
+              "placeholder": "Votre nom",
+              "autocomplete": "name"
+            },
+            {
+              "type": "tel",
+              "id": "telephone",
+              "name": "telephone",
+              "required": "",
+              "placeholder": "07 66 01 88 26",
+              "autocomplete": "tel"
+            },
+            {
+              "type": "email",
+              "id": "email",
+              "name": "email",
+              "placeholder": "vous@exemple.fr",
+              "autocomplete": "email"
+            },
+            {
+              "id": "type-projet",
+              "name": "type-projet",
+              "required": ""
+            },
+            {
+              "id": "message",
+              "name": "message",
+              "rows": "4",
+              "required": "",
+              "placeholder": "Surface, adresse approximative, délais souhaités…"
+            }
+          ]
+        }
+      ],
+      "links": [
+        "#contenu",
+        "#",
+        "#expertises",
+        "#investisseurs",
+        "#realisations",
+        "#contact",
+        "tel:+33766018826",
+        "#contact",
+        "#expertises",
+        "#investisseurs",
+        "#realisations",
+        "#contact",
+        "#contact",
+        "https://wa.me/33766018826?text=Bonjour%2C%20je%20souhaite%20un%20devis%20pour%20des%20travaux.",
+        "tel:+33766018826",
+        "#contact",
+        "https://wa.me/33766018826?text=Bonjour%2C%20je%20souhaite%20un%20devis%20pour%20des%20travaux.",
+        "tel:+33766018826",
+        "/renovation-appartement-marseille/",
+        "/renovation-maison-marseille/",
+        "/renovation-immeuble-marseille/",
+        "/renovation-investisseur-marseille/",
+        "#contact",
+        "/renovation-investisseur-marseille/",
+        "/renovation-investisseur-marseille/",
+        "tel:+33766018826",
+        "tel:+33766018826",
+        "https://wa.me/33766018826?text=Bonjour%2C%20je%20souhaite%20un%20devis%20pour%20des%20travaux.",
+        "mailto:contact@webuildmarseille.fr",
+        "tel:+33766018826",
+        "#",
+        "#expertises",
+        "/renovation-marseille/",
+        "/renovation-investisseur-marseille/",
+        "/realisations/",
+        "/a-propos/",
+        "#contact",
+        "tel:+33766018826",
+        "mailto:contact@webuildmarseille.fr",
+        "mailto:contact@webuildmarseille.fr",
+        "tel:+33766018826",
+        "tel:+33766018826",
+        "https://wa.me/33766018826?text=Bonjour%2C%20je%20souhaite%20un%20devis%20pour%20des%20travaux.",
+        "#contact",
+        "https://wa.me/33766018826?text=Bonjour%2C%20je%20souhaite%20un%20devis%20pour%20des%20travaux."
+      ],
+      "text": "WEBUILD — Entreprise de rénovation à Marseille Aller au contenu WEBUILD Expertises Investisseurs Réalisations Contact 07 66 01 88 26 Demander un devis Expertises Investisseurs Réalisations Contact Demander un devis WhatsApp direct Appeler : 07 66 01 88 26 Avant Après Glissez pour comparer Entreprise générale de bâtiment · Marseille Un chantier. Un interlocuteur. Jusqu’aux clés. Rénovation d’appartements, d’immeubles et de projets investisseurs. Gros œuvre, climatisation réversible, chauffage, électricité, plomberie, finitions : WEBUILD prend tout, de la démolition à la réception. Demander un devis WhatsApp direct 07 66 01 88 26 Appartement · Marseille 6e · 65 m² · 8 semaines 48 h Visite & devis détaillé poste par poste, sans engagement. Chaque semaine Un point clair avec photos sur l'avancement du chantier. 1 seul Interlocuteur dédié du premier plan à la remise des clés. Tous Corps d'état coordonnés en direct (gros œuvre & finitions). Ce que nous prenons en charge Tous les corps de métier, une seule équipe. Vous n’avez pas à assembler des artisans. WEBUILD structure le chantier pour que maçonnerie, réseaux et finitions avancent ensemble — sans que vous ayez à arbitrer entre cinq interlocuteurs. Rénovation complète d'appartement → Appartements haussmanniens, contemporains et copropriétés à Marseille. De la redistribution des pièces jusqu'aux finitions soignées. Rénovation & Gros œuvre de maison → Maisons de ville marseillaises, extensions, ouvertures de murs porteurs, façades et toitures. Rénovation d'immeubles de rapport → Réhabilitation globale, toitures, cages d'escalier, colonnes montantes et parties communes. Projets investisseurs & Divisions → Optimisation du mètre carré, divisions de plateaux en T1/T2, rénovations locatives ciblées ROI. Plomberie, Chauffage & Climatisation Pose de climatisation réversible (mono/multi-split, gainable), pompes à chaleur, chauffe-eau, réseaux de plomberie et sanitaires. Électricité & Second œuvre Mises aux normes NF C 15-100, tableaux, placo, isolation thermique/phonique, peinture et carrelage. Le chantier, sans le décorum. Ce que vous ne voyez pas depuis le palier : la coordination. Un seul nom sur le planning, du premier mur abattu jusqu’au dernier coup de peinture. Marchands de biens & investisseurs Le délai, c’est le rendement. Budget tendu, planning serré, mètres carrés à rentabiliser. On connaît le métier — et on chiffre en conséquence. Chiffrage détaillé, poste par poste Planning resserré pour une mise en location rapide Optimisation des surfaces pour le ROI Discuter d’un immeuble Découvrir notre approche → La méthode Quatre temps. Aucune zone d’ombre. Visite & écoute Nous venons sur place, nous mesurons, nous écoutons vos objectifs. Gratuit, sans engagement. Devis détaillé Un chiffrage poste par poste, clair, envoyé sous 48 h. Chantier piloté Un interlocuteur unique coordonne tous les corps de métier et vous tient informé chaque semaine. Livraison soignée Réception ensemble, finitions vérifiées une à une, chantier rendu propre. Chantiers livrés Ce que le chantier change, vraiment. Glissez le curseur. Ce sont des appartements, des immeubles et des locaux de Marseille — avant, et après WEBUILD. Avant Après Rénovation complète d’un appartement Marseille 6e · 65 m² · 8 semaines Démolition Électricité Plomberie Peinture Avant Après Division d’un plateau en deux logements Marseille 1er · 110 m² · 3 mois Gros œuvre Réseaux Second œuvre Avant Après Rénovation d’une salle de bains Marseille 4e · 8 m² · 3 semaines Plomberie Carrelage Électricité Avant Après Réhabilitation d’une maison de ville Marseille 9e · 140 m² · 4 mois Gros œuvre Façade Menuiseries Avant Après Rénovation d’un studio locatif Marseille 5e · 28 m² · 4 semaines Second œuvre Cuisine Salle d’eau Avant Après Réaménagement de bureaux Marseille 2e · 220 m² · 2 mois Cloisons Électricité Peinture Ils nous font confiance La confiance se pose aussi solide qu’un mur. « Du premier rendez-vous à la remise des clés, un seul interlocuteur et zéro mauvaise surprise. Le résultat est au-delà de ce qu’on espérait. » Sophie & Marc D. Propriétaires — Marseille 6e « Délais tenus, budget respecté. L’immeuble divisé a été reloué en une semaine. Je ne travaille plus qu’avec eux. » Karim B. Marchand de biens — Marseille 1er « Une équipe rigoureuse, un chantier propre et des finitions impeccables. Une vraie relation de confiance. » Claire V. Architecte — Marseille 7e Questions fréquentes Ce qu'on nous demande avant de signer. Intervenez-vous dans tout Marseille ? Oui. WEBUILD intervient dans tous les arrondissements de Marseille et dans la métropole Aix-Marseille. La visite technique sur place est gratuite et sans engagement. Réalisez-vous des rénovations tous corps d'état ? Oui. Démolition, gros œuvre, électricité, plomberie et second œuvre sont coordonnés par la même équipe. Vous n'avez pas à chercher ni à arbitrer entre plusieurs artisans. Combien de temps dure une rénovation complète ? Cela dépend de la surface, de l'état du bien et de la redistribution des espaces : quelques semaines pour une salle de bains, plusieurs mois pour un appartement complet ou un immeuble. Le planning détaillé est fourni avec le devis. Pouvez-vous rénover un logement destiné à la location ou à la revente ? Oui, c'est une de nos spécialités. Nous travaillons régulièrement pour des investisseurs, des marchands de biens et des propriétaires bailleurs, avec un objectif clair : remettre le bien en exploitation vite et au bon niveau de finition. Voir notre approche investisseurs . Peut-on habiter dans le logement pendant les travaux ? Pour une rénovation complète, c'est déconseillé : coupures d'eau et d'électricité, poussière, accès aux pièces. Pour des travaux partiels, nous pouvons phaser le chantier pour limiter la gêne. Installez-vous des climatisations réversibles et systèmes de chauffage ? Oui. WEBUILD prend en charge la fourniture et la pose de climatisation réversible (mono-split, multi-split ou gainable encastré invisible), ainsi que les pompes à chaleur et radiateurs électriques à inertie dans tous vos projets de rénovation marseillais. Comment obtenir un devis ? Via le formulaire, par téléphone au 07 66 01 88 26 ou par WhatsApp. Nous venons voir le bien, puis vous recevez un chiffrage détaillé poste par poste sous 48h. Devis gratuit Décrivez le chantier. On vous rappelle. Quelques lignes suffisent : surface, quartier, délais. Nous revenons vers vous sous 48 h avec un premier retour. Téléphone 07 66 01 88 26 WhatsApp Discuter maintenant Email contact@webuildmarseille.fr Zone d’intervention Marseille et métropole Aix-Marseille Nom * Téléphone * Email Type de projet * Sélectionnez… Rénovation complète Climatisation & Chauffage Gros œuvre Électricité Plomberie Second œuvre Projet investisseur Autre Votre projet * Une erreur est survenue lors de l’envoi. Réessayez, ou appelez-nous au 07 66 01 88 26. Envoyer ma demande 🔒 Devis gratuit, détaillé poste par poste & sans engagement — réponse sous 48h ouvrées. Merci, demande bien reçue. Nous vous recontactons sous 48 h ouvrées. Pour une réponse immédiate, appelez le 07 66 01 88 26 . WEBUILD Entreprise générale de bâtiment à Marseille. Rénovation, gros œuvre et second œuvre — un seul interlocuteur pour tout votre chantier. Navigation Expertises Rénovation Marseille Investisseurs Réalisations À propos Contact Contact 07 66 01 88 26 contact@webuildmarseille.fr Marseille et métropole Aix-Marseille © 2026 WEBUILD Marseille. Tous droits réservés. Mentions légales Mentions légales Éditeur du site WEBUILD — SAS au capital de 100,00 €, entreprise générale de bâtiment SIREN : 901 806 000 — SIRET (siège) : 901 806 000 00013 RCS Marseille 901 806 000 (inscrit le 28/07/2021) N° TVA intracommunautaire : FR33901806000 Adresse : 41 RUE FONGATE 13006 MARSEILLE Directeur de la publication CLEMENT BARANES Contact contact@webuildmarseille.fr · 07 66 01 88 26 Hébergement Netlify, Inc. — 512 2nd Street, Suite 200, San Francisco, CA 94107, États-Unis — netlify.com Les demandes de devis sont transmises de manière sécurisée via Netlify. Fermer Appeler WhatsApp Devis 48h WhatsApp direct"
+    },
+    {
+      "url": "https://webuildmarseille.fr/robots.txt",
+      "final_url": "https://webuildmarseille.fr/robots.txt",
+      "status": 200,
+      "redirects": [],
+      "headers": {
+        "Accept-Ranges": "bytes",
+        "Age": "1",
+        "Cache-Control": "public,max-age=0,must-revalidate",
+        "Cache-Status": "\"Netlify Edge\"; fwd=miss; fwd-status=200; stored",
+        "Content-Length": "208",
+        "Content-Type": "text/plain; charset=UTF-8",
+        "Date": "Sun, 13 Sep 2026 09:58:03 GMT",
+        "Etag": "\"3245e7a718bac920307591a362279218-ssl\"",
+        "Permissions-Policy": "camera=(), microphone=(), geolocation=()",
+        "Referrer-Policy": "strict-origin-when-cross-origin",
+        "Server": "Netlify",
+        "Strict-Transport-Security": "max-age=31536000",
+        "X-Content-Type-Options": "nosniff",
+        "X-Frame-Options": "DENY",
+        "X-Nf-Request-Id": "01M2D37MZPMJPS7DYW5BQV213N"
+      },
+      "bytes": 208,
+      "elapsed_ms": 288,
+      "sha256": "78c6b8e35c349810bd2dc9e25e1358b0086454eef8ca3a4f500953beddcd8fac",
+      "text": "User-agent: *\nAllow: /\n\nUser-agent: GPTBot\nAllow: /\n\nUser-agent: ClaudeBot\nAllow: /\n\nUser-agent: PerplexityBot\nAllow: /\n\nUser-agent: Google-Extended\nAllow: /\n\nSitemap: https://webuildmarseille.fr/sitemap.xml\n"
+    },
+    {
+      "url": "https://webuildmarseille.fr/sitemap.xml",
+      "final_url": "https://webuildmarseille.fr/sitemap.xml",
+      "status": 200,
+      "redirects": [],
+      "headers": {
+        "Accept-Ranges": "bytes",
+        "Age": "0",
+        "Cache-Control": "public,max-age=0,must-revalidate",
+        "Cache-Status": "\"Netlify Edge\"; fwd=miss; fwd-status=200; stored",
+        "Content-Encoding": "br",
+        "Content-Length": "235",
+        "Content-Type": "application/xml",
+        "Date": "Sun, 13 Sep 2026 09:58:03 GMT",
+        "Etag": "\"6ecacd9685be14f0ab19ad199fb7e511-ssl-df\"",
+        "Permissions-Policy": "camera=(), microphone=(), geolocation=()",
+        "Referrer-Policy": "strict-origin-when-cross-origin",
+        "Server": "Netlify",
+        "Strict-Transport-Security": "max-age=31536000",
+        "Vary": "Accept-Encoding",
+        "X-Content-Type-Options": "nosniff",
+        "X-Frame-Options": "DENY",
+        "X-Nf-Request-Id": "01M2D37N8VY87FE57MEEXY02J2"
+      },
+      "bytes": 1398,
+      "elapsed_ms": 369,
+      "sha256": "62eb0cd61978fbe673c7d92d6b3dec948a21fb71a3c4f91fd28fe77027a6a533",
+      "text": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<urlset xmlns=\"http://www.sitemaps.org/schemas/sitemap/0.9\">\n    <url>\n        <loc>https://webuildmarseille.fr/</loc>\n        <lastmod>2026-09-04</lastmod>\n        <priority>1.0</priority>\n    </url>\n    <url>\n        <loc>https://webuildmarseille.fr/renovation-marseille/</loc>\n        <lastmod>2026-09-04</lastmod>\n        <priority>0.9</priority>\n    </url>\n    <url>\n        <loc>https://webuildmarseille.fr/renovation-investisseur-marseille/</loc>\n        <lastmod>2026-09-04</lastmod>\n        <priority>0.9</priority>\n    </url>\n    <url>\n        <loc>https://webuildmarseille.fr/renovation-appartement-marseille/</loc>\n        <lastmod>2026-09-04</lastmod>\n        <priority>0.8</priority>\n    </url>\n    <url>\n        <loc>https://webuildmarseille.fr/renovation-maison-marseille/</loc>\n        <lastmod>2026-09-04</lastmod>\n        <priority>0.8</priority>\n    </url>\n    <url>\n        <loc>https://webuildmarseille.fr/renovation-immeuble-marseille/</loc>\n        <lastmod>2026-09-04</lastmod>\n        <priority>0.8</priority>\n    </url>\n    <url>\n        <loc>https://webuildmarseille.fr/realisations/</loc>\n        <lastmod>2026-09-04</lastmod>\n        <priority>0.7</priority>\n    </url>\n    <url>\n        <loc>https://webuildmarseille.fr/a-propos/</loc>\n        <lastmod>2026-09-04</lastmod>\n        <priority>0.5</priority>\n    </url>\n</urlset>\n"
+    },
+    {
+      "url": "https://webuildmarseille.fr/llms.txt",
+      "final_url": "https://webuildmarseille.fr/llms.txt",
+      "status": 200,
+      "redirects": [],
+      "headers": {
+        "Accept-Ranges": "bytes",
+        "Age": "0",
+        "Cache-Control": "public,max-age=86400",
+        "Cache-Status": "\"Netlify Edge\"; fwd=miss; fwd-status=200; stored",
+        "Content-Encoding": "br",
+        "Content-Type": "text/plain; charset=utf-8",
+        "Date": "Sun, 13 Sep 2026 09:58:03 GMT",
+        "Etag": "\"ce23f3092f38f887241680a968384875-ssl-df\"",
+        "Permissions-Policy": "camera=(), microphone=(), geolocation=()",
+        "Referrer-Policy": "strict-origin-when-cross-origin",
+        "Server": "Netlify",
+        "Strict-Transport-Security": "max-age=31536000",
+        "Vary": "Accept-Encoding",
+        "X-Content-Type-Options": "nosniff",
+        "X-Frame-Options": "DENY",
+        "X-Nf-Request-Id": "01M2D37NMB4M9N7BD840KCW9Y2",
+        "Transfer-Encoding": "chunked"
+      },
+      "bytes": 3838,
+      "elapsed_ms": 260,
+      "sha256": "42a7aaab48b0b930b7025d15ed1b9e7d354a554a5aeffb6504f07147324af256",
+      "text": "# WEBUILD — Entreprise générale de bâtiment à Marseille\n\n> WEBUILD est une entreprise générale de bâtiment (TCE - Tous Corps d'État) basée au 41 rue Fongate, 13006 Marseille.\n> L'entreprise est spécialisée dans la rénovation complète d'appartements, maisons de ville, immeubles de rapport, locaux professionnels, ainsi que l'installation de climatisation réversible et chauffage à Marseille et dans la métropole Aix-Marseille.\n> Coordination intégrale de chantier avec interlocuteur unique : démolition, gros œuvre, maçonnerie, électricité, plomberie, climatisation, isolation phonique/thermique, menuiseries et finitions.\n> Pôle dédié aux investisseurs immobiliers, marchands de biens et copropriétés : rénovations locatives optimisées ROI, divisions de plateaux (T1/T2), réhabilitation d'immeubles.\n> Téléphone : 07 66 01 88 26 — Email : contact@webuildmarseille.fr — SIREN : 901 806 000 — RCS Marseille.\n> Engagements : Visite technique sur site gratuite, chiffrage détaillé poste par poste sous 48h ouvrées.\n\n## Synthèse des services (Tous Corps d'État)\n\n1. **Rénovation complète d'appartements** : Haussmannien, contemporain, copropriétés marseillaises, redistribution des pièces, démolition de cloisons et murs porteurs, remise à neuf globale.\n2. **Climatisation réversible & Chauffage** : Pose de systèmes split, multi-split, climatisation gainable intégrée, pompes à chaleur air/air, remplacement de chauffe-eau et optimisation énergétique.\n3. **Rénovation de maisons & Gros œuvre** : Maisons de ville, reprises sous œuvre, ouvertures de baies vitrées avec IPN, extensions, ravalement de façades et toitures.\n4. **Rénovation d'immeubles de rapport** : Réhabilitation complète d'immeubles marseillais (parties communes, toitures, cages d'escalier, colonnes montantes d'eau et d'électricité).\n5. **Projets Investisseurs & Divisions** : Optimisation des surfaces au m², transformation de grands appartements en plusieurs lots locatifs à fort rendement, finitions durables adaptées à la location.\n6. **Électricité & Plomberie** : Remise aux normes NF C 15-100, création intégrale de salles de bains et cuisines, évacuations, réseaux sanitaires.\n\n## Zone d'intervention géographique prioritaire\n\n- Marseille (tous les arrondissements) : 13001, 13002, 13003, 13004, 13005, 13006, 13007, 13008, 13009, 13010, 13011, 13012, 13013, 13014, 13015, 13016.\n- Quartiers récurrents : Vieux-Port, Castellane, Préfecture, Vauban, Roucas-Blanc, Prado, La Valentine, Saint-Barnabé, Joliette, Panier, Cinq-Avenues.\n- Métropole Aix-Marseille-Provence.\n\n## Pages et ressources officielles\n\n- [Accueil](https://webuildmarseille.fr/) : Présentation générale, expertises, réalisations avant/après, avis et formulaire de devis 48h.\n- [Rénovation générale à Marseille](https://webuildmarseille.fr/renovation-marseille/) : Panorama complet de l'offre tous corps d'état et méthode de pilotage.\n- [Rénovation d'appartements à Marseille](https://webuildmarseille.fr/renovation-appartement-marseille/) : Guide spécifique chantiers appartements et copropriétés.\n- [Rénovation de maisons à Marseille](https://webuildmarseille.fr/renovation-maison-marseille/) : Gros œuvre, extensions et réhabilitation de maisons.\n- [Rénovation d'immeubles à Marseille](https://webuildmarseille.fr/renovation-immeuble-marseille/) : Rénovation multi-lots et immeubles de rapport.\n- [Rénovation pour investisseurs à Marseille](https://webuildmarseille.fr/renovation-investisseur-marseille/) : Divisions de plateaux et valorisation patrimoniale.\n- [Réalisations de chantiers](https://webuildmarseille.fr/realisations/) : Comparatifs avant/après travaux.\n- [À propos de l'entreprise](https://webuildmarseille.fr/a-propos/) : Identité juridique, valeurs et fonctionnement.\n"
+    },
+    {
+      "url": "https://webuildmarseille.fr/404.html",
+      "final_url": "https://webuildmarseille.fr/404.html",
+      "status": 200,
+      "redirects": [],
+      "headers": {
+        "Accept-Ranges": "bytes",
+        "Age": "2",
+        "Cache-Control": "public,max-age=0,must-revalidate",
+        "Cache-Status": "\"Netlify Edge\"; fwd=miss; fwd-status=200; stored",
+        "Content-Encoding": "br",
+        "Content-Length": "937",
+        "Content-Type": "text/html; charset=UTF-8",
+        "Date": "Sun, 13 Sep 2026 09:58:04 GMT",
+        "Etag": "\"b6199914c7348d1e12eaaf1388f48751-ssl-df\"",
+        "Permissions-Policy": "camera=(), microphone=(), geolocation=()",
+        "Referrer-Policy": "strict-origin-when-cross-origin",
+        "Server": "Netlify",
+        "Strict-Transport-Security": "max-age=31536000",
+        "Vary": "Accept-Encoding",
+        "X-Content-Type-Options": "nosniff",
+        "X-Frame-Options": "DENY",
+        "X-Nf-Request-Id": "01M2D37NWGYFQFQ676EWY9XSD2"
+      },
+      "bytes": 2197,
+      "elapsed_ms": 255,
+      "sha256": "71485545f529eb0fe07bcf02070d0007568de4f01d9c206cba8d5f2f1b7ed9f4",
+      "title": "Page introuvable — WEBUILD, entreprise de bâtiment à Marseille",
+      "descriptions": [],
+      "robots": [
+        "noindex"
+      ],
+      "canonical": [],
+      "headings": [
+        [
+          "h1",
+          "Cette page n'existe pas (ou plus)."
+        ]
+      ],
+      "images": [],
+      "schema": [],
+      "forms": [],
+      "links": [
+        "/",
+        "/",
+        "tel:+33766018826"
+      ],
+      "text": "Page introuvable — WEBUILD, entreprise de bâtiment à Marseille WEBUILD Cette page n'existe pas (ou plus). Le lien est peut-être ancien ou mal recopié. Le plus simple : repartir de l'accueil, ou nous appeler directement. Retour à l'accueil 07 66 01 88 26"
+    },
+    {
+      "url": "https://webuildmarseille.fr/merci-devis/",
+      "final_url": "https://webuildmarseille.fr/merci-devis/",
+      "status": 200,
+      "redirects": [],
+      "headers": {
+        "Accept-Ranges": "bytes",
+        "Age": "0",
+        "Cache-Control": "public,max-age=0,must-revalidate",
+        "Cache-Status": "\"Netlify Edge\"; fwd=miss; fwd-status=200; stored",
+        "Content-Encoding": "br",
+        "Content-Length": "1860",
+        "Content-Type": "text/html; charset=UTF-8",
+        "Date": "Sun, 13 Sep 2026 09:58:04 GMT",
+        "Etag": "\"27cdd417679c41dc9b4f24152994ff2d-ssl-df\"",
+        "Permissions-Policy": "camera=(), microphone=(), geolocation=()",
+        "Referrer-Policy": "strict-origin-when-cross-origin",
+        "Server": "Netlify",
+        "Strict-Transport-Security": "max-age=31536000",
+        "Vary": "Accept-Encoding",
+        "X-Content-Type-Options": "nosniff",
+        "X-Frame-Options": "DENY",
+        "X-Nf-Request-Id": "01M2D37P4WG62S5C2AW66GHGYC"
+      },
+      "bytes": 4698,
+      "elapsed_ms": 182,
+      "sha256": "85700f1d0cfdf0578e2bc0a363281f2d589563dcf7ee34c04e7899c0617c6ea6",
+      "title": "Demande de devis reçue — WEBUILD Marseille",
+      "descriptions": [],
+      "robots": [
+        "noindex, nofollow"
+      ],
+      "canonical": [],
+      "headings": [
+        [
+          "h1",
+          "Merci. Votre demande de chantier est bien reçue."
+        ]
+      ],
+      "images": [],
+      "schema": [],
+      "forms": [],
+      "links": [
+        "/",
+        "https://wa.me/33766018826?text=Bonjour%2C%20je%20viens%20d%27envoyer%20une%20demande%20de%20devis%20sur%20votre%20site.",
+        "tel:+33766018826",
+        "/"
+      ],
+      "text": "Demande de devis reçue — WEBUILD Marseille WEBUILD DEMANDE ENREGISTRÉE AVEC SUCCÈS Merci. Votre demande de chantier est bien reçue. Un conducteur de travaux de WEBUILD analyse vos éléments (surface, localisation, corps de métier). Nous vous recontactons sous 48 h ouvrées pour caler la visite technique gratuite ou affiner votre chiffrage. ⚡ Besoin d'un échange immédiat ? Pour nous transmettre des plans, photos du bien ou échanger directement avec notre équipe : Écrire sur WhatsApp 07 66 01 88 26 ← Retour au site"
+    },
+    {
+      "url": "https://webuildmarseille.fr/renovation-appartement-marseille/",
+      "final_url": "https://webuildmarseille.fr/renovation-appartement-marseille/",
+      "status": 200,
+      "redirects": [],
+      "headers": {
+        "Accept-Ranges": "bytes",
+        "Age": "0",
+        "Cache-Control": "public,max-age=0,must-revalidate",
+        "Cache-Status": "\"Netlify Edge\"; fwd=miss; fwd-status=200; stored",
+        "Content-Encoding": "br",
+        "Content-Type": "text/html; charset=UTF-8",
+        "Date": "Sun, 13 Sep 2026 09:58:04 GMT",
+        "Etag": "\"6ca844b9c51e9349a489427e2ea4a9b6-ssl-df\"",
+        "Permissions-Policy": "camera=(), microphone=(), geolocation=()",
+        "Referrer-Policy": "strict-origin-when-cross-origin",
+        "Server": "Netlify",
+        "Strict-Transport-Security": "max-age=31536000",
+        "Vary": "Accept-Encoding",
+        "X-Content-Type-Options": "nosniff",
+        "X-Frame-Options": "DENY",
+        "X-Nf-Request-Id": "01M2D37PAGKWGAA4F7J55CPVF2",
+        "Transfer-Encoding": "chunked"
+      },
+      "bytes": 25618,
+      "elapsed_ms": 355,
+      "sha256": "0edb54ae759836c83baa3d10d28f986e100e0270da2d497096cc96ef16cc7043",
+      "title": "Rénovation d'appartement à Marseille — Tous corps d'état | WEBUILD",
+      "descriptions": [
+        "WEBUILD rénove votre appartement à Marseille, tous corps d'état : redistribution, réseaux, cuisine, salle de bains. Visite gratuite, devis sous 48h."
+      ],
+      "robots": [],
+      "canonical": [
+        "https://webuildmarseille.fr/renovation-appartement-marseille/"
+      ],
+      "headings": [
+        [
+          "h1",
+          "Rénovation d'appartements à Marseille."
+        ],
+        [
+          "h2",
+          "Quels appartements rénovons-nous à Marseille ?"
+        ],
+        [
+          "h2",
+          "Ce que comprend une rénovation d'appartement"
+        ],
+        [
+          "h2",
+          "Le bâti ancien marseillais : ce que les murs cachent"
+        ],
+        [
+          "h2",
+          "Copropriété : les contraintes d'un chantier en appartement"
+        ],
+        [
+          "h2",
+          "Combien coûte une rénovation d'appartement à Marseille ?"
+        ],
+        [
+          "h2",
+          "Combien de temps durent les travaux ?"
+        ],
+        [
+          "h2",
+          "Questions fréquentes"
+        ],
+        [
+          "h2",
+          "Visite gratuite sur place. Devis détaillé sous 48h."
+        ],
+        [
+          "h2",
+          "Mentions légales"
+        ]
+      ],
+      "images": [],
+      "schema": [
+        {
+          "@context": "https://schema.org",
+          "@graph": [
+            {
+              "@type": "GeneralContractor",
+              "@id": "https://webuildmarseille.fr/#organization",
+              "name": "WEBUILD",
+              "legalName": "WEBUILD SAS",
+              "url": "https://webuildmarseille.fr",
+              "telephone": "+33766018826",
+              "email": "contact@webuildmarseille.fr",
+              "image": "https://webuildmarseille.fr/images/realisation-appartement.jpg",
+              "address": {
+                "@type": "PostalAddress",
+                "streetAddress": "41 rue Fongate",
+                "postalCode": "13006",
+                "addressLocality": "Marseille",
+                "addressCountry": "FR"
+              },
+              "areaServed": [
+                {
+                  "@type": "City",
+                  "name": "Marseille"
+                },
+                {
+                  "@type": "AdministrativeArea",
+                  "name": "Métropole Aix-Marseille-Provence"
+                }
+              ],
+              "identifier": [
+                {
+                  "@type": "PropertyValue",
+                  "propertyID": "SIRET",
+                  "value": "90180600000013"
+                },
+                {
+                  "@type": "PropertyValue",
+                  "propertyID": "VAT",
+                  "value": "FR33901806000"
+                }
+              ],
+              "knowsAbout": [
+                "Rénovation d'appartement",
+                "Rénovation de maison",
+                "Rénovation d'immeuble",
+                "Gros œuvre",
+                "Climatisation réversible",
+                "Électricité",
+                "Plomberie"
+              ]
+            },
+            {
+              "@type": "Service",
+              "name": "Rénovation d'appartements à Marseille",
+              "serviceType": "Rénovation complète, redistribution, électricité, plomberie, second œuvre",
+              "provider": {
+                "@id": "https://webuildmarseille.fr/#organization"
+              },
+              "areaServed": {
+                "@type": "City",
+                "name": "Marseille"
+              }
+            },
+            {
+              "@type": "BreadcrumbList",
+              "itemListElement": [
+                {
+                  "@type": "ListItem",
+                  "position": 1,
+                  "name": "Accueil",
+                  "item": "https://webuildmarseille.fr/"
+                },
+                {
+                  "@type": "ListItem",
+                  "position": 2,
+                  "name": "Rénovation Marseille",
+                  "item": "https://webuildmarseille.fr/renovation-marseille/"
+                },
+                {
+                  "@type": "ListItem",
+                  "position": 3,
+                  "name": "Rénovation appartement",
+                  "item": "https://webuildmarseille.fr/renovation-appartement-marseille/"
+                }
+              ]
+            },
+            {
+              "@type": "WebPage",
+              "@id": "https://webuildmarseille.fr/renovation-appartement-marseille/#page",
+              "url": "https://webuildmarseille.fr/renovation-appartement-marseille/",
+              "name": "Rénovation d'appartement à Marseille — Tous corps d'état | WEBUILD",
+              "about": {
+                "@id": "https://webuildmarseille.fr/#organization"
+              },
+              "inLanguage": "fr-FR"
+            },
+            {
+              "@type": "FAQPage",
+              "mainEntity": [
+                {
+                  "@type": "Question",
+                  "name": "Peut-on habiter dans l'appartement pendant les travaux ?",
+                  "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "Sur une rénovation partielle, c'est souvent possible en séquençant les zones de travail. Sur une rénovation complète, non : l'eau et l'électricité sont coupées par phases, et la poussière rend le logement invivable. Nous vous disons franchement, dès la visite, ce qui est tenable dans votre cas."
+                  }
+                },
+                {
+                  "@type": "Question",
+                  "name": "Quel délai entre la signature du devis et le démarrage du chantier ?",
+                  "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "Le délai dépend de nos chantiers en cours et des approvisionnements nécessaires. La date de démarrage est confirmée à la signature, avec le planning détaillé. Nous ne promettons pas de date avant d'avoir visité le bien."
+                  }
+                },
+                {
+                  "@type": "Question",
+                  "name": "Qui gère le syndic et la copropriété ?",
+                  "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "L'autorisation en assemblée générale reste portée par le copropriétaire, mais nous préparons les documents techniques pour le syndic, nous respectons les horaires du règlement de copropriété et nous protégeons les parties communes pendant toute la durée du chantier."
+                  }
+                },
+                {
+                  "@type": "Question",
+                  "name": "Rénovez-vous aussi un appartement pour le mettre en location ?",
+                  "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "Oui. Pour un bien destiné à la location, nous adaptons les prestations au loyer visé et nous serrons le planning pour remettre l'appartement sur le marché vite. C'est l'objet de notre approche dédiée aux investisseurs."
+                  }
+                },
+                {
+                  "@type": "Question",
+                  "name": "Comment démarrer avec WEBUILD ?",
+                  "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "Par une visite de l'appartement, gratuite et sans engagement. Vous recevez ensuite un chiffrage détaillé poste par poste sous 48h, puis un planning de travaux dès signature."
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "forms": [],
+      "links": [
+        "#contenu",
+        "/",
+        "/#expertises",
+        "/renovation-investisseur-marseille/",
+        "/realisations/",
+        "/#contact",
+        "/#contact",
+        "/#expertises",
+        "/renovation-investisseur-marseille/",
+        "/realisations/",
+        "/#contact",
+        "/#contact",
+        "/",
+        "/renovation-marseille/",
+        "/renovation-investisseur-marseille/",
+        "/renovation-marseille/",
+        "/renovation-maison-marseille/",
+        "/realisations/",
+        "/renovation-investisseur-marseille/",
+        "/#contact",
+        "tel:+33766018826",
+        "/",
+        "/#expertises",
+        "/renovation-marseille/",
+        "/renovation-investisseur-marseille/",
+        "/realisations/",
+        "/a-propos/",
+        "/#contact",
+        "tel:+33766018826",
+        "mailto:contact@webuildmarseille.fr",
+        "mailto:contact@webuildmarseille.fr",
+        "tel:+33766018826",
+        "tel:+33766018826",
+        "https://wa.me/33766018826?text=Bonjour%2C%20je%20souhaite%20un%20devis%20pour%20des%20travaux.",
+        "/#contact",
+        "https://wa.me/33766018826?text=Bonjour%2C%20je%20souhaite%20un%20devis%20pour%20des%20travaux."
+      ],
+      "text": "Rénovation d'appartement à Marseille — Tous corps d'état | WEBUILD Aller au contenu WEBUILD Expertises Investisseurs Réalisations Contact Demander un devis Expertises Investisseurs Réalisations Contact Demander un devis Accueil Rénovation Marseille Rénovation appartement Rénovation d'appartements à Marseille. WEBUILD rénove des appartements à Marseille, du T2 au grand haussmannien. L'entreprise coordonne tous les corps d'état — démolition, électricité, plomberie, second œuvre — pour les particuliers qui transforment leur logement comme pour les investisseurs qui préparent un bien pour la location ou la revente. Quels appartements rénovons-nous à Marseille ? Les T2 et T3 , souvent achetés pour louer. L'enjeu y est simple : un logement sain, aux normes et fonctionnel, sans surinvestir par rapport au loyer visé. Si c'est votre projet, notre page dédiée à la rénovation pour investisseurs à Marseille détaille cette approche. Les grands appartements haussmanniens familiaux du centre — notamment dans les 6e, 1er et 4e arrondissements. Beaux volumes, parquets, moulures : le travail consiste à moderniser les réseaux et les pièces d'eau sans effacer ce qui fait le caractère du bien, et à repenser la distribution quand les pièces en enfilade ne conviennent plus à la vie d'une famille. Les appartements anciens à redistribuer : cuisine au fond, couloir qui mange des mètres carrés, pièces mal proportionnées. On ouvre, on déplace, on fait entrer la lumière. Ce type de chantier est au cœur de notre activité de rénovation à Marseille , où une grande partie du parc date d'avant-guerre. Vous avez une maison plutôt qu'un appartement ? Voir notre page sur la rénovation de maisons à Marseille . Ce que comprend une rénovation d'appartement Redistribution — dépose ou création de cloisons, ouvertures, réorganisation des circulations ; Électricité — mise aux normes du tableau et des circuits, ajout de points lumineux et de prises ; Plomberie — remplacement des réseaux, déplacement des points d'eau, création ou refonte de salle de bains ; Cuisine — dépose de l'existant, adaptation des réseaux, pose des meubles et équipements ; Sols — réparation de planchers anciens, chape, parquet, carrelage ; Menuiseries — portes, placards, fenêtres ; Finitions — peinture des murs et plafonds, contrôle et nettoyage de fin de chantier. Le bâti ancien marseillais : ce que les murs cachent Un appartement marseillais du centre a souvent de beaux atouts — hauteur sous plafond, moulures, planchers d'origine — et des réseaux du même âge. Derrière les cloisons, on découvre régulièrement de la plomberie en plomb ou hors d'âge, un câblage électrique d'une autre époque, des évacuations en fonte fatiguées, des planchers fragilisés ou de l'humidité ancienne. Ces découvertes ne sont pas des accidents de parcours : elles sont la règle dans l'ancien. C'est pourquoi la visite avant devis est indispensable, et pourquoi le chiffrage se fait poste par poste plutôt qu'au forfait. Quand un imprévu apparaît en cours de chantier, tous les corps de métier sont déjà sous notre coordination — on traite le problème sans arrêter le chantier ni jongler entre des artisans qui se renvoient la responsabilité. Copropriété : les contraintes d'un chantier en appartement Rénover un appartement, ce n'est pas seulement rénover des murs : c'est travailler dans un immeuble habité, avec des règles. Autorisations en assemblée générale — tout ce qui touche aux parties communes ou à l'aspect extérieur (fenêtres, percements, évacuations) doit être voté en AG. Nous vous aidons à monter le dossier descriptif ; Documents pour le syndic — descriptif des travaux, planning, coordonnées de l'entreprise : nous fournissons ce que le syndic demande ; Horaires de chantier — le règlement de copropriété encadre les heures de bruit. Nous les respectons et prévenons les voisins ; Protection des parties communes — cages d'escalier, halls et ascenseur sont protégés avant le premier coup de marteau ; Évacuation des gravats — en centre-ville, le stationnement se mérite. Benne ou big-bags selon la rue, avec autorisation de voirie quand elle est nécessaire. Combien coûte une rénovation d'appartement à Marseille ? Aucun prix fiable ne peut être donné sans visite. Un chiffrage au m² envoyé à distance serait un mensonge : deux appartements de même surface peuvent demander des budgets très différents. Ce qui fait varier le coût : la surface et le nombre de pièces d'eau ; l' état de départ — réseaux à refaire entièrement ou partiellement, planchers, humidité ; l'ampleur de la redistribution — déplacer une cloison n'a rien à voir avec repenser tout le plan ; le niveau de finition visé ; l' étage et l'accès — un 4e sans ascenseur coûte plus cher en manutention qu'un rez-de-chaussée ; les contraintes de copropriété — horaires réduits, protections, évacuation compliquée. Après une visite gratuite, vous recevez un chiffrage détaillé poste par poste : vous voyez ce que coûte chaque poste, et vous pouvez ajuster le périmètre en connaissance de cause. Pour voir ce que donnent ces chantiers une fois livrés, consultez nos réalisations . Combien de temps durent les travaux ? Même logique : la durée dépend du chantier, pas d'une promesse standard. Un chantier ciblé — une salle de bains, une cuisine — compte en semaines. Une rénovation complète avec redistribution et refonte des réseaux compte en mois, d'autant plus si le bâti réserve des découvertes ou si la copropriété impose des horaires réduits. Le planning détaillé vous est remis à la signature, et un point d'avancement a lieu chaque semaine. Si un imprévu décale une étape, vous le savez tout de suite, avec la solution et la nouvelle date. Questions fréquentes Peut-on habiter dans l'appartement pendant les travaux ? Sur une rénovation partielle, c'est souvent possible en séquençant les zones de travail. Sur une rénovation complète, non : l'eau et l'électricité sont coupées par phases, et la poussière rend le logement invivable. Nous vous disons franchement, dès la visite, ce qui est tenable dans votre cas. Quel délai entre la signature du devis et le démarrage du chantier ? Le délai dépend de nos chantiers en cours et des approvisionnements nécessaires. La date de démarrage est confirmée à la signature, avec le planning détaillé. Nous ne promettons pas de date avant d'avoir visité le bien. Qui gère le syndic et la copropriété ? L'autorisation en assemblée générale reste portée par le copropriétaire, mais nous préparons les documents techniques pour le syndic, nous respectons les horaires du règlement de copropriété et nous protégeons les parties communes pendant toute la durée du chantier. Rénovez-vous aussi un appartement pour le mettre en location ? Oui. Pour un bien destiné à la location, nous adaptons les prestations au loyer visé et nous serrons le planning pour remettre l'appartement sur le marché vite. C'est l'objet de notre approche dédiée aux investisseurs à Marseille . Comment démarrer avec WEBUILD ? Par une visite de l'appartement, gratuite et sans engagement. Vous recevez ensuite un chiffrage détaillé poste par poste sous 48h, puis un planning de travaux dès signature. Visite gratuite sur place. Devis détaillé sous 48h. Décrivez votre chantier en deux minutes — on s'occupe de la suite. Demander un devis 07 66 01 88 26 WEBUILD Entreprise générale de bâtiment à Marseille. Rénovation, gros œuvre et second œuvre — un seul interlocuteur pour tout votre chantier. Navigation Expertises Rénovation Marseille Investisseurs Réalisations À propos Contact Contact 07 66 01 88 26 contact@webuildmarseille.fr Marseille et métropole Aix-Marseille © 2026 WEBUILD Marseille. Tous droits réservés. Mentions légales Mentions légales Éditeur du site WEBUILD — SAS au capital de 100,00 €, entreprise générale de bâtiment SIREN : 901 806 000 — SIRET (siège) : 901 806 000 00013 RCS Marseille 901 806 000 (inscrit le 28/07/2021) N° TVA intracommunautaire : FR33901806000 Adresse : 41 RUE FONGATE 13006 MARSEILLE Directeur de la publication CLEMENT BARANES Contact contact@webuildmarseille.fr · 07 66 01 88 26 Hébergement Netlify, Inc. — 512 2nd Street, Suite 200, San Francisco, CA 94107, États-Unis — netlify.com Les demandes de devis sont transmises de manière sécurisée via Netlify. Fermer Appeler WhatsApp Devis WhatsApp"
+    },
+    {
+      "url": "https://webuildmarseille.fr/renovation-maison-marseille/",
+      "final_url": "https://webuildmarseille.fr/renovation-maison-marseille/",
+      "status": 200,
+      "redirects": [],
+      "headers": {
+        "Accept-Ranges": "bytes",
+        "Age": "0",
+        "Cache-Control": "public,max-age=0,must-revalidate",
+        "Cache-Status": "\"Netlify Edge\"; fwd=miss; fwd-status=200; stored",
+        "Content-Encoding": "br",
+        "Content-Type": "text/html; charset=UTF-8",
+        "Date": "Sun, 13 Sep 2026 09:58:04 GMT",
+        "Etag": "\"3f181de735cf1da3339197f0cb558571-ssl-df\"",
+        "Permissions-Policy": "camera=(), microphone=(), geolocation=()",
+        "Referrer-Policy": "strict-origin-when-cross-origin",
+        "Server": "Netlify",
+        "Strict-Transport-Security": "max-age=31536000",
+        "Vary": "Accept-Encoding",
+        "X-Content-Type-Options": "nosniff",
+        "X-Frame-Options": "DENY",
+        "X-Nf-Request-Id": "01M2D37PNVH84YE3G13YB0AKTV",
+        "Transfer-Encoding": "chunked"
+      },
+      "bytes": 26004,
+      "elapsed_ms": 264,
+      "sha256": "a6ba46c0d1e6f3690fa324d585ca14081d902e12a5cec6e9e21b8661aaa6be20",
+      "title": "Rénovation de maison à Marseille — Gros œuvre & finitions | WEBUILD",
+      "descriptions": [
+        "Rénovation de maisons à Marseille : gros œuvre, extensions, façades, électricité, plomberie et finitions pilotées par un interlocuteur unique."
+      ],
+      "robots": [],
+      "canonical": [
+        "https://webuildmarseille.fr/renovation-maison-marseille/"
+      ],
+      "headings": [
+        [
+          "h1",
+          "Rénovation de maisons à Marseille."
+        ],
+        [
+          "h2",
+          "Les maisons que nous rénovons à Marseille"
+        ],
+        [
+          "h2",
+          "Rénover une maison : ce qui change par rapport à un appartement"
+        ],
+        [
+          "h2",
+          "Gros œuvre : ouvertures, extensions, façades"
+        ],
+        [
+          "h2",
+          "Réseaux et second œuvre, sur plusieurs niveaux"
+        ],
+        [
+          "h2",
+          "Par où commencer une rénovation de maison ?"
+        ],
+        [
+          "h2",
+          "Combien de temps dure la rénovation d'une maison ?"
+        ],
+        [
+          "h2",
+          "Questions fréquentes"
+        ],
+        [
+          "h2",
+          "Visite gratuite sur place. Devis détaillé sous 48h."
+        ],
+        [
+          "h2",
+          "Mentions légales"
+        ]
+      ],
+      "images": [],
+      "schema": [
+        {
+          "@context": "https://schema.org",
+          "@graph": [
+            {
+              "@type": "GeneralContractor",
+              "@id": "https://webuildmarseille.fr/#organization",
+              "name": "WEBUILD",
+              "legalName": "WEBUILD SAS",
+              "url": "https://webuildmarseille.fr",
+              "telephone": "+33766018826",
+              "email": "contact@webuildmarseille.fr",
+              "image": "https://webuildmarseille.fr/images/realisation-appartement.jpg",
+              "address": {
+                "@type": "PostalAddress",
+                "streetAddress": "41 rue Fongate",
+                "postalCode": "13006",
+                "addressLocality": "Marseille",
+                "addressCountry": "FR"
+              },
+              "areaServed": [
+                {
+                  "@type": "City",
+                  "name": "Marseille"
+                },
+                {
+                  "@type": "AdministrativeArea",
+                  "name": "Métropole Aix-Marseille-Provence"
+                }
+              ],
+              "identifier": [
+                {
+                  "@type": "PropertyValue",
+                  "propertyID": "SIRET",
+                  "value": "90180600000013"
+                },
+                {
+                  "@type": "PropertyValue",
+                  "propertyID": "VAT",
+                  "value": "FR33901806000"
+                }
+              ],
+              "knowsAbout": [
+                "Rénovation d'appartement",
+                "Rénovation de maison",
+                "Rénovation d'immeuble",
+                "Gros œuvre",
+                "Climatisation réversible",
+                "Électricité",
+                "Plomberie"
+              ]
+            },
+            {
+              "@type": "Service",
+              "name": "Rénovation de maisons à Marseille",
+              "serviceType": "Rénovation complète, gros œuvre, extensions, façades, électricité, plomberie, second œuvre",
+              "provider": {
+                "@id": "https://webuildmarseille.fr/#organization"
+              },
+              "areaServed": {
+                "@type": "City",
+                "name": "Marseille"
+              }
+            },
+            {
+              "@type": "BreadcrumbList",
+              "itemListElement": [
+                {
+                  "@type": "ListItem",
+                  "position": 1,
+                  "name": "Accueil",
+                  "item": "https://webuildmarseille.fr/"
+                },
+                {
+                  "@type": "ListItem",
+                  "position": 2,
+                  "name": "Rénovation Marseille",
+                  "item": "https://webuildmarseille.fr/renovation-marseille/"
+                },
+                {
+                  "@type": "ListItem",
+                  "position": 3,
+                  "name": "Rénovation maison",
+                  "item": "https://webuildmarseille.fr/renovation-maison-marseille/"
+                }
+              ]
+            },
+            {
+              "@type": "WebPage",
+              "@id": "https://webuildmarseille.fr/renovation-maison-marseille/#page",
+              "url": "https://webuildmarseille.fr/renovation-maison-marseille/",
+              "name": "Rénovation de maison à Marseille — Gros œuvre & finitions | WEBUILD",
+              "about": {
+                "@id": "https://webuildmarseille.fr/#organization"
+              },
+              "inLanguage": "fr-FR"
+            },
+            {
+              "@type": "FAQPage",
+              "mainEntity": [
+                {
+                  "@type": "Question",
+                  "name": "Peut-on étendre une maison à Marseille ?",
+                  "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "Oui, dans la plupart des cas : extension latérale, surélévation ou agrandissement en rez-de-jardin sont des chantiers courants. La faisabilité dépend de la structure existante, du terrain et des règles d'urbanisme applicables à votre parcelle. Nous vérifions ces points lors de la visite, puis réalisons l'extension et l'ensemble des reprises structurelles nécessaires."
+                  }
+                },
+                {
+                  "@type": "Question",
+                  "name": "Peut-on habiter dans la maison pendant les travaux ?",
+                  "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "C'est souvent possible dans une maison, contrairement à un appartement : nous pouvons phaser le chantier niveau par niveau pour que vous conserviez une partie habitable. Il faut le dire honnêtement : vivre sur un chantier reste contraignant — poussière, bruit, coupures ponctuelles d'eau ou d'électricité. Nous vous présentons le phasage réellement envisageable lors de la visite, en fonction de votre maison."
+                  }
+                },
+                {
+                  "@type": "Question",
+                  "name": "Quelles autorisations pour une extension ou une façade ?",
+                  "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "Une extension ou la modification d'une façade passe en général par une déclaration préalable de travaux déposée en mairie ; les extensions les plus importantes relèvent d'un permis de construire. Les règles dépendent de votre parcelle et du PLU. Nous vous indiquons ce qui s'applique à votre projet et nous vous aidons à préparer le dossier, sans nous substituer à un conseil juridique."
+                  }
+                },
+                {
+                  "@type": "Question",
+                  "name": "Rénovez-vous les maisons destinées à la revente ou à la location ?",
+                  "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "Oui. Nous travaillons régulièrement avec des investisseurs, marchands de biens et SCI qui achètent des maisons à rénover à Marseille. Dans ce cas, le chantier est pensé en coût au m² et en planning serré : chiffrage poste par poste, arbitrage sur les postes qui valorisent le bien, coordination unique. C'est l'objet de notre approche dédiée aux investisseurs."
+                  }
+                },
+                {
+                  "@type": "Question",
+                  "name": "Comment démarre une rénovation de maison avec WEBUILD ?",
+                  "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "Par une visite du bien, gratuite et sans engagement. Nous y faisons le diagnostic de la structure, des réseaux et des finitions, puis vous recevez un chiffrage détaillé poste par poste sous 48h. Un planning de travaux est établi dès signature."
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "forms": [],
+      "links": [
+        "#contenu",
+        "/",
+        "/#expertises",
+        "/renovation-investisseur-marseille/",
+        "/realisations/",
+        "/#contact",
+        "/#contact",
+        "/#expertises",
+        "/renovation-investisseur-marseille/",
+        "/realisations/",
+        "/#contact",
+        "/#contact",
+        "/",
+        "/renovation-marseille/",
+        "/renovation-marseille/",
+        "/realisations/",
+        "/renovation-investisseur-marseille/",
+        "/renovation-appartement-marseille/",
+        "/#contact",
+        "tel:+33766018826",
+        "/",
+        "/#expertises",
+        "/renovation-marseille/",
+        "/renovation-investisseur-marseille/",
+        "/realisations/",
+        "/a-propos/",
+        "/#contact",
+        "tel:+33766018826",
+        "mailto:contact@webuildmarseille.fr",
+        "mailto:contact@webuildmarseille.fr",
+        "tel:+33766018826",
+        "tel:+33766018826",
+        "https://wa.me/33766018826?text=Bonjour%2C%20je%20souhaite%20un%20devis%20pour%20des%20travaux.",
+        "/#contact",
+        "https://wa.me/33766018826?text=Bonjour%2C%20je%20souhaite%20un%20devis%20pour%20des%20travaux."
+      ],
+      "text": "Rénovation de maison à Marseille — Gros œuvre & finitions | WEBUILD Aller au contenu WEBUILD Expertises Investisseurs Réalisations Contact Demander un devis Expertises Investisseurs Réalisations Contact Demander un devis Accueil Rénovation Marseille Rénovation maison Rénovation de maisons à Marseille. WEBUILD est une entreprise générale de bâtiment qui rénove des maisons à Marseille : maisons de ville, villas et maisons sur plusieurs niveaux, avec cour ou jardinet. L'entreprise prend en charge l'ensemble du chantier — démolition, gros œuvre, extensions, façades, électricité, plomberie et second œuvre — avec un interlocuteur unique, pour les propriétaires occupants comme pour les investisseurs immobiliers. Les maisons que nous rénovons à Marseille Nous intervenons sur les maisons de ville marseillaises — nombreuses dans les 4e, 5e, 9e, 10e, 11e et 12e arrondissements — ainsi que sur les villas des quartiers résidentiels. Ces maisons ont souvent des points communs : plusieurs niveaux, des circulations verticales qui coupent la surface habitable, des réseaux vieillissants, et une cour ou un jardinet qui permet d'envisager une extension. Ce sont aussi des maisons où les problèmes se superposent : une distribution à repenser au rez-de-chaussée, des planchers ou des murs porteurs à reprendre, une façade fatiguée. C'est précisément le type de chantier qu'une entreprise générale de rénovation à Marseille prend en charge de bout en bout. Rénover une maison : ce qui change par rapport à un appartement Bonne nouvelle d'abord : pas de syndic , pas d'autorisation d'assemblée générale, pas de règlement de copropriété. Vous décidez seul de vos travaux, dans le respect des règles d'urbanisme. En contrepartie, tout se gère sur place : l' accès chantier pour les camions et les livraisons, le stockage des matériaux (souvent dans la cour ou le jardinet), et la relation avec le voisinage — mitoyenneté, bruit, empiètements éventuels. Nous organisons ces points dès la préparation du chantier. Autre différence de taille : une maison sur plusieurs niveaux permet souvent de phaser les travaux étage par étage et de continuer à habiter pendant le chantier. C'est un vrai avantage, sans être confortable — nous détaillons ce phasage plus bas. Gros œuvre : ouvertures, extensions, façades Le gros œuvre est au cœur des rénovations de maison. Nos chantiers comprennent fréquemment : Ouvertures de murs porteurs — toujours précédées d'une étude, pour redistribuer le rez-de-chaussée ou créer des volumes traversants ; Reprises structurelles — consolidation, reprises en sous-œuvre, adaptation des planchers ; Extensions — agrandissement latéral ou en rez-de-jardin, raccordé à l'existant ; Façades — ravalement, reprise des enduits, remise en état des parements. À noter honnêtement : une extension ou la modification d'une façade demande en général une déclaration préalable de travaux en mairie — un permis de construire pour les extensions les plus importantes. Nous vous indiquons ce qui s'applique à votre projet dès la visite. Réseaux et second œuvre, sur plusieurs niveaux Sur une maison, l'électricité et la plomberie se refont en traversant les étages : création de colonnes, passage des gaines, tableau réparti par niveau si nécessaire. Nous refondons ces réseaux en entier ou partiellement, selon leur état réel constaté à la visite. Le second œuvre suit : isolation des murs et des combles, placo et faux plafonds, sols et carrelage , menuiseries , puis peinture et finitions. Tout est coordonné par la même équipe, dans le même planning — vous pouvez voir ce que cela donne sur nos réalisations . Par où commencer une rénovation de maison ? Par un diagnostic sur place . Rien de sérieux ne se chiffre sans voir la maison : l'état de la structure, celui des réseaux, celui des finitions. Cette visite est gratuite et sans engagement. Ensuite, on priorise dans cet ordre : la structure d'abord (murs porteurs, planchers, extensions), les réseaux ensuite (électricité, plomberie), les finitions en dernier . Commencer par la peinture d'une maison dont les réseaux sont à refaire, c'est payer deux fois. Le chiffrage est établi poste par poste , ce qui permet d'arbitrer et d'échelonner si nécessaire. Combien de temps dure la rénovation d'une maison ? Cela dépend de facteurs concrets, pas de promesses : la surface et le nombre de niveaux, l'ampleur du gros œuvre (une ouverture de mur porteur ou une extension allongent forcément le planning), l'état des réseaux découvert à l'ouverture, et le phasage si vous restez habiter — un chantier phasé prend plus de temps qu'un chantier sur maison vide. Ce que nous nous engageons à faire : un planning réaliste établi dès la signature , un point d'avancement chaque semaine, et un seul interlocuteur qui répond quand le chantier avance ou qu'un imprévu apparaît. Questions fréquentes Peut-on étendre une maison à Marseille ? Oui, dans la plupart des cas : extension latérale, surélévation ou agrandissement en rez-de-jardin sont des chantiers courants. La faisabilité dépend de la structure existante, du terrain et des règles d'urbanisme applicables à votre parcelle. Nous vérifions ces points lors de la visite, puis réalisons l'extension et l'ensemble des reprises structurelles nécessaires. Peut-on habiter dans la maison pendant les travaux ? C'est souvent possible dans une maison, contrairement à un appartement : nous pouvons phaser le chantier niveau par niveau pour que vous conserviez une partie habitable. Il faut le dire honnêtement : vivre sur un chantier reste contraignant — poussière, bruit, coupures ponctuelles d'eau ou d'électricité. Nous vous présentons le phasage réellement envisageable lors de la visite, en fonction de votre maison. Quelles autorisations pour une extension ou une façade ? Une extension ou la modification d'une façade passe en général par une déclaration préalable de travaux déposée en mairie ; les extensions les plus importantes relèvent d'un permis de construire. Les règles dépendent de votre parcelle et du PLU. Nous vous indiquons ce qui s'applique à votre projet et nous vous aidons à préparer le dossier, sans nous substituer à un conseil juridique. Rénovez-vous les maisons destinées à la revente ou à la location ? Oui. Nous travaillons régulièrement avec des investisseurs, marchands de biens et SCI qui achètent des maisons à rénover à Marseille. Dans ce cas, le chantier est pensé en coût au m² et en planning serré : chiffrage poste par poste, arbitrage sur les postes qui valorisent le bien, coordination unique. C'est l'objet de notre approche dédiée aux investisseurs . Comment démarre une rénovation de maison avec WEBUILD ? Par une visite du bien, gratuite et sans engagement. Nous y faisons le diagnostic de la structure, des réseaux et des finitions, puis vous recevez un chiffrage détaillé poste par poste sous 48h. Un planning de travaux est établi dès signature. Vous rénovez plutôt un appartement ? Retrouvez notre page dédiée à la rénovation d'appartements à Marseille , avec les contraintes propres à la copropriété. Visite gratuite sur place. Devis détaillé sous 48h. Décrivez votre chantier en deux minutes — on s'occupe de la suite. Demander un devis 07 66 01 88 26 WEBUILD Entreprise générale de bâtiment à Marseille. Rénovation, gros œuvre et second œuvre — un seul interlocuteur pour tout votre chantier. Navigation Expertises Rénovation Marseille Investisseurs Réalisations À propos Contact Contact 07 66 01 88 26 contact@webuildmarseille.fr Marseille et métropole Aix-Marseille © 2026 WEBUILD Marseille. Tous droits réservés. Mentions légales Mentions légales Éditeur du site WEBUILD — SAS au capital de 100,00 €, entreprise générale de bâtiment SIREN : 901 806 000 — SIRET (siège) : 901 806 000 00013 RCS Marseille 901 806 000 (inscrit le 28/07/2021) N° TVA intracommunautaire : FR33901806000 Adresse : 41 RUE FONGATE 13006 MARSEILLE Directeur de la publication CLEMENT BARANES Contact contact@webuildmarseille.fr · 07 66 01 88 26 Hébergement Netlify, Inc. — 512 2nd Street, Suite 200, San Francisco, CA 94107, États-Unis — netlify.com Les demandes de devis sont transmises de manière sécurisée via Netlify. Fermer Appeler WhatsApp Devis WhatsApp"
+    },
+    {
+      "url": "https://webuildmarseille.fr/renovation-immeuble-marseille/",
+      "final_url": "https://webuildmarseille.fr/renovation-immeuble-marseille/",
+      "status": 200,
+      "redirects": [],
+      "headers": {
+        "Accept-Ranges": "bytes",
+        "Age": "0",
+        "Cache-Control": "public,max-age=0,must-revalidate",
+        "Cache-Status": "\"Netlify Edge\"; fwd=miss; fwd-status=200; stored",
+        "Content-Encoding": "br",
+        "Content-Type": "text/html; charset=UTF-8",
+        "Date": "Sun, 13 Sep 2026 09:58:05 GMT",
+        "Etag": "\"eba17c4527ce6070dd546d5f6227c158-ssl-df\"",
+        "Permissions-Policy": "camera=(), microphone=(), geolocation=()",
+        "Referrer-Policy": "strict-origin-when-cross-origin",
+        "Server": "Netlify",
+        "Strict-Transport-Security": "max-age=31536000",
+        "Vary": "Accept-Encoding",
+        "X-Content-Type-Options": "nosniff",
+        "X-Frame-Options": "DENY",
+        "X-Nf-Request-Id": "01M2D37PYHWT0SW6RD53JAN20R",
+        "Transfer-Encoding": "chunked"
+      },
+      "bytes": 25614,
+      "elapsed_ms": 305,
+      "sha256": "c943d713ee37e8a7d207f60f534ba5b54a1ecc65f9f54844467791eabd09d7e0",
+      "title": "Rénovation d'immeuble à Marseille — Immeubles de rapport | WEBUILD",
+      "descriptions": [
+        "Entreprise générale pour la rénovation d'immeubles de rapport et petites copropriétés à Marseille : lots, parties communes, réseaux, façade. Visite gratuite."
+      ],
+      "robots": [],
+      "canonical": [
+        "https://webuildmarseille.fr/renovation-immeuble-marseille/"
+      ],
+      "headings": [
+        [
+          "h1",
+          "Rénovation d'immeubles à Marseille."
+        ],
+        [
+          "h2",
+          "Pourquoi traiter un immeuble en une seule opération ?"
+        ],
+        [
+          "h2",
+          "Ce qui se refait dans un immeuble"
+        ],
+        [
+          "h2",
+          "Rénover un immeuble de rapport sans arrêter les loyers, possible ?"
+        ],
+        [
+          "h2",
+          "Un immeuble occupé : comment se passe le chantier ?"
+        ],
+        [
+          "h2",
+          "Qui coordonne quoi : propriétaires, syndic, accès"
+        ],
+        [
+          "h2",
+          "Diviser des appartements ou reconfigurer les lots"
+        ],
+        [
+          "h2",
+          "Questions fréquentes"
+        ],
+        [
+          "h2",
+          "Visite gratuite de votre immeuble. Devis détaillé sous 48h."
+        ],
+        [
+          "h2",
+          "Mentions légales"
+        ]
+      ],
+      "images": [],
+      "schema": [
+        {
+          "@context": "https://schema.org",
+          "@graph": [
+            {
+              "@type": "GeneralContractor",
+              "@id": "https://webuildmarseille.fr/#organization",
+              "name": "WEBUILD",
+              "legalName": "WEBUILD SAS",
+              "url": "https://webuildmarseille.fr",
+              "telephone": "+33766018826",
+              "email": "contact@webuildmarseille.fr",
+              "image": "https://webuildmarseille.fr/images/realisation-appartement.jpg",
+              "address": {
+                "@type": "PostalAddress",
+                "streetAddress": "41 rue Fongate",
+                "postalCode": "13006",
+                "addressLocality": "Marseille",
+                "addressCountry": "FR"
+              },
+              "areaServed": [
+                {
+                  "@type": "City",
+                  "name": "Marseille"
+                },
+                {
+                  "@type": "AdministrativeArea",
+                  "name": "Métropole Aix-Marseille-Provence"
+                }
+              ],
+              "identifier": [
+                {
+                  "@type": "PropertyValue",
+                  "propertyID": "SIRET",
+                  "value": "90180600000013"
+                },
+                {
+                  "@type": "PropertyValue",
+                  "propertyID": "VAT",
+                  "value": "FR33901806000"
+                }
+              ],
+              "knowsAbout": [
+                "Rénovation d'appartement",
+                "Rénovation de maison",
+                "Rénovation d'immeuble",
+                "Gros œuvre",
+                "Climatisation réversible",
+                "Électricité",
+                "Plomberie"
+              ]
+            },
+            {
+              "@type": "Service",
+              "name": "Rénovation d'immeubles à Marseille",
+              "serviceType": "Rénovation complète, gros œuvre, électricité, plomberie, second œuvre",
+              "provider": {
+                "@id": "https://webuildmarseille.fr/#organization"
+              },
+              "areaServed": {
+                "@type": "City",
+                "name": "Marseille"
+              }
+            },
+            {
+              "@type": "BreadcrumbList",
+              "itemListElement": [
+                {
+                  "@type": "ListItem",
+                  "position": 1,
+                  "name": "Accueil",
+                  "item": "https://webuildmarseille.fr/"
+                },
+                {
+                  "@type": "ListItem",
+                  "position": 2,
+                  "name": "Rénovation Marseille",
+                  "item": "https://webuildmarseille.fr/renovation-marseille/"
+                },
+                {
+                  "@type": "ListItem",
+                  "position": 3,
+                  "name": "Rénovation immeuble",
+                  "item": "https://webuildmarseille.fr/renovation-immeuble-marseille/"
+                }
+              ]
+            },
+            {
+              "@type": "WebPage",
+              "@id": "https://webuildmarseille.fr/renovation-immeuble-marseille/#page",
+              "url": "https://webuildmarseille.fr/renovation-immeuble-marseille/",
+              "name": "Rénovation d'immeuble à Marseille — Immeubles de rapport | WEBUILD",
+              "about": {
+                "@id": "https://webuildmarseille.fr/#organization"
+              },
+              "inLanguage": "fr-FR"
+            },
+            {
+              "@type": "FAQPage",
+              "mainEntity": [
+                {
+                  "@type": "Question",
+                  "name": "Pouvez-vous rénover plusieurs lots en même temps ?",
+                  "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "Oui, c'est même l'intérêt de l'opération : traiter plusieurs appartements en parallèle permet de mutualiser l'échafaudage, l'évacuation des gravats, la refonte des réseaux et le pilotage du chantier. La séquence exacte se décide à la visite, en fonction de l'état des lots et de leur occupation."
+                  }
+                },
+                {
+                  "@type": "Question",
+                  "name": "Les parties communes sont-elles incluses dans le chantier ?",
+                  "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "Si vous en êtes le décideur (propriétaire unique ou mandat de la copropriété), oui : hall, escaliers, circulations et façade peuvent être intégrés au même chantier que les appartements. Pour une copropriété classique, ces travaux relèvent d'un vote en assemblée générale et nous fournissons au syndic les éléments techniques nécessaires."
+                  }
+                },
+                {
+                  "@type": "Question",
+                  "name": "Peut-on rénover un immeuble occupé ?",
+                  "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "C'est possible, mais ça s'organise. On peut phaser les travaux cage d'escalier par cage d'escalier, commencer par les lots vacants, ou concentrer les interventions bruyantes sur des plages définies. Le scénario retenu dépend de l'état de l'immeuble et des occupants en place — il se décide à la visite, pas à distance."
+                  }
+                },
+                {
+                  "@type": "Question",
+                  "name": "Qui coordonne avec le syndic et les occupants ?",
+                  "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "Nous. Votre interlocuteur WEBUILD transmet au syndic les documents techniques dont il a besoin, gère les accès et les contraintes d'exploitation, et informe les occupants du déroulé du chantier. Vous n'avez pas à faire l'interface entre les corps de métier, le syndic et les locataires."
+                  }
+                },
+                {
+                  "@type": "Question",
+                  "name": "Faites-vous aussi la division d'appartements dans un immeuble ?",
+                  "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "Oui — reconfigurer un grand plateau en plusieurs logements fait partie de nos chantiers. C'est une approche spécifique, pensée pour la rentabilité locative, que nous détaillons sur notre page dédiée aux projets investisseurs."
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "forms": [],
+      "links": [
+        "#contenu",
+        "/",
+        "/#expertises",
+        "/renovation-investisseur-marseille/",
+        "/realisations/",
+        "/#contact",
+        "/#contact",
+        "/#expertises",
+        "/renovation-investisseur-marseille/",
+        "/realisations/",
+        "/#contact",
+        "/#contact",
+        "/",
+        "/renovation-marseille/",
+        "/renovation-marseille/",
+        "/renovation-investisseur-marseille/",
+        "/renovation-appartement-marseille/",
+        "/renovation-investisseur-marseille/",
+        "/realisations/",
+        "/#contact",
+        "tel:+33766018826",
+        "/",
+        "/#expertises",
+        "/renovation-marseille/",
+        "/renovation-investisseur-marseille/",
+        "/realisations/",
+        "/a-propos/",
+        "/#contact",
+        "tel:+33766018826",
+        "mailto:contact@webuildmarseille.fr",
+        "mailto:contact@webuildmarseille.fr",
+        "tel:+33766018826",
+        "tel:+33766018826",
+        "https://wa.me/33766018826?text=Bonjour%2C%20je%20souhaite%20un%20devis%20pour%20des%20travaux.",
+        "/#contact",
+        "https://wa.me/33766018826?text=Bonjour%2C%20je%20souhaite%20un%20devis%20pour%20des%20travaux."
+      ],
+      "text": "Rénovation d'immeuble à Marseille — Immeubles de rapport | WEBUILD Aller au contenu WEBUILD Expertises Investisseurs Réalisations Contact Demander un devis Expertises Investisseurs Réalisations Contact Demander un devis Accueil Rénovation Marseille Rénovation immeuble Rénovation d'immeubles à Marseille. WEBUILD est une entreprise générale de bâtiment à Marseille qui rénove des immeubles de rapport et des petites copropriétés, en une seule opération : appartements lot par lot, colonnes montantes de plomberie et d'électricité, parties communes et façade. Propriétaires d'immeubles entiers, SCI familiales, investisseurs : un seul interlocuteur pilote tous les corps de métier, du curage aux finitions. Pourquoi traiter un immeuble en une seule opération ? Rénover un immeuble lot par lot, au fil des années, revient à payer plusieurs fois les mêmes choses : l'échafaudage remonté puis démonté, les bennes à gravats qui reviennent, des réseaux refaits appartement par appartement au lieu d'être repris à la colonne. En traitant l'immeuble en une seule opération, ces postes se mutualisent : un seul échafaudage, une seule logistique de gravats, une refonte des réseaux en colonne, un seul planning . Il y a un deuxième avantage, moins visible mais tout aussi concret : la cohérence. Les lots sont refaits avec les mêmes réseaux, les mêmes prestations et le même niveau de finition — ce qui compte pour la location comme pour la revente. Et côté pilotage, vous avez un interlocuteur unique qui connaît tout le bâtiment, au lieu d'une succession d'artisans qui ne se parlent pas. Ce qui se refait dans un immeuble Un chantier d'immeuble complet touche quatre familles de postes : Les appartements, lot par lot — curage, redistribution, cuisines, salles de bains, sols, finitions. Chaque lot fait l'objet d'un état des lieux et d'un périmètre de travaux propre ; Les colonnes montantes — remplacement des colonnes d'eau et d'évacuation, refonte des alimentations électriques. C'est souvent le point de départ : inutile de refaire des salles de bains sur des colonnes en fin de vie ; Les parties communes — hall d'entrée, cages d'escalier, circulations, luminaires, peintures et sols des zones communes ; La façade et le gros œuvre — ravalement, reprises structurelles, ouvertures, étanchéité quand le bâti le demande. Tout est coordonné par la même équipe : rénovation complète, gros œuvre, électricité, plomberie et second œuvre sont pilotés ensemble, ce qui évite les retards en cascade entre corps de métier. Rénover un immeuble de rapport sans arrêter les loyers, possible ? Parfois partiellement — et c'est une vraie question de stratégie, pas un slogan. Selon l'état de l'immeuble et la répartition des lots, on peut envisager de commencer par les appartements vacants, de phaser le chantier cage d'escalier par cage d'escalier, ou de regrouper les interventions lourdes sur une période donnée pour limiter la gêne des occupants en place. Mais soyons francs : quand les colonnes montantes ou la toiture sont à refaire, il y a des phases où certains lots ne sont pas habitables. Ce qui est jouable ou non ne se décide pas au téléphone — ça se décide à la visite , en regardant l'état réel des réseaux, des parties communes et de l'occupation. Un immeuble occupé : comment se passe le chantier ? L'occupation change l'organisation, pas la faisabilité. Concrètement, on définit ensemble un phasage : quelles zones sont attaquées en premier, à quelles plages horaires passent les interventions bruyantes, comment circulent les occupants pendant les travaux. Les lots vacants sont traités en priorité, et les parties communes restent praticables en permanence. L'information des occupants fait partie du chantier : affichage en hall, prévenance sur les coupures d'eau ou d'électricité, un point de contact identifiable. Un immeuble occupé qui se passe bien, c'est d'abord un immeuble où chacun sait ce qui va se passer. Qui coordonne quoi : propriétaires, syndic, accès Sur un immeuble, les parties prenantes se multiplient vite : plusieurs propriétaires, un syndic parfois, des locataires, des voisins. Votre interlocuteur WEBUILD centralise tout ça : il recueille les arbitrages quand il y a plusieurs propriétaires, transmet au syndic les documents techniques dont il a besoin, gère les autorisations d'accès et organise la logistique — bennes, stockage, protection des communs. Pour une SCI familiale ou un groupe de propriétaires, c'est souvent ça qui débloque un projet dormant depuis des années : un seul responsable qui rend compte à tout le monde, avec un point d'avancement régulier . Diviser des appartements ou reconfigurer les lots Beaucoup d'immeubles de rapport marseillais abritent de grands plateaux qui se prêtent à la division : transformer un grand appartement en deux ou trois logements, ou redécouper des lots existants pour mieux répondre à la demande locative. C'est un exercice spécifique — rentabilité au m², optimisation des plans, création de réseaux indépendants — qui mérite une approche dédiée. Nous la détaillons sur notre page rénovation pour investisseurs à Marseille , qui couvre aussi le chiffrage serré et la remise en exploitation rapide des lots. Pour un seul appartement à reprendre dans un immeuble, c'est notre page rénovation d'appartements qu'il faut consulter. Questions fréquentes Pouvez-vous rénover plusieurs lots en même temps ? Oui, c'est même l'intérêt de l'opération : traiter plusieurs appartements en parallèle permet de mutualiser l'échafaudage, l'évacuation des gravats, la refonte des réseaux et le pilotage du chantier. La séquence exacte se décide à la visite, en fonction de l'état des lots et de leur occupation. Les parties communes sont-elles incluses dans le chantier ? Si vous en êtes le décideur (propriétaire unique ou mandat de la copropriété), oui : hall, escaliers, circulations et façade peuvent être intégrés au même chantier que les appartements. Pour une copropriété classique, ces travaux relèvent d'un vote en assemblée générale et nous fournissons au syndic les éléments techniques nécessaires. Peut-on rénover un immeuble occupé ? C'est possible, mais ça s'organise. On peut phaser les travaux cage d'escalier par cage d'escalier, commencer par les lots vacants, ou concentrer les interventions bruyantes sur des plages définies. Le scénario retenu dépend de l'état de l'immeuble et des occupants en place — il se décide à la visite, pas à distance. Qui coordonne avec le syndic et les occupants ? Nous. Votre interlocuteur WEBUILD transmet au syndic les documents techniques dont il a besoin, gère les accès et les contraintes d'exploitation, et informe les occupants du déroulé du chantier. Vous n'avez pas à faire l'interface entre les corps de métier, le syndic et les locataires. Faites-vous aussi la division d'appartements dans un immeuble ? Oui — reconfigurer un grand plateau en plusieurs logements fait partie de nos chantiers. C'est une approche spécifique, pensée pour la rentabilité locative, que nous détaillons sur notre page dédiée aux projets investisseurs . Vous voulez voir à quoi ressemble un chantier terminé ? Parcourez nos réalisations à Marseille . Visite gratuite de votre immeuble. Devis détaillé sous 48h. Décrivez votre projet en deux minutes — on s'occupe de la suite. Demander un devis 07 66 01 88 26 WEBUILD Entreprise générale de bâtiment à Marseille. Rénovation, gros œuvre et second œuvre — un seul interlocuteur pour tout votre chantier. Navigation Expertises Rénovation Marseille Investisseurs Réalisations À propos Contact Contact 07 66 01 88 26 contact@webuildmarseille.fr Marseille et métropole Aix-Marseille © 2026 WEBUILD Marseille. Tous droits réservés. Mentions légales Mentions légales Éditeur du site WEBUILD — SAS au capital de 100,00 €, entreprise générale de bâtiment SIREN : 901 806 000 — SIRET (siège) : 901 806 000 00013 RCS Marseille 901 806 000 (inscrit le 28/07/2021) N° TVA intracommunautaire : FR33901806000 Adresse : 41 RUE FONGATE 13006 MARSEILLE Directeur de la publication CLEMENT BARANES Contact contact@webuildmarseille.fr · 07 66 01 88 26 Hébergement Netlify, Inc. — 512 2nd Street, Suite 200, San Francisco, CA 94107, États-Unis — netlify.com Les demandes de devis sont transmises de manière sécurisée via Netlify. Fermer Appeler WhatsApp Devis WhatsApp"
+    },
+    {
+      "url": "https://webuildmarseille.fr/renovation-investisseur-marseille/",
+      "final_url": "https://webuildmarseille.fr/renovation-investisseur-marseille/",
+      "status": 200,
+      "redirects": [],
+      "headers": {
+        "Accept-Ranges": "bytes",
+        "Age": "0",
+        "Cache-Control": "public,max-age=0,must-revalidate",
+        "Cache-Status": "\"Netlify Edge\"; fwd=miss; fwd-status=200; stored",
+        "Content-Encoding": "br",
+        "Content-Type": "text/html; charset=UTF-8",
+        "Date": "Sun, 13 Sep 2026 09:58:05 GMT",
+        "Etag": "\"ae91cda700062c111b2c6f2f07ba3cf9-ssl-df\"",
+        "Permissions-Policy": "camera=(), microphone=(), geolocation=()",
+        "Referrer-Policy": "strict-origin-when-cross-origin",
+        "Server": "Netlify",
+        "Strict-Transport-Security": "max-age=31536000",
+        "Vary": "Accept-Encoding",
+        "X-Content-Type-Options": "nosniff",
+        "X-Frame-Options": "DENY",
+        "X-Nf-Request-Id": "01M2D37QBAXEY9HDG6G4E205DG",
+        "Transfer-Encoding": "chunked"
+      },
+      "bytes": 25352,
+      "elapsed_ms": 333,
+      "sha256": "3c7b216e15dcca44f25fffd9818db7498e3063aba92e02737bd6bae5415afc17",
+      "title": "Rénovation pour investisseurs immobiliers à Marseille | WEBUILD",
+      "descriptions": [
+        "Rénovation de biens locatifs, revente et immeubles de rapport à Marseille. Chiffrage avant achat, planning serré, un seul interlocuteur. Devis sous 48h."
+      ],
+      "robots": [],
+      "canonical": [
+        "https://webuildmarseille.fr/renovation-investisseur-marseille/"
+      ],
+      "headings": [
+        [
+          "h1",
+          "Rénovation pour investisseurs immobiliers à Marseille."
+        ],
+        [
+          "h2",
+          "Un chantier d'investisseur ne se pilote pas comme un chantier de particulier"
+        ],
+        [
+          "h2",
+          "Pour qui travaillons-nous ?"
+        ],
+        [
+          "h2",
+          "Ce que nous réalisons pour les investisseurs"
+        ],
+        [
+          "h2",
+          "Un process construit pour les investisseurs"
+        ],
+        [
+          "h2",
+          "Comment arbitrer entre budget travaux et rentabilité ?"
+        ],
+        [
+          "h2",
+          "Division d'appartement : ce que ça implique techniquement"
+        ],
+        [
+          "h2",
+          "Acheter un bien à rénover : sécuriser le budget avant de signer"
+        ],
+        [
+          "h2",
+          "Questions fréquentes"
+        ],
+        [
+          "h2",
+          "Un bien à chiffrer avant achat ? Visite technique, réponse sous 48h."
+        ],
+        [
+          "h2",
+          "Mentions légales"
+        ]
+      ],
+      "images": [],
+      "schema": [
+        {
+          "@context": "https://schema.org",
+          "@graph": [
+            {
+              "@type": "GeneralContractor",
+              "@id": "https://webuildmarseille.fr/#organization",
+              "name": "WEBUILD",
+              "legalName": "WEBUILD SAS",
+              "url": "https://webuildmarseille.fr",
+              "telephone": "+33766018826",
+              "email": "contact@webuildmarseille.fr",
+              "image": "https://webuildmarseille.fr/images/realisation-appartement.jpg",
+              "address": {
+                "@type": "PostalAddress",
+                "streetAddress": "41 rue Fongate",
+                "postalCode": "13006",
+                "addressLocality": "Marseille",
+                "addressCountry": "FR"
+              },
+              "areaServed": [
+                {
+                  "@type": "City",
+                  "name": "Marseille"
+                },
+                {
+                  "@type": "AdministrativeArea",
+                  "name": "Métropole Aix-Marseille-Provence"
+                }
+              ],
+              "identifier": [
+                {
+                  "@type": "PropertyValue",
+                  "propertyID": "SIRET",
+                  "value": "90180600000013"
+                },
+                {
+                  "@type": "PropertyValue",
+                  "propertyID": "VAT",
+                  "value": "FR33901806000"
+                }
+              ],
+              "knowsAbout": [
+                "Rénovation d'appartement",
+                "Rénovation de maison",
+                "Rénovation d'immeuble",
+                "Gros œuvre",
+                "Climatisation réversible",
+                "Électricité",
+                "Plomberie"
+              ]
+            },
+            {
+              "@type": "Service",
+              "name": "Rénovation pour investisseurs immobiliers à Marseille",
+              "serviceType": "Rénovation complète, gros œuvre, électricité, plomberie, second œuvre, projets investisseurs",
+              "provider": {
+                "@id": "https://webuildmarseille.fr/#organization"
+              },
+              "areaServed": {
+                "@type": "City",
+                "name": "Marseille"
+              }
+            },
+            {
+              "@type": "BreadcrumbList",
+              "itemListElement": [
+                {
+                  "@type": "ListItem",
+                  "position": 1,
+                  "name": "Accueil",
+                  "item": "https://webuildmarseille.fr/"
+                },
+                {
+                  "@type": "ListItem",
+                  "position": 2,
+                  "name": "Investisseurs",
+                  "item": "https://webuildmarseille.fr/renovation-investisseur-marseille/"
+                }
+              ]
+            },
+            {
+              "@type": "WebPage",
+              "@id": "https://webuildmarseille.fr/renovation-investisseur-marseille/#page",
+              "url": "https://webuildmarseille.fr/renovation-investisseur-marseille/",
+              "name": "Rénovation pour investisseurs immobiliers à Marseille | WEBUILD",
+              "about": {
+                "@id": "https://webuildmarseille.fr/#organization"
+              },
+              "inLanguage": "fr-FR"
+            },
+            {
+              "@type": "FAQPage",
+              "mainEntity": [
+                {
+                  "@type": "Question",
+                  "name": "Pouvez-vous chiffrer les travaux avant que j'achète le bien ?",
+                  "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "Oui. Nous réalisons une visite technique avant signature — y compris avant le compromis quand c'est possible — pour estimer les postes et vous donner un ordre de grandeur fiable avant de vous engager."
+                  }
+                },
+                {
+                  "@type": "Question",
+                  "name": "Rénovez-vous plusieurs lots dans un même immeuble ?",
+                  "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "Oui. Nous intervenons sur plusieurs lots d'un même immeuble, ce qui mutualise logistique, accès et une partie des réseaux, avec un seul pilotage."
+                  }
+                },
+                {
+                  "@type": "Question",
+                  "name": "Je suis marchand de biens avec un planning serré, comment travaillez-vous ?",
+                  "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "Avec un planning resserré dès le départ : décisions rapides, corps de métier enchaînés sans temps mort, point d'avancement chaque semaine. Chaque semaine de chantier est une semaine sans revente — le planning est construit en conséquence."
+                  }
+                },
+                {
+                  "@type": "Question",
+                  "name": "Quel niveau de finition pour un bien destiné à la location ?",
+                  "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "Cela dépend de la cible : un locatif étudiant n'appelle pas les mêmes matériaux qu'une location familiale ou qu'une revente. Nous vous aidons à arbitrer poste par poste entre budget travaux et loyer ou prix de revente visé."
+                  }
+                },
+                {
+                  "@type": "Question",
+                  "name": "Qui suit le chantier si je ne suis pas sur place ?",
+                  "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "Votre interlocuteur unique chez WEBUILD : il pilote tous les corps de métier, vous envoie un point chaque semaine et vous alerte dès qu'une décision vous revient. La réception se fait avec vous."
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "forms": [],
+      "links": [
+        "#contenu",
+        "/",
+        "/#expertises",
+        "/renovation-investisseur-marseille/",
+        "/realisations/",
+        "/#contact",
+        "/#contact",
+        "/#expertises",
+        "/renovation-investisseur-marseille/",
+        "/realisations/",
+        "/#contact",
+        "/#contact",
+        "/",
+        "/renovation-immeuble-marseille/",
+        "/renovation-appartement-marseille/",
+        "/realisations/",
+        "/renovation-marseille/",
+        "/#contact",
+        "tel:+33766018826",
+        "/",
+        "/#expertises",
+        "/renovation-marseille/",
+        "/renovation-investisseur-marseille/",
+        "/realisations/",
+        "/a-propos/",
+        "/#contact",
+        "tel:+33766018826",
+        "mailto:contact@webuildmarseille.fr",
+        "mailto:contact@webuildmarseille.fr",
+        "tel:+33766018826",
+        "tel:+33766018826",
+        "https://wa.me/33766018826?text=Bonjour%2C%20je%20souhaite%20un%20devis%20pour%20des%20travaux.",
+        "/#contact",
+        "https://wa.me/33766018826?text=Bonjour%2C%20je%20souhaite%20un%20devis%20pour%20des%20travaux."
+      ],
+      "text": "Rénovation pour investisseurs immobiliers à Marseille | WEBUILD Aller au contenu WEBUILD Expertises Investisseurs Réalisations Contact Demander un devis Expertises Investisseurs Réalisations Contact Demander un devis Accueil Investisseurs Rénovation pour investisseurs immobiliers à Marseille. WEBUILD est une entreprise générale de bâtiment qui accompagne les marchands de biens, les investisseurs locatifs, les SCI et les propriétaires bailleurs à Marseille. Rénovation avant location ou avant revente, division de lots, remise en état : tous les corps de métier sont coordonnés par un interlocuteur unique, avec un chiffrage possible avant l'achat du bien. Un chantier d'investisseur ne se pilote pas comme un chantier de particulier Pour un investisseur, chaque semaine de chantier est une semaine sans loyer ou sans revente. Cette équation change tout dans la conduite des travaux : elle impose un planning resserré où les corps de métier s'enchaînent sans temps mort, des décisions rapides prises en amont plutôt qu'en cours de chantier, et pas d'allers-retours entre artisans qui se renvoient la responsabilité des retards. C'est exactement ce qu'une entreprise générale apporte : un seul planning, un seul responsable, et la capacité d'absorber les imprévus — fréquents dans l'ancien marseillais — sans arrêter le chantier. Pour qui travaillons-nous ? Nous intervenons pour tous les profils d'investissement immobilier : Marchands de biens — rénovation avant revente, avec un planning qui limite la durée de portage du bien ; Investisseurs locatifs — rénovation avant location, du studio étudiant à la location familiale ; SCI — rénovation de patrimoine détenu en société, sur un ou plusieurs actifs ; Propriétaires bailleurs — remise en état après occupation et remise aux normes entre deux locataires ; Propriétaires d'immeubles de rapport — rénovation de plusieurs lots, parties communes, remise en exploitation. Ce que nous réalisons pour les investisseurs Nos chantiers investisseurs couvrent les situations suivantes : Rénovation avant location — remise à neuf complète ou ciblée, finition adaptée à la cible locative ; Rénovation avant revente — valorisation sans surinvestir, chaque poste arbitré contre la plus-value attendue ; Remise en état après occupation — dégradations, usure, remise au propre entre deux locataires ; Division de lots — grande surface en plusieurs lots, ou T3 repensé en T2 optimisé pour le marché locatif ; Rénovation multi-lots — plusieurs appartements d'un même immeuble pilotés ensemble, logistique et accès mutualisés. Pour un immeuble entier, voir notre page rénovation d'immeubles à Marseille ; pour un appartement seul, la rénovation d'appartements . Un process construit pour les investisseurs Le déroulé est pensé pour sécuriser votre budget et votre calendrier : Visite technique — sur place, possible avant la signature d'un compromis, pour sécuriser un budget travaux avant l'achat ; Chiffrage poste par poste — un devis détaillé où chaque poste est identifiable et discutable ; Arbitrages travaux / rentabilité — niveau de finition adapté à la cible : locatif étudiant, location familiale ou revente ; Lancement — planning validé, approvisionnements anticipés, pas de démarrage à moitié préparé ; Coordination tous corps d'état — démolition, gros œuvre, réseaux, second œuvre, sous un seul pilotage ; Point hebdomadaire — un compte rendu chaque semaine, utile si vous n'êtes pas sur place ; Livraison — réception ensemble, finitions vérifiées une à une. Comment arbitrer entre budget travaux et rentabilité ? Il n'y a pas de réponse universelle — seulement des critères. Le loyer visé fixe le plafond raisonnable : les finitions doivent correspondre à ce que le marché locatif du quartier peut payer, pas à ce qui serait agréable dans l'absolu. Le quartier joue aussi : un même budget ne se rentabilise pas partout pareil. L'état du bien détermine la part des postes incompressibles : dans l'ancien marseillais, les postes structurants — réseaux, redistribution, planchers — font souvent l'essentiel du budget, et ce sont ceux qui ne se voient pas sur une annonce. Pour une revente, la logique s'inverse : certaines finitions se justifient par la plus-value, d'autres n'ont aucun retour. Notre rôle est de poser ces arbitrages avec vous, poste par poste, chiffres en main. Division d'appartement : ce que ça implique techniquement Transformer une grande surface en plusieurs lots n'est pas qu'une affaire de cloisons. Chaque lot doit disposer de réseaux indépendants : tableau électrique propre, arrivées d'eau et évacuations dédiées — l'évacuation étant souvent le point le plus contraignant, car elle dépend des colonnes existantes. La question des compteurs (eau, électricité) se règle dès la conception. Côté administratif, une division implique généralement des autorisations de copropriété et, selon les situations, une déclaration en mairie . Nous vous orientons sur ces démarches et fournissons les éléments techniques demandés par le syndic ou l'administration. Acheter un bien à rénover : sécuriser le budget avant de signer Beaucoup de mauvaises opérations le sont à cause d'un budget travaux sous-estimé, pas du prix d'achat. Notre réponse : une visite technique avant achat , possible avant le compromis, qui donne un ordre de grandeur des postes — pas un prix ferme sur un bien que vous ne possédez pas encore, mais une estimation sérieuse pour votre plan de financement. Les pièges classiques de l'ancien marseillais sont connus : électricité hors normes derrière des finitions récentes, plomberie en fin de vie, planchers fragilisés, humidité, colonnes d'évacuation à remplacer, ravalement à voter en copropriété. Une visite avec un œil de professionnel, avant de signer, change la donne. Voyez le type de chantiers que nous livrons dans nos réalisations et l'ensemble de nos interventions sur la page rénovation à Marseille . Questions fréquentes Pouvez-vous chiffrer les travaux avant que j'achète le bien ? Oui. Nous réalisons une visite technique avant signature — y compris avant le compromis quand c'est possible — pour estimer les postes et vous donner un ordre de grandeur fiable avant de vous engager. Rénovez-vous plusieurs lots dans un même immeuble ? Oui. Nous intervenons sur plusieurs lots d'un même immeuble, ce qui mutualise logistique, accès et une partie des réseaux, avec un seul pilotage. Je suis marchand de biens avec un planning serré, comment travaillez-vous ? Avec un planning resserré dès le départ : décisions rapides, corps de métier enchaînés sans temps mort, point d'avancement chaque semaine. Chaque semaine de chantier est une semaine sans revente — le planning est construit en conséquence. Quel niveau de finition pour un bien destiné à la location ? Cela dépend de la cible : un locatif étudiant n'appelle pas les mêmes matériaux qu'une location familiale ou qu'une revente. Nous vous aidons à arbitrer poste par poste entre budget travaux et loyer ou prix de revente visé. Qui suit le chantier si je ne suis pas sur place ? Votre interlocuteur unique chez WEBUILD : il pilote tous les corps de métier, vous envoie un point chaque semaine et vous alerte dès qu'une décision vous revient. La réception se fait avec vous. Un bien à chiffrer avant achat ? Visite technique, réponse sous 48h. Décrivez votre projet en deux minutes — on s'occupe de la suite. Demander un devis 07 66 01 88 26 WEBUILD Entreprise générale de bâtiment à Marseille. Rénovation, gros œuvre et second œuvre — un seul interlocuteur pour tout votre chantier. Navigation Expertises Rénovation Marseille Investisseurs Réalisations À propos Contact Contact 07 66 01 88 26 contact@webuildmarseille.fr Marseille et métropole Aix-Marseille © 2026 WEBUILD Marseille. Tous droits réservés. Mentions légales Mentions légales Éditeur du site WEBUILD — SAS au capital de 100,00 €, entreprise générale de bâtiment SIREN : 901 806 000 — SIRET (siège) : 901 806 000 00013 RCS Marseille 901 806 000 (inscrit le 28/07/2021) N° TVA intracommunautaire : FR33901806000 Adresse : 41 RUE FONGATE 13006 MARSEILLE Directeur de la publication CLEMENT BARANES Contact contact@webuildmarseille.fr · 07 66 01 88 26 Hébergement Netlify, Inc. — 512 2nd Street, Suite 200, San Francisco, CA 94107, États-Unis — netlify.com Les demandes de devis sont transmises de manière sécurisée via Netlify. Fermer Appeler WhatsApp Devis WhatsApp"
+    },
+    {
+      "url": "https://webuildmarseille.fr/renovation-marseille/",
+      "final_url": "https://webuildmarseille.fr/renovation-marseille/",
+      "status": 200,
+      "redirects": [],
+      "headers": {
+        "Accept-Ranges": "bytes",
+        "Age": "2",
+        "Cache-Control": "public,max-age=0,must-revalidate",
+        "Cache-Status": "\"Netlify Edge\"; fwd=miss; fwd-status=200; stored",
+        "Content-Encoding": "br",
+        "Content-Type": "text/html; charset=UTF-8",
+        "Date": "Sun, 13 Sep 2026 09:58:06 GMT",
+        "Etag": "\"e9988b65ac7f0d52995a939edaac4673-ssl-df\"",
+        "Permissions-Policy": "camera=(), microphone=(), geolocation=()",
+        "Referrer-Policy": "strict-origin-when-cross-origin",
+        "Server": "Netlify",
+        "Strict-Transport-Security": "max-age=31536000",
+        "Vary": "Accept-Encoding",
+        "X-Content-Type-Options": "nosniff",
+        "X-Frame-Options": "DENY",
+        "X-Nf-Request-Id": "01M2D37QPJDJPK4P287EKMJMEP",
+        "Transfer-Encoding": "chunked"
+      },
+      "bytes": 19586,
+      "elapsed_ms": 290,
+      "sha256": "39e9b9a76cb75c3844601df064dba9c42a16f539c70ab2a074bbb2e9beea4fcb",
+      "title": "Rénovation à Marseille — Entreprise générale de bâtiment tous corps d'état | WEBUILD",
+      "descriptions": [
+        "WEBUILD rénove appartements, maisons, immeubles et locaux professionnels à Marseille. Tous corps d'état coordonnés par un interlocuteur unique. Visite gratuite, devis sous 48h."
+      ],
+      "robots": [],
+      "canonical": [
+        "https://webuildmarseille.fr/renovation-marseille/"
+      ],
+      "headings": [
+        [
+          "h1",
+          "Rénovation à Marseille : appartements, maisons, immeubles et locaux."
+        ],
+        [
+          "h2",
+          "Pourquoi une entreprise générale plutôt que plusieurs artisans ?"
+        ],
+        [
+          "h2",
+          "Nos chantiers de rénovation à Marseille"
+        ],
+        [
+          "h3",
+          "Rénovation d'appartements"
+        ],
+        [
+          "h3",
+          "Rénovation de maisons"
+        ],
+        [
+          "h3",
+          "Rénovation d'immeubles"
+        ],
+        [
+          "h3",
+          "Rénovation pour investisseurs"
+        ],
+        [
+          "h2",
+          "Ce que comprend un chantier WEBUILD"
+        ],
+        [
+          "h2",
+          "Une méthode en quatre temps"
+        ],
+        [
+          "h2",
+          "Où intervenons-nous à Marseille ?"
+        ],
+        [
+          "h2",
+          "Questions fréquentes"
+        ],
+        [
+          "h2",
+          "Visite gratuite sur place. Devis détaillé sous 48h."
+        ],
+        [
+          "h2",
+          "Mentions légales"
+        ]
+      ],
+      "images": [],
+      "schema": [
+        {
+          "@context": "https://schema.org",
+          "@graph": [
+            {
+              "@type": "GeneralContractor",
+              "@id": "https://webuildmarseille.fr/#organization",
+              "name": "WEBUILD",
+              "legalName": "WEBUILD SAS",
+              "url": "https://webuildmarseille.fr",
+              "telephone": "+33766018826",
+              "email": "contact@webuildmarseille.fr",
+              "image": "https://webuildmarseille.fr/images/realisation-appartement.jpg",
+              "address": {
+                "@type": "PostalAddress",
+                "streetAddress": "41 rue Fongate",
+                "postalCode": "13006",
+                "addressLocality": "Marseille",
+                "addressCountry": "FR"
+              },
+              "areaServed": [
+                {
+                  "@type": "City",
+                  "name": "Marseille"
+                },
+                {
+                  "@type": "AdministrativeArea",
+                  "name": "Métropole Aix-Marseille-Provence"
+                }
+              ],
+              "identifier": [
+                {
+                  "@type": "PropertyValue",
+                  "propertyID": "SIRET",
+                  "value": "90180600000013"
+                },
+                {
+                  "@type": "PropertyValue",
+                  "propertyID": "VAT",
+                  "value": "FR33901806000"
+                }
+              ],
+              "knowsAbout": [
+                "Rénovation d'appartement",
+                "Rénovation de maison",
+                "Rénovation d'immeuble",
+                "Gros œuvre",
+                "Climatisation réversible",
+                "Électricité",
+                "Plomberie"
+              ]
+            },
+            {
+              "@type": "Service",
+              "name": "Rénovation tous corps d'état, Climatisation & Chauffage à Marseille",
+              "serviceType": "Rénovation complète, gros œuvre, climatisation réversible, chauffage, électricité, plomberie, second œuvre",
+              "provider": {
+                "@id": "https://webuildmarseille.fr/#organization"
+              },
+              "areaServed": {
+                "@type": "City",
+                "name": "Marseille"
+              }
+            },
+            {
+              "@type": "BreadcrumbList",
+              "itemListElement": [
+                {
+                  "@type": "ListItem",
+                  "position": 1,
+                  "name": "Accueil",
+                  "item": "https://webuildmarseille.fr/"
+                },
+                {
+                  "@type": "ListItem",
+                  "position": 2,
+                  "name": "Rénovation Marseille",
+                  "item": "https://webuildmarseille.fr/renovation-marseille/"
+                }
+              ]
+            },
+            {
+              "@type": "WebPage",
+              "@id": "https://webuildmarseille.fr/renovation-marseille/#page",
+              "url": "https://webuildmarseille.fr/renovation-marseille/",
+              "name": "Rénovation à Marseille — Entreprise générale de bâtiment tous corps d'état | WEBUILD",
+              "about": {
+                "@id": "https://webuildmarseille.fr/#organization"
+              },
+              "inLanguage": "fr-FR"
+            }
+          ]
+        }
+      ],
+      "forms": [],
+      "links": [
+        "#contenu",
+        "/",
+        "/#expertises",
+        "/renovation-investisseur-marseille/",
+        "/realisations/",
+        "/#contact",
+        "/#contact",
+        "/#expertises",
+        "/renovation-investisseur-marseille/",
+        "/realisations/",
+        "/#contact",
+        "/#contact",
+        "/",
+        "/renovation-appartement-marseille/",
+        "/renovation-maison-marseille/",
+        "/renovation-immeuble-marseille/",
+        "/renovation-investisseur-marseille/",
+        "/#contact",
+        "tel:+33766018826",
+        "/",
+        "/#expertises",
+        "/renovation-marseille/",
+        "/renovation-investisseur-marseille/",
+        "/realisations/",
+        "/a-propos/",
+        "/#contact",
+        "tel:+33766018826",
+        "mailto:contact@webuildmarseille.fr",
+        "mailto:contact@webuildmarseille.fr",
+        "tel:+33766018826",
+        "tel:+33766018826",
+        "https://wa.me/33766018826?text=Bonjour%2C%20je%20souhaite%20un%20devis%20pour%20des%20travaux.",
+        "/#contact",
+        "https://wa.me/33766018826?text=Bonjour%2C%20je%20souhaite%20un%20devis%20pour%20des%20travaux."
+      ],
+      "text": "Rénovation à Marseille — Entreprise générale de bâtiment tous corps d'état | WEBUILD Aller au contenu WEBUILD Expertises Investisseurs Réalisations Contact Demander un devis Expertises Investisseurs Réalisations Contact Demander un devis Accueil Rénovation Marseille Rénovation à Marseille : appartements, maisons, immeubles et locaux. WEBUILD est une entreprise générale de bâtiment intervenant à Marseille pour la rénovation complète d'appartements, de maisons, d'immeubles et de locaux professionnels. L'entreprise coordonne tous les corps de métier — démolition, gros œuvre, électricité, plomberie, second œuvre — et accompagne aussi bien les particuliers que les investisseurs immobiliers préparant un bien pour la location ou la revente. Pourquoi une entreprise générale plutôt que plusieurs artisans ? Une entreprise générale de bâtiment prend en charge l'intégralité d'un chantier : elle planifie les interventions de chaque corps de métier, commande les matériaux, contrôle la qualité et répond de l'ensemble. Au lieu de coordonner vous-même un maçon, un électricien, un plombier et un peintre — avec les risques de retards en cascade —, vous avez un seul interlocuteur, un seul planning et un seul responsable . C'est particulièrement déterminant à Marseille, où une grande partie du parc est ancienne : ouvrir un mur dans un appartement haussmannien révèle souvent des réseaux à refaire, des planchers à reprendre ou de la plomberie hors d'âge. Quand tout est piloté par la même équipe, ces imprévus se traitent sans arrêter le chantier. Nos chantiers de rénovation à Marseille Nous intervenons sur quatre grandes familles de projets, chacune avec ses propres contraintes : Rénovation d'appartements Du T2 au grand haussmannien : redistribution, réseaux, cuisines, salles de bains, finitions. Copropriété gérée. Rénovation de maisons Maisons de ville et villas marseillaises : gros œuvre, extensions, façades, redistribution des niveaux. Rénovation d'immeubles Immeubles de rapport et petites copropriétés : multi-lots, parties communes, remise en exploitation. Rénovation pour investisseurs Marchands de biens, bailleurs, SCI : chiffrage serré, planning optimisé, rentabilité au m². Ce que comprend un chantier WEBUILD Curage et démolition — dépose des cloisons, démantèlement des cuisines et salles de bains, évacuation des gravats ; Gros œuvre — ouvertures de murs porteurs avec étude, reprises structurelles, extensions, façades ; Réseaux — refonte électrique complète ou partielle, création de plomberie, évacuations ; Second œuvre — placo, isolation, faux plafonds, menuiseries, sols, carrelage ; Finitions — peinture, pose des équipements, contrôle et nettoyage de fin de chantier. Une méthode en quatre temps Chaque chantier suit le même déroulé : visite et écoute sur place (gratuite), devis détaillé poste par poste sous 48h, chantier piloté par un interlocuteur unique avec un point d'avancement chaque semaine, puis livraison soignée avec réception ensemble et finitions vérifiées une à une. Où intervenons-nous à Marseille ? Dans tous les arrondissements. La nature des chantiers varie selon les quartiers : appartements anciens à redistribuer dans le centre (1er, 2e, 6e), immeubles de rapport à rénover (1er, 3e, 5e), maisons de ville à reprendre en profondeur (4e, 9e, 10e, 11e, 12e), locaux en pied d'immeuble à transformer. Nous intervenons également dans la métropole Aix-Marseille. Questions fréquentes Prenez-vous en charge les rénovations partielles comme les rénovations complètes ? Oui. Notre cœur de métier est la rénovation complète, mais nous réalisons aussi des chantiers ciblés — salle de bains, cuisine, réseaux, gros œuvre — dès lors qu'ils demandent une coordination sérieuse. Qui gère les démarches en copropriété ? Nous vous guidons sur les autorisations à obtenir (déclaration en AG pour les travaux touchant aux parties communes ou à l'aspect extérieur) et nous fournissons au syndic les documents techniques dont il a besoin. Travaillez-vous aussi pour les professionnels ? Oui : locaux commerciaux, bureaux, immeubles de rapport, et projets pour investisseurs ou marchands de biens, qui font l'objet d'une approche dédiée. Comment démarre un chantier avec WEBUILD ? Par une visite du bien, gratuite et sans engagement. Vous recevez ensuite un chiffrage détaillé poste par poste sous 48h, et un planning de travaux dès signature. Visite gratuite sur place. Devis détaillé sous 48h. Décrivez votre chantier en deux minutes — on s'occupe de la suite. Demander un devis 07 66 01 88 26 WEBUILD Entreprise générale de bâtiment à Marseille. Rénovation, gros œuvre et second œuvre — un seul interlocuteur pour tout votre chantier. Navigation Expertises Rénovation Marseille Investisseurs Réalisations À propos Contact Contact 07 66 01 88 26 contact@webuildmarseille.fr Marseille et métropole Aix-Marseille © 2026 WEBUILD Marseille. Tous droits réservés. Mentions légales Mentions légales Éditeur du site WEBUILD — SAS au capital de 100,00 €, entreprise générale de bâtiment SIREN : 901 806 000 — SIRET (siège) : 901 806 000 00013 RCS Marseille 901 806 000 (inscrit le 28/07/2021) N° TVA intracommunautaire : FR33901806000 Adresse : 41 RUE FONGATE 13006 MARSEILLE Directeur de la publication CLEMENT BARANES Contact contact@webuildmarseille.fr · 07 66 01 88 26 Hébergement Netlify, Inc. — 512 2nd Street, Suite 200, San Francisco, CA 94107, États-Unis — netlify.com Les demandes de devis sont transmises de manière sécurisée via Netlify. Fermer Appeler WhatsApp Devis WhatsApp"
+    },
+    {
+      "url": "https://webuildmarseille.fr/realisations/",
+      "final_url": "https://webuildmarseille.fr/realisations/",
+      "status": 200,
+      "redirects": [],
+      "headers": {
+        "Accept-Ranges": "bytes",
+        "Age": "0",
+        "Cache-Control": "public,max-age=0,must-revalidate",
+        "Cache-Status": "\"Netlify Edge\"; fwd=miss; fwd-status=200; stored",
+        "Content-Encoding": "br",
+        "Content-Type": "text/html; charset=UTF-8",
+        "Date": "Sun, 13 Sep 2026 09:58:06 GMT",
+        "Etag": "\"9c949d5443e99e264eb58655c1c826d9-ssl-df\"",
+        "Permissions-Policy": "camera=(), microphone=(), geolocation=()",
+        "Referrer-Policy": "strict-origin-when-cross-origin",
+        "Server": "Netlify",
+        "Strict-Transport-Security": "max-age=31536000",
+        "Vary": "Accept-Encoding",
+        "X-Content-Type-Options": "nosniff",
+        "X-Frame-Options": "DENY",
+        "X-Nf-Request-Id": "01M2D37R321TQRRYJZDZ26GQ92",
+        "Transfer-Encoding": "chunked"
+      },
+      "bytes": 21218,
+      "elapsed_ms": 444,
+      "sha256": "7a52f064705bdabae77789c4c39e679780bd28ff540b58347bfe12187dd051df",
+      "title": "Réalisations — Chantiers de rénovation à Marseille | WEBUILD",
+      "descriptions": [
+        "Découvrez les chantiers de rénovation d'appartements, maisons et immeubles réalisés par WEBUILD à Marseille : photos avant et après travaux."
+      ],
+      "robots": [],
+      "canonical": [
+        "https://webuildmarseille.fr/realisations/"
+      ],
+      "headings": [
+        [
+          "h1",
+          "La preuve par le chantier."
+        ],
+        [
+          "h2",
+          "Ce que le chantier change, vraiment."
+        ],
+        [
+          "h3",
+          "Rénovation complète d’un appartement"
+        ],
+        [
+          "h3",
+          "Division d’un plateau en deux logements"
+        ],
+        [
+          "h3",
+          "Rénovation d’une salle de bains"
+        ],
+        [
+          "h3",
+          "Réhabilitation d’une maison de ville"
+        ],
+        [
+          "h3",
+          "Rénovation d’un studio locatif"
+        ],
+        [
+          "h3",
+          "Réaménagement de bureaux"
+        ],
+        [
+          "h2",
+          "Un chantier comme ceux-là ? Parlons-en."
+        ],
+        [
+          "h2",
+          "Mentions légales"
+        ]
+      ],
+      "images": [
+        {
+          "src": "/images/realisation-appartement.jpg",
+          "alt": "Séjour rénové avec cuisine ouverte, Marseille 6e",
+          "loading": "lazy"
+        },
+        {
+          "class": [
+            "ba-before"
+          ],
+          "src": "/images/avant-appartement.jpg",
+          "alt": "Le même appartement avant travaux",
+          "loading": "lazy"
+        },
+        {
+          "src": "/images/realisation-division.jpg",
+          "alt": "Palier rénové après division d’un plateau, Marseille 1er",
+          "loading": "lazy"
+        },
+        {
+          "class": [
+            "ba-before"
+          ],
+          "src": "/images/avant-division.jpg",
+          "alt": "Le même palier avant travaux",
+          "loading": "lazy"
+        },
+        {
+          "src": "/images/realisation-sdb.jpg",
+          "alt": "Salle de bains rénovée avec douche à l’italienne, Marseille 4e",
+          "loading": "lazy"
+        },
+        {
+          "class": [
+            "ba-before"
+          ],
+          "src": "/images/avant-sdb.jpg",
+          "alt": "La même salle de bains avant travaux",
+          "loading": "lazy"
+        },
+        {
+          "src": "/images/realisation-maison.jpg",
+          "alt": "Façade de maison de ville rénovée, Marseille 9e",
+          "loading": "lazy"
+        },
+        {
+          "class": [
+            "ba-before"
+          ],
+          "src": "/images/avant-maison.jpg",
+          "alt": "La même façade avant travaux",
+          "loading": "lazy"
+        },
+        {
+          "src": "/images/realisation-studio.jpg",
+          "alt": "Studio rénové pour la location, Marseille 5e",
+          "loading": "lazy"
+        },
+        {
+          "class": [
+            "ba-before"
+          ],
+          "src": "/images/avant-studio.jpg",
+          "alt": "Le même studio avant travaux",
+          "loading": "lazy"
+        },
+        {
+          "src": "/images/realisation-bureaux.jpg",
+          "alt": "Plateau de bureaux rénové en open space, Marseille 2e",
+          "loading": "lazy"
+        },
+        {
+          "class": [
+            "ba-before"
+          ],
+          "src": "/images/avant-bureaux.jpg",
+          "alt": "Le même plateau avant travaux",
+          "loading": "lazy"
+        }
+      ],
+      "schema": [
+        {
+          "@context": "https://schema.org",
+          "@graph": [
+            {
+              "@type": "GeneralContractor",
+              "@id": "https://webuildmarseille.fr/#organization",
+              "name": "WEBUILD",
+              "legalName": "WEBUILD SAS",
+              "url": "https://webuildmarseille.fr",
+              "telephone": "+33766018826",
+              "email": "contact@webuildmarseille.fr",
+              "image": "https://webuildmarseille.fr/images/realisation-appartement.jpg",
+              "address": {
+                "@type": "PostalAddress",
+                "streetAddress": "41 rue Fongate",
+                "postalCode": "13006",
+                "addressLocality": "Marseille",
+                "addressCountry": "FR"
+              },
+              "areaServed": [
+                {
+                  "@type": "City",
+                  "name": "Marseille"
+                },
+                {
+                  "@type": "AdministrativeArea",
+                  "name": "Métropole Aix-Marseille-Provence"
+                }
+              ],
+              "identifier": [
+                {
+                  "@type": "PropertyValue",
+                  "propertyID": "SIRET",
+                  "value": "90180600000013"
+                },
+                {
+                  "@type": "PropertyValue",
+                  "propertyID": "VAT",
+                  "value": "FR33901806000"
+                }
+              ],
+              "knowsAbout": [
+                "Rénovation d'appartement",
+                "Rénovation de maison",
+                "Rénovation d'immeuble",
+                "Gros œuvre",
+                "Climatisation réversible",
+                "Électricité",
+                "Plomberie"
+              ]
+            },
+            {
+              "@type": "BreadcrumbList",
+              "itemListElement": [
+                {
+                  "@type": "ListItem",
+                  "position": 1,
+                  "name": "Accueil",
+                  "item": "https://webuildmarseille.fr/"
+                },
+                {
+                  "@type": "ListItem",
+                  "position": 2,
+                  "name": "Réalisations",
+                  "item": "https://webuildmarseille.fr/realisations/"
+                }
+              ]
+            },
+            {
+              "@type": "WebPage",
+              "@id": "https://webuildmarseille.fr/realisations/#page",
+              "url": "https://webuildmarseille.fr/realisations/",
+              "name": "Réalisations — Chantiers de rénovation à Marseille | WEBUILD",
+              "about": {
+                "@id": "https://webuildmarseille.fr/#organization"
+              },
+              "inLanguage": "fr-FR"
+            }
+          ]
+        }
+      ],
+      "forms": [],
+      "links": [
+        "#contenu",
+        "/",
+        "/#expertises",
+        "/renovation-investisseur-marseille/",
+        "/realisations/",
+        "/#contact",
+        "/#contact",
+        "/#expertises",
+        "/renovation-investisseur-marseille/",
+        "/realisations/",
+        "/#contact",
+        "/#contact",
+        "/",
+        "/renovation-appartement-marseille/",
+        "/renovation-immeuble-marseille/",
+        "/renovation-investisseur-marseille/",
+        "/#contact",
+        "tel:+33766018826",
+        "/",
+        "/#expertises",
+        "/renovation-marseille/",
+        "/renovation-investisseur-marseille/",
+        "/realisations/",
+        "/a-propos/",
+        "/#contact",
+        "tel:+33766018826",
+        "mailto:contact@webuildmarseille.fr",
+        "mailto:contact@webuildmarseille.fr",
+        "tel:+33766018826",
+        "tel:+33766018826",
+        "https://wa.me/33766018826?text=Bonjour%2C%20je%20souhaite%20un%20devis%20pour%20des%20travaux.",
+        "/#contact",
+        "https://wa.me/33766018826?text=Bonjour%2C%20je%20souhaite%20un%20devis%20pour%20des%20travaux."
+      ],
+      "text": "Réalisations — Chantiers de rénovation à Marseille | WEBUILD Aller au contenu WEBUILD Expertises Investisseurs Réalisations Contact Demander un devis Expertises Investisseurs Réalisations Contact Demander un devis Accueil Réalisations La preuve par le chantier. Appartements, immeubles, studios, bureaux : faites glisser le curseur sur chaque visuel pour comparer l'avant et l'après travaux. Avant / après Ce que le chantier change, vraiment. Six transformations types du parc marseillais : appartement haussmannien, plateau divisé en deux logements, salle de bains, maison de ville, studio locatif et plateau de bureaux. Photographies d'illustration : en attendant la publication de nos chantiers réels, les visuels ci-dessous illustrent le type de transformations que nous réalisons. Avant Après Rénovation complète d’un appartement Marseille 6e · 65 m² · 8 semaines Démolition Électricité Plomberie Peinture Avant Après Division d’un plateau en deux logements Marseille 1er · 110 m² · 3 mois Gros œuvre Réseaux Second œuvre Avant Après Rénovation d’une salle de bains Marseille 4e · 8 m² · 3 semaines Plomberie Carrelage Électricité Avant Après Réhabilitation d’une maison de ville Marseille 9e · 140 m² · 4 mois Gros œuvre Façade Menuiseries Avant Après Rénovation d’un studio locatif Marseille 5e · 28 m² · 4 semaines Second œuvre Cuisine Salle d’eau Avant Après Réaménagement de bureaux Marseille 2e · 220 m² · 2 mois Cloisons Électricité Peinture Par type de chantier, voir nos approches dédiées : rénovation d'appartements , rénovation d'immeubles et rénovation pour investisseurs . Un chantier comme ceux-là ? Parlons-en. Visite gratuite sur place, devis détaillé sous 48h. Demander un devis 07 66 01 88 26 WEBUILD Entreprise générale de bâtiment à Marseille. Rénovation, gros œuvre et second œuvre — un seul interlocuteur pour tout votre chantier. Navigation Expertises Rénovation Marseille Investisseurs Réalisations À propos Contact Contact 07 66 01 88 26 contact@webuildmarseille.fr Marseille et métropole Aix-Marseille © 2026 WEBUILD Marseille. Tous droits réservés. Mentions légales Mentions légales Éditeur du site WEBUILD — SAS au capital de 100,00 €, entreprise générale de bâtiment SIREN : 901 806 000 — SIRET (siège) : 901 806 000 00013 RCS Marseille 901 806 000 (inscrit le 28/07/2021) N° TVA intracommunautaire : FR33901806000 Adresse : 41 RUE FONGATE 13006 MARSEILLE Directeur de la publication CLEMENT BARANES Contact contact@webuildmarseille.fr · 07 66 01 88 26 Hébergement Netlify, Inc. — 512 2nd Street, Suite 200, San Francisco, CA 94107, États-Unis — netlify.com Les demandes de devis sont transmises de manière sécurisée via Netlify. Fermer Appeler WhatsApp Devis WhatsApp"
+    },
+    {
+      "url": "https://webuildmarseille.fr/a-propos/",
+      "final_url": "https://webuildmarseille.fr/a-propos/",
+      "status": 200,
+      "redirects": [],
+      "headers": {
+        "Accept-Ranges": "bytes",
+        "Age": "1",
+        "Cache-Control": "public,max-age=0,must-revalidate",
+        "Cache-Status": "\"Netlify Edge\"; fwd=miss; fwd-status=200; stored",
+        "Content-Encoding": "br",
+        "Content-Type": "text/html; charset=UTF-8",
+        "Date": "Sun, 13 Sep 2026 09:58:07 GMT",
+        "Etag": "\"54fb2254ad5503d50eb60e2543dd52a4-ssl-df\"",
+        "Permissions-Policy": "camera=(), microphone=(), geolocation=()",
+        "Referrer-Policy": "strict-origin-when-cross-origin",
+        "Server": "Netlify",
+        "Strict-Transport-Security": "max-age=31536000",
+        "Vary": "Accept-Encoding",
+        "X-Content-Type-Options": "nosniff",
+        "X-Frame-Options": "DENY",
+        "X-Nf-Request-Id": "01M2D37RQ6C4T0435YYFRM5Z9A",
+        "Transfer-Encoding": "chunked"
+      },
+      "bytes": 17749,
+      "elapsed_ms": 537,
+      "sha256": "af1172157bf299757f967ecbee87e8dc46036f15e047b3b3ad49da0c3c03d43f",
+      "title": "À propos — WEBUILD, entreprise générale de bâtiment à Marseille",
+      "descriptions": [
+        "WEBUILD est une entreprise générale de bâtiment à Marseille : appartements, maisons, immeubles, locaux. Une équipe, un interlocuteur, un chantier suivi."
+      ],
+      "robots": [],
+      "canonical": [
+        "https://webuildmarseille.fr/a-propos/"
+      ],
+      "headings": [
+        [
+          "h1",
+          "Une seule équipe pour tout le chantier."
+        ],
+        [
+          "h2",
+          "L'histoire de WEBUILD"
+        ],
+        [
+          "h2",
+          "Comment nous travaillons"
+        ],
+        [
+          "h2",
+          "Ce en quoi nous croyons"
+        ],
+        [
+          "h2",
+          "Nos chantiers, en images"
+        ],
+        [
+          "h2",
+          "Zone d'intervention"
+        ],
+        [
+          "h2",
+          "Données administratives & légales"
+        ],
+        [
+          "h2",
+          "Travailler avec WEBUILD"
+        ],
+        [
+          "h2",
+          "Visite gratuite sur place. Devis détaillé sous 48h."
+        ],
+        [
+          "h2",
+          "Mentions légales"
+        ]
+      ],
+      "images": [],
+      "schema": [
+        {
+          "@context": "https://schema.org",
+          "@graph": [
+            {
+              "@type": "GeneralContractor",
+              "@id": "https://webuildmarseille.fr/#organization",
+              "name": "WEBUILD",
+              "legalName": "WEBUILD SAS",
+              "url": "https://webuildmarseille.fr",
+              "telephone": "+33766018826",
+              "email": "contact@webuildmarseille.fr",
+              "image": "https://webuildmarseille.fr/images/realisation-appartement.jpg",
+              "address": {
+                "@type": "PostalAddress",
+                "streetAddress": "41 rue Fongate",
+                "postalCode": "13006",
+                "addressLocality": "Marseille",
+                "addressCountry": "FR"
+              },
+              "areaServed": [
+                {
+                  "@type": "City",
+                  "name": "Marseille"
+                },
+                {
+                  "@type": "AdministrativeArea",
+                  "name": "Métropole Aix-Marseille-Provence"
+                }
+              ],
+              "identifier": [
+                {
+                  "@type": "PropertyValue",
+                  "propertyID": "SIRET",
+                  "value": "90180600000013"
+                },
+                {
+                  "@type": "PropertyValue",
+                  "propertyID": "VAT",
+                  "value": "FR33901806000"
+                }
+              ],
+              "knowsAbout": [
+                "Rénovation d'appartement",
+                "Rénovation de maison",
+                "Rénovation d'immeuble",
+                "Gros œuvre",
+                "Climatisation réversible",
+                "Électricité",
+                "Plomberie"
+              ]
+            },
+            {
+              "@type": "BreadcrumbList",
+              "itemListElement": [
+                {
+                  "@type": "ListItem",
+                  "position": 1,
+                  "name": "Accueil",
+                  "item": "https://webuildmarseille.fr/"
+                },
+                {
+                  "@type": "ListItem",
+                  "position": 2,
+                  "name": "À propos",
+                  "item": "https://webuildmarseille.fr/a-propos/"
+                }
+              ]
+            },
+            {
+              "@type": "WebPage",
+              "@id": "https://webuildmarseille.fr/a-propos/#page",
+              "url": "https://webuildmarseille.fr/a-propos/",
+              "name": "À propos — WEBUILD, entreprise générale de bâtiment à Marseille",
+              "about": {
+                "@id": "https://webuildmarseille.fr/#organization"
+              },
+              "inLanguage": "fr-FR"
+            }
+          ]
+        }
+      ],
+      "forms": [],
+      "links": [
+        "#contenu",
+        "/",
+        "/#expertises",
+        "/renovation-investisseur-marseille/",
+        "/realisations/",
+        "/#contact",
+        "/#contact",
+        "/#expertises",
+        "/renovation-investisseur-marseille/",
+        "/realisations/",
+        "/#contact",
+        "/#contact",
+        "/",
+        "tel:+33766018826",
+        "mailto:contact@webuildmarseille.fr",
+        "/realisations/",
+        "/renovation-marseille/",
+        "/renovation-investisseur-marseille/",
+        "tel:+33766018826",
+        "mailto:contact@webuildmarseille.fr",
+        "/#contact",
+        "/#contact",
+        "tel:+33766018826",
+        "/",
+        "/#expertises",
+        "/renovation-marseille/",
+        "/renovation-investisseur-marseille/",
+        "/realisations/",
+        "/a-propos/",
+        "/#contact",
+        "tel:+33766018826",
+        "mailto:contact@webuildmarseille.fr",
+        "mailto:contact@webuildmarseille.fr",
+        "tel:+33766018826",
+        "tel:+33766018826",
+        "https://wa.me/33766018826?text=Bonjour%2C%20je%20souhaite%20un%20devis%20pour%20des%20travaux.",
+        "/#contact",
+        "https://wa.me/33766018826?text=Bonjour%2C%20je%20souhaite%20un%20devis%20pour%20des%20travaux."
+      ],
+      "text": "À propos — WEBUILD, entreprise générale de bâtiment à Marseille Aller au contenu WEBUILD Expertises Investisseurs Réalisations Contact Demander un devis Expertises Investisseurs Réalisations Contact Demander un devis Accueil À propos Une seule équipe pour tout le chantier. WEBUILD est une entreprise générale de bâtiment basée à Marseille. Elle rénove des appartements, des maisons, des immeubles et des locaux professionnels, pour des particuliers comme pour des investisseurs, en coordonnant tous les corps de métier — démolition, gros œuvre, électricité, plomberie, second œuvre — avec un interlocuteur unique, du premier rendez-vous à la livraison. Téléphone : 07 66 01 88 26 — contact@webuildmarseille.fr . L'histoire de WEBUILD WEBUILD est née d'un constat simple fait sur le terrain marseillais : pour réussir une rénovation — qu'il s'agisse d'un appartement familial, d'une maison de ville ou d'une opération de marchand de biens —, le client a besoin d'une vision globale, de délais rigoureusement tenus et d'un chiffrage sans angle mort. En fédérant l'ensemble des corps d'état sous une direction technique unique, WEBUILD élimine les frictions habituelles entre corps de métier et sécurise chaque étape du projet, de la conception à la remise des clés. Comment nous travaillons Chaque chantier suit le même déroulé, en quatre temps : 1. Visite et écoute — rendez-vous sur place, gratuit : on regarde le bien, on écoute ce que vous voulez, on repère les contraintes techniques ; 2. Devis détaillé sous 48h — un chiffrage poste par poste, lisible, sans ligne cachée ; 3. Chantier piloté — un interlocuteur unique coordonne tous les corps de métier et vous fait un point d'avancement chaque semaine ; 4. Livraison soignée — réception faite ensemble, finitions vérifiées une à une, chantier rendu propre. Ce en quoi nous croyons Quatre principes concrets guident chacun de nos chantiers : Un interlocuteur. Vous parlez à une seule personne, du devis à la livraison. Elle connaît votre chantier et répond de l'ensemble. Un chiffrage lisible. Le devis détaille chaque poste : vous savez ce que vous payez et vous pouvez arbitrer en connaissance de cause. Un chantier suivi. Un point d'avancement chaque semaine, un planning tenu à jour, des imprévus signalés et chiffrés avant toute décision. Un rendu propre. Finitions vérifiées une à une à la réception, chantier livré nettoyé. C'est la base, pas une option. Nos chantiers, en images Pour découvrir des exemples concrets de transformations réalisées à Marseille, consultez notre galerie de Réalisations avant / après . Zone d'intervention WEBUILD intervient dans tous les arrondissements de Marseille et dans la métropole Aix-Marseille. La nature des chantiers varie selon les quartiers : appartements anciens à redistribuer dans le centre (1er, 2e, 6e), maisons de ville à reprendre en profondeur (4e, 9e, 10e, 11e, 12e), immeubles de rapport et locaux en pied d'immeuble à transformer. Le détail des types de chantiers se trouve sur la page Rénovation à Marseille . Nous travaillons aussi pour les bailleurs, SCI et marchands de biens, avec une approche dédiée présentée sur la page Rénovation pour investisseurs . Données administratives & légales Pour assurer une transparence totale auprès de nos clients particuliers, professionnels et investisseurs : Raison sociale : WEBUILD SAS Siège social : 41 rue Fongate, 13006 Marseille SIREN : 901 806 000 — SIRET : 901 806 000 00013 RCS : Marseille B 901 806 000 (immatriculée le 28/07/2021) N° TVA intracommunautaire : FR33901806000 Direction de la publication : Clément Baranes Travailler avec WEBUILD Un projet à Marseille ou dans la métropole ? Appelez le 07 66 01 88 26 , écrivez à contact@webuildmarseille.fr ou passez par le formulaire de contact . La visite sur place est gratuite, le devis détaillé arrive sous 48h. Visite gratuite sur place. Devis détaillé sous 48h. Décrivez votre chantier en deux minutes — on s'occupe de la suite. Demander un devis 07 66 01 88 26 WEBUILD Entreprise générale de bâtiment à Marseille. Rénovation, gros œuvre et second œuvre — un seul interlocuteur pour tout votre chantier. Navigation Expertises Rénovation Marseille Investisseurs Réalisations À propos Contact Contact 07 66 01 88 26 contact@webuildmarseille.fr Marseille et métropole Aix-Marseille © 2026 WEBUILD Marseille. Tous droits réservés. Mentions légales Mentions légales Éditeur du site WEBUILD — SAS au capital de 100,00 €, entreprise générale de bâtiment SIREN : 901 806 000 — SIRET (siège) : 901 806 000 00013 RCS Marseille 901 806 000 (inscrit le 28/07/2021) N° TVA intracommunautaire : FR33901806000 Adresse : 41 RUE FONGATE 13006 MARSEILLE Directeur de la publication CLEMENT BARANES Contact contact@webuildmarseille.fr · 07 66 01 88 26 Hébergement Netlify, Inc. — 512 2nd Street, Suite 200, San Francisco, CA 94107, États-Unis — netlify.com Les demandes de devis sont transmises de manière sécurisée via Netlify. Fermer Appeler WhatsApp Devis WhatsApp"
+    }
+  ],
+  "assets": [
+    {
+      "url": "https://webuildmarseille.fr/css/style.css",
+      "status": 200,
+      "bytes": 23699,
+      "type": "text/css; charset=UTF-8"
+    },
+    {
+      "url": "https://webuildmarseille.fr/images/avant-appartement.jpg",
+      "status": 200,
+      "bytes": 134211,
+      "type": "image/jpeg"
+    },
+    {
+      "url": "https://webuildmarseille.fr/images/avant-bureaux.jpg",
+      "status": 200,
+      "bytes": 188461,
+      "type": "image/jpeg"
+    },
+    {
+      "url": "https://webuildmarseille.fr/images/avant-division.jpg",
+      "status": 200,
+      "bytes": 109294,
+      "type": "image/jpeg"
+    },
+    {
+      "url": "https://webuildmarseille.fr/images/avant-maison.jpg",
+      "status": 200,
+      "bytes": 246127,
+      "type": "image/jpeg"
+    },
+    {
+      "url": "https://webuildmarseille.fr/images/avant-sdb.jpg",
+      "status": 200,
+      "bytes": 129169,
+      "type": "image/jpeg"
+    },
+    {
+      "url": "https://webuildmarseille.fr/images/avant-studio.jpg",
+      "status": 200,
+      "bytes": 83835,
+      "type": "image/jpeg"
+    },
+    {
+      "url": "https://webuildmarseille.fr/images/hero.jpg",
+      "status": 200,
+      "bytes": 101001,
+      "type": "image/jpeg"
+    },
+    {
+      "url": "https://webuildmarseille.fr/images/investisseurs.jpg",
+      "status": 200,
+      "bytes": 172241,
+      "type": "image/jpeg"
+    },
+    {
+      "url": "https://webuildmarseille.fr/images/realisation-appartement.jpg",
+      "status": 200,
+      "bytes": 99018,
+      "type": "image/jpeg"
+    },
+    {
+      "url": "https://webuildmarseille.fr/images/realisation-bureaux.jpg",
+      "status": 200,
+      "bytes": 144015,
+      "type": "image/jpeg"
+    },
+    {
+      "url": "https://webuildmarseille.fr/images/realisation-division.jpg",
+      "status": 200,
+      "bytes": 42274,
+      "type": "image/jpeg"
+    },
+    {
+      "url": "https://webuildmarseille.fr/images/realisation-maison.jpg",
+      "status": 200,
+      "bytes": 167368,
+      "type": "image/jpeg"
+    },
+    {
+      "url": "https://webuildmarseille.fr/images/realisation-sdb.jpg",
+      "status": 200,
+      "bytes": 82456,
+      "type": "image/jpeg"
+    },
+    {
+      "url": "https://webuildmarseille.fr/images/realisation-studio.jpg",
+      "status": 200,
+      "bytes": 77941,
+      "type": "image/jpeg"
+    },
+    {
+      "url": "https://webuildmarseille.fr/js/conversions.js?v=2",
+      "status": 200,
+      "bytes": 2434,
+      "type": "application/javascript; charset=UTF-8"
+    },
+    {
+      "url": "https://webuildmarseille.fr/js/main.js",
+      "status": 200,
+      "bytes": 4654,
+      "type": "application/javascript; charset=UTF-8"
+    }
+  ]
+}

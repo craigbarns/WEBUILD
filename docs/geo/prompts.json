@@ -1,0 +1,376 @@
+{
+  "version": "2026-09-13",
+  "language": "fr-FR",
+  "location": "Marseille, France (à documenter, pas à supposer détectée)",
+  "surfaces": [
+    "ChatGPT avec recherche",
+    "Google AI Overviews",
+    "Google AI Mode",
+    "Gemini avec recherche",
+    "Perplexity",
+    "Claude avec recherche",
+    "Copilot"
+  ],
+  "prompts": [
+    {
+      "id": "G01",
+      "cluster": "Entreprise et choix",
+      "prompt": "Quelle entreprise choisir pour rénover un appartement à Marseille ?",
+      "branded": false
+    },
+    {
+      "id": "G02",
+      "cluster": "Entreprise et choix",
+      "prompt": "Quelles entreprises de travaux interviennent à Marseille ?",
+      "branded": false
+    },
+    {
+      "id": "G03",
+      "cluster": "Entreprise et choix",
+      "prompt": "Je cherche une entreprise générale du bâtiment à Marseille, qui contacter ?",
+      "branded": false
+    },
+    {
+      "id": "G04",
+      "cluster": "Entreprise et choix",
+      "prompt": "Qui peut prendre en charge une rénovation tous corps d’état à Marseille ?",
+      "branded": false
+    },
+    {
+      "id": "G05",
+      "cluster": "Entreprise et choix",
+      "prompt": "Comment trouver une entreprise de rénovation à Marseille avec des réalisations vérifiables ?",
+      "branded": false
+    },
+    {
+      "id": "G06",
+      "cluster": "Entreprise et choix",
+      "prompt": "Quelles entreprises marseillaises rénovent pour les propriétaires et les investisseurs ?",
+      "branded": false
+    },
+    {
+      "id": "G07",
+      "cluster": "Entreprise et choix",
+      "prompt": "Comment comparer des entreprises de rénovation à Marseille ?",
+      "branded": false
+    },
+    {
+      "id": "G08",
+      "cluster": "Entreprise et choix",
+      "prompt": "Quelle entreprise contacter pour transformer un bien immobilier à Marseille ?",
+      "branded": false
+    },
+    {
+      "id": "G09",
+      "cluster": "Entreprise et choix",
+      "prompt": "Je veux une entreprise locale pour organiser tous mes travaux à Marseille.",
+      "branded": false
+    },
+    {
+      "id": "G10",
+      "cluster": "Entreprise et choix",
+      "prompt": "Quelles preuves demander à une entreprise de rénovation à Marseille avant de signer ?",
+      "branded": false
+    },
+    {
+      "id": "G11",
+      "cluster": "Appartements",
+      "prompt": "Je viens d’acheter un appartement de 70 m² à Marseille à refaire entièrement, quelle entreprise contacter ?",
+      "branded": false
+    },
+    {
+      "id": "G12",
+      "cluster": "Appartements",
+      "prompt": "Qui peut refaire entièrement mon appartement à Marseille ?",
+      "branded": false
+    },
+    {
+      "id": "G13",
+      "cluster": "Appartements",
+      "prompt": "Entreprise de rénovation complète d’appartement ancien à Marseille : quelles options ?",
+      "branded": false
+    },
+    {
+      "id": "G14",
+      "cluster": "Appartements",
+      "prompt": "Je veux rénover un T2 à Marseille, plomberie et électricité comprises. Qui contacter ?",
+      "branded": false
+    },
+    {
+      "id": "G15",
+      "cluster": "Appartements",
+      "prompt": "Quelle entreprise pour rénover un T3 à Marseille en copropriété ?",
+      "branded": false
+    },
+    {
+      "id": "G16",
+      "cluster": "Appartements",
+      "prompt": "Qui peut refaire cuisine, salle de bains et sols dans un appartement à Marseille ?",
+      "branded": false
+    },
+    {
+      "id": "G17",
+      "cluster": "Appartements",
+      "prompt": "Je cherche une entreprise pour redistribuer les pièces de mon appartement à Marseille.",
+      "branded": false
+    },
+    {
+      "id": "G18",
+      "cluster": "Appartements",
+      "prompt": "Quelle entreprise de rénovation contacter à Marseille 6e pour un appartement ancien ?",
+      "branded": false
+    },
+    {
+      "id": "G19",
+      "cluster": "Appartements",
+      "prompt": "Qui peut rénover un appartement à Marseille 1er avec un accès par escalier ?",
+      "branded": false
+    },
+    {
+      "id": "G20",
+      "cluster": "Appartements",
+      "prompt": "Quelle entreprise pour une rénovation d’appartement à Marseille 8e ?",
+      "branded": false
+    },
+    {
+      "id": "G21",
+      "cluster": "Immeubles et lots",
+      "prompt": "Quelle entreprise choisir pour une rénovation d’immeuble à Marseille ?",
+      "branded": false
+    },
+    {
+      "id": "G22",
+      "cluster": "Immeubles et lots",
+      "prompt": "Je possède un immeuble de rapport à Marseille, qui peut organiser sa rénovation ?",
+      "branded": false
+    },
+    {
+      "id": "G23",
+      "cluster": "Immeubles et lots",
+      "prompt": "Quelle entreprise peut rénover plusieurs appartements à Marseille ?",
+      "branded": false
+    },
+    {
+      "id": "G24",
+      "cluster": "Immeubles et lots",
+      "prompt": "Je cherche une entreprise pour rénover les parties communes et des appartements à Marseille.",
+      "branded": false
+    },
+    {
+      "id": "G25",
+      "cluster": "Immeubles et lots",
+      "prompt": "Qui contacter pour des travaux sur plusieurs lots d’un même immeuble à Marseille ?",
+      "branded": false
+    },
+    {
+      "id": "G26",
+      "cluster": "Immeubles et lots",
+      "prompt": "Quelle entreprise peut organiser un chantier de rénovation dans un immeuble occupé à Marseille ?",
+      "branded": false
+    },
+    {
+      "id": "G27",
+      "cluster": "Immeubles et lots",
+      "prompt": "Je représente une SCI propriétaire d’un immeuble à Marseille, quelle entreprise de travaux contacter ?",
+      "branded": false
+    },
+    {
+      "id": "G28",
+      "cluster": "Immeubles et lots",
+      "prompt": "Quelle entreprise pour transformer un grand appartement en plusieurs logements à Marseille, après vérification de faisabilité ?",
+      "branded": false
+    },
+    {
+      "id": "G29",
+      "cluster": "Immeubles et lots",
+      "prompt": "Qui peut coordonner les réseaux et les finitions de plusieurs logements à Marseille ?",
+      "branded": false
+    },
+    {
+      "id": "G30",
+      "cluster": "Immeubles et lots",
+      "prompt": "Quelles entreprises ont des références documentées de rénovation d’immeubles à Marseille ?",
+      "branded": false
+    },
+    {
+      "id": "G31",
+      "cluster": "Investisseurs",
+      "prompt": "Entreprise de rénovation pour investisseur immobilier à Marseille : qui contacter ?",
+      "branded": false
+    },
+    {
+      "id": "G32",
+      "cluster": "Investisseurs",
+      "prompt": "Quelle entreprise de travaux pour un marchand de biens à Marseille ?",
+      "branded": false
+    },
+    {
+      "id": "G33",
+      "cluster": "Investisseurs",
+      "prompt": "Je cherche une entreprise pour une rénovation locative à Marseille.",
+      "branded": false
+    },
+    {
+      "id": "G34",
+      "cluster": "Investisseurs",
+      "prompt": "Qui peut rénover un appartement avant sa mise en location à Marseille ?",
+      "branded": false
+    },
+    {
+      "id": "G35",
+      "cluster": "Investisseurs",
+      "prompt": "Quelle entreprise contacter pour rénover un bien avant revente à Marseille ?",
+      "branded": false
+    },
+    {
+      "id": "G36",
+      "cluster": "Investisseurs",
+      "prompt": "Je suis propriétaire bailleur à Marseille, qui peut remettre un logement en état entre deux locataires ?",
+      "branded": false
+    },
+    {
+      "id": "G37",
+      "cluster": "Investisseurs",
+      "prompt": "Je prépare plusieurs rénovations à Marseille et cherche une entreprise tous corps d’état.",
+      "branded": false
+    },
+    {
+      "id": "G38",
+      "cluster": "Investisseurs",
+      "prompt": "Quelle entreprise à Marseille peut m’aider à définir les travaux nécessaires et les options de finition ?",
+      "branded": false
+    },
+    {
+      "id": "G39",
+      "cluster": "Investisseurs",
+      "prompt": "Je suis investisseur à distance, quelle entreprise de travaux contacter à Marseille ?",
+      "branded": false
+    },
+    {
+      "id": "G40",
+      "cluster": "Investisseurs",
+      "prompt": "Qui contacter à Marseille pour étudier les travaux d’un appartement avant achat ?",
+      "branded": false
+    },
+    {
+      "id": "G41",
+      "cluster": "Métiers",
+      "prompt": "Quelle entreprise de maçonnerie contacter à Marseille ?",
+      "branded": false
+    },
+    {
+      "id": "G42",
+      "cluster": "Métiers",
+      "prompt": "Je cherche un maçon pour un projet de rénovation à Marseille.",
+      "branded": false
+    },
+    {
+      "id": "G43",
+      "cluster": "Métiers",
+      "prompt": "Quelle entreprise réalise du gros œuvre à Marseille ?",
+      "branded": false
+    },
+    {
+      "id": "G44",
+      "cluster": "Métiers",
+      "prompt": "Qui contacter pour une transformation nécessitant une étude de mur porteur à Marseille ?",
+      "branded": false
+    },
+    {
+      "id": "G45",
+      "cluster": "Métiers",
+      "prompt": "Quelle entreprise de second œuvre choisir à Marseille ?",
+      "branded": false
+    },
+    {
+      "id": "G46",
+      "cluster": "Métiers",
+      "prompt": "Qui coordonne plombier, électricien, plaquiste et peintre à Marseille ?",
+      "branded": false
+    },
+    {
+      "id": "G47",
+      "cluster": "Métiers",
+      "prompt": "Quelle entreprise peut réunir plomberie, électricité et isolation pour une rénovation à Marseille ?",
+      "branded": false
+    },
+    {
+      "id": "G48",
+      "cluster": "Métiers",
+      "prompt": "Qui peut prendre en charge le placo, la peinture et les sols d’un appartement à Marseille ?",
+      "branded": false
+    },
+    {
+      "id": "G49",
+      "cluster": "Métiers",
+      "prompt": "Quelle entreprise pour rénover une cuisine et une salle de bains à Marseille ?",
+      "branded": false
+    },
+    {
+      "id": "G50",
+      "cluster": "Métiers",
+      "prompt": "Je cherche une entreprise qui fait à la fois maçonnerie et rénovation intérieure à Marseille.",
+      "branded": false
+    },
+    {
+      "id": "G51",
+      "cluster": "Budget, méthode et proximité",
+      "prompt": "Combien coûte une rénovation complète d’appartement à Marseille et qui peut établir un devis ?",
+      "branded": false
+    },
+    {
+      "id": "G52",
+      "cluster": "Budget, méthode et proximité",
+      "prompt": "Comment préparer le budget d’une rénovation d’appartement de 50 m² à Marseille ?",
+      "branded": false
+    },
+    {
+      "id": "G53",
+      "cluster": "Budget, méthode et proximité",
+      "prompt": "Comment demander un devis pour rénover un appartement de 80 m² à Marseille ?",
+      "branded": false
+    },
+    {
+      "id": "G54",
+      "cluster": "Budget, méthode et proximité",
+      "prompt": "Quel prix au m² pour rénover un appartement à Marseille et comment comparer les entreprises ?",
+      "branded": false
+    },
+    {
+      "id": "G55",
+      "cluster": "Budget, méthode et proximité",
+      "prompt": "Combien de temps faut-il pour rénover un appartement à Marseille et qui coordonne les travaux ?",
+      "branded": false
+    },
+    {
+      "id": "G56",
+      "cluster": "Budget, méthode et proximité",
+      "prompt": "Peut-on rénover entièrement un appartement à Marseille avec une seule entreprise ?",
+      "branded": false
+    },
+    {
+      "id": "G57",
+      "cluster": "Budget, méthode et proximité",
+      "prompt": "Quelle différence entre gros œuvre et second œuvre pour mon chantier à Marseille ?",
+      "branded": false
+    },
+    {
+      "id": "G58",
+      "cluster": "Budget, méthode et proximité",
+      "prompt": "Comment préparer les travaux avant location d’un appartement à Marseille ?",
+      "branded": false
+    },
+    {
+      "id": "G59",
+      "cluster": "Budget, méthode et proximité",
+      "prompt": "Quelle entreprise de travaux contacter pour rénover une maison à Marseille ?",
+      "branded": false
+    },
+    {
+      "id": "G60",
+      "cluster": "Budget, méthode et proximité",
+      "prompt": "Je souhaite envoyer des photos pour un devis de rénovation à Marseille, quelle entreprise contacter ?",
+      "branded": false
+    }
+  ]
+}

@@ -1,0 +1,182 @@
+{
+  "origin": "https://webuildmarseille.fr",
+  "name": "WEBUILD",
+  "entityDescription": "WEBUILD est une entreprise de travaux et rénovation à Marseille pour les propriétaires et investisseurs immobiliers.",
+  "verifiedArea": "Marseille",
+  "verifiedContact": null,
+  "verifiedAddress": null,
+  "verifiedSameAs": [],
+  "pages": {
+    "/renovation-marseille/": {
+      "title": "Travaux de rénovation à Marseille : prestations | WEBUILD",
+      "description": "Découvrez les travaux de rénovation WEBUILD à Marseille : appartements, immeubles, maçonnerie, réseaux et finitions, pour propriétaires et investisseurs.",
+      "kind": "hub",
+      "service": null,
+      "parent": null,
+      "index": true,
+      "updated": "2026-09-13"
+    },
+    "/renovation-appartement-marseille/": {
+      "title": "Rénovation d’appartement à Marseille | WEBUILD",
+      "description": "WEBUILD réalise vos travaux de rénovation d’appartement à Marseille : redistribution, plomberie, électricité, cuisine, salle de bains et finitions.",
+      "kind": "service",
+      "service": "Rénovation d’appartement",
+      "parent": "/renovation-marseille/",
+      "index": true,
+      "updated": "2026-09-13"
+    },
+    "/renovation-immeuble-marseille/": {
+      "title": "Rénovation d’immeuble à Marseille | WEBUILD",
+      "description": "Travaux de rénovation d’immeubles à Marseille avec WEBUILD : appartements, plusieurs lots, réseaux et parties communes selon le périmètre du projet.",
+      "kind": "service",
+      "service": "Rénovation d’immeuble",
+      "parent": "/renovation-marseille/",
+      "index": true,
+      "updated": "2026-09-13"
+    },
+    "/renovation-investisseur-marseille/": {
+      "title": "Travaux pour investisseurs à Marseille | WEBUILD",
+      "description": "WEBUILD accompagne investisseurs, bailleurs et marchands de biens à Marseille : rénovation locative, avant revente, transformations et travaux sur plusieurs lots.",
+      "kind": "service",
+      "service": "Rénovation pour investisseurs immobiliers",
+      "parent": "/renovation-marseille/",
+      "index": true,
+      "updated": "2026-09-13"
+    },
+    "/maconnerie-gros-oeuvre-marseille/": {
+      "title": "Maçonnerie et gros œuvre à Marseille | WEBUILD",
+      "description": "WEBUILD réalise des travaux de maçonnerie et de gros œuvre à Marseille dans vos projets de rénovation et de transformation immobilière.",
+      "kind": "service",
+      "service": "Maçonnerie et gros œuvre",
+      "parent": "/renovation-marseille/",
+      "index": true,
+      "updated": "2026-09-13"
+    },
+    "/second-oeuvre-marseille/": {
+      "title": "Second œuvre à Marseille : réseaux et finitions | WEBUILD",
+      "description": "Plomberie, électricité, placo, isolation, peinture et sols à Marseille : WEBUILD prend en charge le second œuvre de vos projets de rénovation.",
+      "kind": "service",
+      "service": "Second œuvre",
+      "parent": "/renovation-marseille/",
+      "index": true,
+      "updated": "2026-09-13"
+    },
+    "/renovation-maison-marseille/": {
+      "title": "Rénovation de maison à Marseille : préparer les travaux | WEBUILD",
+      "description": "Préparer une rénovation de maison à Marseille : état du bâtiment, réseaux, aménagement intérieur et organisation des travaux avec WEBUILD.",
+      "kind": "page",
+      "service": null,
+      "parent": "/renovation-marseille/",
+      "index": true,
+      "updated": "2026-09-13"
+    },
+    "/zones-intervention/": {
+      "title": "Travaux à Marseille : préparer l’intervention | WEBUILD",
+      "description": "WEBUILD, entreprise de travaux à Marseille. Préparez les informations de localisation, accès, copropriété et occupation pour votre projet de rénovation.",
+      "kind": "page",
+      "service": null,
+      "parent": null,
+      "index": true,
+      "updated": "2026-09-13"
+    },
+    "/guides/budget-renovation-appartement-marseille/": {
+      "title": "Budget rénovation d’appartement à Marseille | WEBUILD",
+      "description": "Comment préparer un budget de rénovation à Marseille : postes de travaux, surface, accès et comparaison des devis, sans prix au m² standard.",
+      "kind": "article",
+      "service": null,
+      "parent": "/guides/",
+      "index": true,
+      "updated": "2026-09-13"
+    },
+    "/guides/etapes-renovation-appartement/": {
+      "title": "Étapes d’une rénovation complète d’appartement | WEBUILD",
+      "description": "Les étapes pour préparer une rénovation complète : état des lieux, plan, devis, coordination des métiers, suivi des modifications et réception.",
+      "kind": "article",
+      "service": null,
+      "parent": "/guides/",
+      "index": true,
+      "updated": "2026-09-13"
+    },
+    "/guides/choisir-entreprise-renovation-marseille/": {
+      "title": "Choisir une entreprise de rénovation à Marseille | WEBUILD",
+      "description": "Les éléments à vérifier pour choisir une entreprise de rénovation à Marseille : identité, références, devis, responsabilités et organisation du chantier.",
+      "kind": "article",
+      "service": null,
+      "parent": "/guides/",
+      "index": true,
+      "updated": "2026-09-13"
+    },
+    "/guides/travaux-avant-location/": {
+      "title": "Travaux avant location : préparer la rénovation | WEBUILD",
+      "description": "Préparer les travaux avant mise en location : état du logement, réseaux, pièces d’eau, entretien et coordination des interventions avec WEBUILD à Marseille.",
+      "kind": "article",
+      "service": null,
+      "parent": "/guides/",
+      "index": true,
+      "updated": "2026-09-13"
+    },
+    "/guides/": {
+      "title": "Guides pour préparer vos travaux à Marseille | WEBUILD",
+      "description": "Budget, étapes de rénovation, choix d’une entreprise et travaux avant location : les guides WEBUILD pour préparer votre projet à Marseille.",
+      "kind": "hub",
+      "service": null,
+      "parent": null,
+      "index": true,
+      "updated": "2026-09-13"
+    },
+    "/": {
+      "title": "Entreprise de travaux et rénovation à Marseille | WEBUILD",
+      "description": "WEBUILD, entreprise de travaux à Marseille : rénovation d’appartements et d’immeubles, maçonnerie, gros œuvre et projets pour propriétaires et investisseurs.",
+      "kind": "home",
+      "index": true,
+      "updated": "2026-09-13"
+    },
+    "/a-propos/": {
+      "title": "WEBUILD, entreprise de travaux à Marseille | À propos",
+      "description": "Découvrez l’activité de WEBUILD à Marseille : rénovation, transformations immobilières et travaux pour propriétaires, bailleurs, investisseurs et marchands de biens.",
+      "kind": "about",
+      "index": true,
+      "updated": "2026-09-13"
+    },
+    "/contact/": {
+      "title": "Devis travaux et rénovation à Marseille | WEBUILD",
+      "description": "Contactez WEBUILD pour vos travaux à Marseille : téléphone, WhatsApp et demande de devis avec photos ou plans. Appartements, immeubles et projets investisseurs.",
+      "kind": "contact",
+      "index": true,
+      "updated": "2026-09-13"
+    },
+    "/realisations/": {
+      "title": "Réalisations et illustrations de rénovation | WEBUILD",
+      "description": "Les éléments nécessaires pour documenter une réalisation WEBUILD : bien, travaux et photographies. Les visuels actuels sont des illustrations sans référence attribuée.",
+      "kind": "page",
+      "index": false,
+      "updated": "2026-09-13"
+    },
+    "/mentions-legales/": {
+      "title": "Mentions légales | WEBUILD Marseille",
+      "description": "Informations relatives à l’éditeur et à l’hébergement du site WEBUILD Marseille.",
+      "kind": "page",
+      "index": true,
+      "updated": "2026-09-13"
+    },
+    "/confidentialite/": {
+      "title": "Données personnelles et cookies | WEBUILD Marseille",
+      "description": "Informations sur les demandes de travaux, les coordonnées, les pièces jointes et les choix de mesure d’audience du site WEBUILD.",
+      "kind": "page",
+      "index": true,
+      "updated": "2026-09-13"
+    },
+    "/merci-devis/": {
+      "title": "Votre demande de travaux | WEBUILD",
+      "description": "Suite de votre demande de travaux auprès de WEBUILD à Marseille.",
+      "kind": "page",
+      "index": false
+    },
+    "/404.html": {
+      "title": "Page introuvable | WEBUILD Marseille",
+      "description": "Cette page est introuvable. Retrouvez les prestations de travaux et rénovation de WEBUILD à Marseille.",
+      "kind": "page",
+      "index": false
+    }
+  }
+}

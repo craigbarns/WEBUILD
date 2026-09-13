@@ -1,0 +1,169 @@
+{
+  "date": "2026-09-13",
+  "method": "Read-only GET of selected public pages. Schema parsed from initial HTML; an absent type may be loaded via JS. Outbound links are not backlinks. No ranking or authority score inferred.",
+  "pages": [
+    {
+      "url": "https://neosbatiment.fr/",
+      "status": 200,
+      "title": "Entreprise de rénovation Marseille | Neos Bâtiment",
+      "h1_count": 1,
+      "h2_count": 18,
+      "schemaTypes": [
+        "BreadcrumbList",
+        "City",
+        "EntryPoint",
+        "GeoCoordinates",
+        "HomeAndConstructionBusiness",
+        "ImageObject",
+        "ListItem",
+        "Offer",
+        "OfferCatalog",
+        "Organization",
+        "PostalAddress",
+        "PropertyValueSpecification",
+        "ReadAction",
+        "SearchAction",
+        "Service",
+        "WebPage",
+        "WebSite"
+      ],
+      "outboundProfileLinks": [
+        "https://www.instagram.com/neosbatiment/"
+      ],
+      "backlink_count": null,
+      "GBP_independently_verified": false,
+      "AI_citations_measured": false
+    },
+    {
+      "url": "https://berkail.co/renovation-marseille",
+      "status": 200,
+      "title": "Entreprise de rénovation clé en main à Marseille - Noté 5/5 | Berkail",
+      "h1_count": 1,
+      "h2_count": 17,
+      "schemaTypes": [],
+      "outboundProfileLinks": [
+        "https://www.instagram.com/berkail.co",
+        "https://www.linkedin.com/company/berkail-co"
+      ],
+      "backlink_count": null,
+      "GBP_independently_verified": false,
+      "AI_citations_measured": false
+    },
+    {
+      "url": "https://kreativrenovation.fr/nos-services/",
+      "status": 200,
+      "title": "Nos Services — Rénovation TCE Marseille | Kreat'iv Rénovation",
+      "h1_count": 1,
+      "h2_count": 3,
+      "schemaTypes": [
+        "Article",
+        "GeoCoordinates",
+        "HomeAndConstructionBusiness",
+        "ImageObject",
+        "Organization",
+        "Person",
+        "Place",
+        "PostalAddress",
+        "WebPage",
+        "WebSite"
+      ],
+      "outboundProfileLinks": [],
+      "backlink_count": null,
+      "GBP_independently_verified": false,
+      "AI_citations_measured": false
+    },
+    {
+      "url": "https://www.arni.fr/gros-oeuvre/",
+      "status": 200,
+      "title": "Travaux de Gros Oeuvre à Marseille | ARNI",
+      "h1_count": 1,
+      "h2_count": 8,
+      "schemaTypes": [
+        "Article",
+        "ImageObject",
+        "LocalBusiness",
+        "Organization",
+        "Person",
+        "Place",
+        "PostalAddress",
+        "WebPage",
+        "WebSite"
+      ],
+      "outboundProfileLinks": [],
+      "backlink_count": null,
+      "GBP_independently_verified": false,
+      "AI_citations_measured": false
+    },
+    {
+      "url": "https://lanteaume.com/second-oeuvre-marseille/",
+      "status": 200,
+      "title": "Lanteaume - Découvrez nos projets de rénovation",
+      "h1_count": 1,
+      "h2_count": 1,
+      "schemaTypes": [],
+      "outboundProfileLinks": [
+        "https://maps.app.goo.gl/EkFHzYUGmK1q9mYF8",
+        "https://www.facebook.com/profile.php?id=61556074773393&locale=fr_FR",
+        "https://www.linkedin.com/company/entreprise-lanteaume/posts/?feedView=all",
+        "https://www.instagram.com/entreprise.lanteaume/"
+      ],
+      "backlink_count": null,
+      "GBP_independently_verified": false,
+      "AI_citations_measured": false
+    },
+    {
+      "url": "https://progineer.fr/prestations/rehabilitation/marseille/",
+      "status": 200,
+      "title": "Réhabilitation immeuble Marseille | Rénovation lourde & ABF",
+      "h1_count": 1,
+      "h2_count": 32,
+      "schemaTypes": [
+        "Answer",
+        "BreadcrumbList",
+        "City",
+        "ContactPoint",
+        "FAQPage",
+        "GeoCircle",
+        "GeoCoordinates",
+        "ImageObject",
+        "ListItem",
+        "Offer",
+        "OfferCatalog",
+        "OpeningHoursSpecification",
+        "Organization",
+        "Place",
+        "PostalAddress",
+        "ProfessionalService",
+        "Question",
+        "Service",
+        "State",
+        "WebSite"
+      ],
+      "outboundProfileLinks": [
+        "https://www.facebook.com/people/Progineer-Ma%C3%AEtrise-Doeuvre/61572478063277/",
+        "https://www.instagram.com/progineer_moe/",
+        "https://www.linkedin.com/company/progineer"
+      ],
+      "backlink_count": null,
+      "GBP_independently_verified": false,
+      "AI_citations_measured": false
+    },
+    {
+      "url": "https://renov13.com/renovation-appartement-marseille/",
+      "status": 200,
+      "title": "Rénovation Appartement à Marseille 13000 – Renov13 | Entreprise de rénovation (13)",
+      "h1_count": 1,
+      "h2_count": 17,
+      "schemaTypes": [
+        "AggregateRating",
+        "HomeAndConstructionBusiness",
+        "OpeningHoursSpecification",
+        "PostalAddress"
+      ],
+      "outboundProfileLinks": [],
+      "backlink_count": null,
+      "GBP_independently_verified": false,
+      "AI_citations_measured": false
+    }
+  ]
+}

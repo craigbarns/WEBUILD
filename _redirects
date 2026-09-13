@@ -2,3 +2,11 @@
 https://www.webuildmarseille.fr/* https://webuildmarseille.fr/:splat 301!
 http://www.webuildmarseille.fr/* https://webuildmarseille.fr/:splat 301!
 http://webuildmarseille.fr/* https://webuildmarseille.fr/:splat 301!
+
+# Explicit index aliases resolve to the same canonical URLs.
+/index.html / 301!
+
+# Keep operational documents out of the public site, including old URLs.
+/SEO-STRATEGIE.md /404.html 404!
+/WebuildHome.jsx /404.html 404!
+/docs/* /404.html 404!
