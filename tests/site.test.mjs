@@ -26,8 +26,18 @@ test('all pages have unique metadata, one H1, language and consistent graphs', (
         const entity = graph.find(n => n['@type'] === 'GeneralContractor');
         assert.equal(entity['@id'], config.origin + '/#organization');
         assert.equal(entity.areaServed.name, 'Marseille');
-        assert.equal(entity.address, undefined, 'Address must await verification');
-        assert.equal(entity.telephone, undefined, 'Contact must await verification');
+        assert.deepEqual(entity.address, { '@type': 'PostalAddress', streetAddress: '41 rue Fongate', postalCode: '13006', addressLocality: 'Marseille', addressCountry: 'FR' });
+        assert.equal(entity.telephone, '+33766018826');
+        assert.equal(entity.email, 'contact@webuildmarseille.fr');
+        assert.equal(entity.legalName, 'WEBUILD SAS');
+        assert.deepEqual(entity.identifier, { '@type': 'PropertyValue', propertyID: 'SIREN', value: '901806000' });
+        if ($('footer').length) {
+            assert.ok($('footer').text().includes('41 rue Fongate, 13006 Marseille'), `${route}: visible address matches the graph`);
+            assert.ok($('footer a[href="tel:+33766018826"]').length, `${route}: visible phone matches the graph`);
+            assert.ok($('footer a[href="mailto:contact@webuildmarseille.fr"]').length, `${route}: visible email matches the graph`);
+        }
+        assert.equal(entity.vatID, undefined, 'VAT number was not part of the owner confirmation');
+        assert.equal(entity.hasCredential, undefined, 'No qualification was confirmed');
         assert.equal(entity.sameAs, undefined, 'Profiles must await verification');
         assert.equal(entity.aggregateRating, undefined);
         assert.ok(!graph.some(n => n['@type'] === 'FAQPage'));

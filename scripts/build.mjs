@@ -26,6 +26,7 @@ const entity = {
 };
 // Never infer legal identifiers, contact details, addresses or external profiles.
 if (config.verifiedContact) Object.assign(entity, config.verifiedContact);
+if (config.verifiedLegalIdentity) Object.assign(entity, config.verifiedLegalIdentity);
 if (config.verifiedAddress) entity.address = { '@type': 'PostalAddress', ...config.verifiedAddress };
 if (config.verifiedSameAs.length) entity.sameAs = config.verifiedSameAs;
 

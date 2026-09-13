@@ -3,8 +3,24 @@
   "name": "WEBUILD",
   "entityDescription": "WEBUILD est une entreprise de travaux et rénovation à Marseille pour les propriétaires et investisseurs immobiliers.",
   "verifiedArea": "Marseille",
-  "verifiedContact": null,
-  "verifiedAddress": null,
+  "verifiedContact": {
+    "telephone": "+33766018826",
+    "email": "contact@webuildmarseille.fr"
+  },
+  "verifiedAddress": {
+    "streetAddress": "41 rue Fongate",
+    "postalCode": "13006",
+    "addressLocality": "Marseille",
+    "addressCountry": "FR"
+  },
+  "verifiedLegalIdentity": {
+    "legalName": "WEBUILD SAS",
+    "identifier": {
+      "@type": "PropertyValue",
+      "propertyID": "SIREN",
+      "value": "901806000"
+    }
+  },
   "verifiedSameAs": [],
   "pages": {
     "/renovation-marseille/": {

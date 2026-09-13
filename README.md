@@ -35,7 +35,7 @@ npm run lint
 npm test
 ```
 
-Enregistrer toute nouvelle page dans `site.config.json` et ajouter son maillage. Ne pas modifier `dist/` directement. Les coordonnées/profils JSON-LD restent absents jusqu’à validation de `verifiedContact`, `verifiedAddress` et `verifiedSameAs`. Mettre alors à jour les textes visibles et tests du registre de faits. Les réalisations attendent de vrais dossiers : [gabarit](docs/geo/FICHE-REALISATION.md).
+Enregistrer toute nouvelle page dans `site.config.json` et ajouter son maillage. Ne pas modifier `dist/` directement. Les champs `verifiedContact`, `verifiedAddress` et `verifiedLegalIdentity` reflètent la confirmation du propriétaire : WEBUILD SAS signe les devis et facture les travaux, SIREN 901806000, siège au 41 rue Fongate à Marseille et coordonnées officielles indiquées. Les profils `verifiedSameAs` restent vides en attente de vérification. Maintenir les textes visibles et les tests en cohérence avec ces données. Les réalisations attendent de vrais dossiers : [gabarit](docs/geo/FICHE-REALISATION.md).
 
 Outfit et Syne sont hébergées localement avec licences OFL dans `fonts/`. L’origine des photographies n’est pas confirmée : ne pas les attribuer à un chantier sans validation.
 

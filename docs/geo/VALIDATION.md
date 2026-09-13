@@ -19,7 +19,7 @@ Contrôles du 13 septembre 2026 sur `codex/geo-seo-marseille`. La production n�
 
 Résultats datés : [browser-check.json](browser-check.json). Captures dans `.artifacts/`, dossier local ignoré par Git. Ces tests ne constituent pas un audit d’accessibilité exhaustif sur tous les lecteurs d’écran et appareils.
 
-Le JSON-LD est contrôlé pour sa syntaxe, ses types attendus, ses identifiants, son rattachement aux pages et sa correspondance au contenu validé. Il n’a pas été soumis au validateur distant sur une URL déployée. GeneralContractor est le type retenu ; ses super-types couvrent Organization et LocalBusiness. Sans adresse vérifiée, ne pas revendiquer l’éligibilité à un enrichissement Google LocalBusiness. Aucun rating, avis, certificat ou profil non confirmé n’a été ajouté.
+Le JSON-LD est contrôlé pour sa syntaxe, ses types attendus, ses identifiants, son rattachement aux pages et sa correspondance au contenu validé. Il n’a pas été soumis au validateur distant sur une URL déployée. GeneralContractor est le type retenu ; ses super-types couvrent Organization et LocalBusiness. Le propriétaire a confirmé la société contractante WEBUILD SAS, le SIREN, l’adresse et les coordonnées : ces champs sont désormais intégrés. Cela ne garantit aucun résultat enrichi. Aucun rating, avis, certificat ou profil non confirmé n’a été ajouté.
 
 `llms.txt` est factuel et généré à partir des pages indexables. Il n’est ni un signal de classement démontré ni une condition nécessaire à la présence dans les réponses IA. Les FAQ restent visibles ; aucun bénéfice de résultat enrichi FAQ n’est promis. [Documentation Google des fonctions IA](https://developers.google.com/search/docs/appearance/ai-features), [mises à jour Search Central](https://developers.google.com/search/updates).
 
@@ -58,7 +58,7 @@ Après déploiement : contrôler accueil, nouvelles pages, variantes de domaine,
 
 ## Points à résoudre avant publication
 
-1. Confirmer société contractante, SIREN/SIRET/TVA, directeur de publication, adresse et contacts. L’audit explique le recoupement incomplet avec une société d’activité immobilière.
+1. Société contractante, SIREN, adresse, téléphone et email confirmés par le propriétaire et intégrés. Les autres mentions administratives historiques (SIRET/TVA, capital, immatriculation et directeur de publication) ne faisaient pas partie de cette confirmation et restent à relire.
 2. Valider les dossiers de chantiers et droits des photos. Les anciens chiffres et témoignages ont été retirés ; ne pas les rétablir sans preuve. Confirmer aussi le droit de conserver les images comme illustrations.
 3. Relire les mentions et compléter la politique de données selon les pratiques réelles : conservation, base de traitement, destinataires, pièces et prestataires. Aucune durée interne n’a été inventée.
 4. Vérifier la détection Forms et les notifications Netlify. Effectuer un test opérationnel identifié avec pièce jointe, constater la réception puis retirer le test. Limite navigateur : un JPG/PNG/PDF de 7 Mo ; contraintes du service à contrôler dans le compte. [Documentation Netlify Forms](https://docs.netlify.com/manage/forms/setup/).
