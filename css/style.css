@@ -877,6 +877,22 @@ footer a:hover { color: var(--tape); }
 .link-card p { color: var(--muted); font-size: .95rem; }
 
 /* NOTE ILLUSTRATION */
+.tarifs { display: grid; gap: 0; margin-top: 2.5rem; }
+.tarif { padding: 1.4rem 0; border-top: 1px solid var(--line); }
+.tarif strong {
+    display: block;
+    font-family: var(--display);
+    font-size: 1.55rem;
+    font-weight: 800;
+    letter-spacing: -0.02em;
+    margin-bottom: .25rem;
+}
+.tarif span { display: block; font-size: .88rem; font-weight: 600; margin-bottom: .4rem; }
+.tarif p { color: var(--muted); font-size: .92rem; max-width: 32rem; }
+@media (min-width: 900px) {
+    .tarifs { grid-template-columns: repeat(3, 1fr); gap: 2.5rem; }
+}
+
 .note {
     font-size: .85rem;
     color: var(--muted);
