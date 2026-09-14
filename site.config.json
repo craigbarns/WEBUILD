@@ -145,7 +145,7 @@
       "description": "WEBUILD, entreprise de travaux à Marseille : rénovation d’appartements et d’immeubles, maçonnerie, gros œuvre et projets pour propriétaires et investisseurs.",
       "kind": "home",
       "index": true,
-      "updated": "2026-09-13"
+      "updated": "2026-09-14"
     },
     "/a-propos/": {
       "title": "WEBUILD, entreprise de travaux à Marseille | À propos",
@@ -162,11 +162,11 @@
       "updated": "2026-09-13"
     },
     "/realisations/": {
-      "title": "Réalisations et illustrations de rénovation | WEBUILD",
-      "description": "Les éléments nécessaires pour documenter une réalisation WEBUILD : bien, travaux et photographies. Les visuels actuels sont des illustrations sans référence attribuée.",
+      "title": "Projets de rénovation et aménagements | WEBUILD",
+      "description": "Découvrez des aménagements d’appartements, de pièces d’eau et de bâtiments. Parlez de votre projet de rénovation à Marseille avec WEBUILD.",
       "kind": "page",
       "index": false,
-      "updated": "2026-09-13"
+      "updated": "2026-09-14"
     },
     "/mentions-legales/": {
       "title": "Mentions légales | WEBUILD Marseille",
