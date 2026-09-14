@@ -628,6 +628,7 @@ form.sheet {
 .fields { display: grid; gap: 1.1rem; }
 @media (min-width: 600px) { .two { grid-template-columns: 1fr 1fr; } }
 label { display: block; font-size: .85rem; font-weight: 600; margin-bottom: .4rem; }
+label .opt { font-weight: 400; color: var(--muted); font-size: .78rem; }
 input, select, textarea {
     width: 100%;
     background: var(--white);
