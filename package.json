@@ -1,0 +1,22 @@
+{
+  "name": "webuild-marseille",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "engines": {
+    "node": ">=22"
+  },
+  "scripts": {
+    "build": "node scripts/build.mjs",
+    "lint": "node scripts/lint.mjs",
+    "test": "node --test tests/*.test.mjs",
+    "test:browser": "node scripts/browser-check.mjs",
+    "preview": "node scripts/serve.mjs"
+  },
+  "devDependencies": {
+    "cheerio": "^1.2.0",
+    "html-validate": "^11.15.0",
+    "lighthouse": "^13.4.1",
+    "puppeteer-core": "^25.10.0"
+  }
+}
